@@ -1,0 +1,56 @@
+{
+    "株式会社リナート": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "株式会社JPM": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "株式会社ムゲンエステート": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "株式会社エフステージ": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "株式会社未来都市開発": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "株式会社シンプレックス・リアルティ": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "株式会社アークフェニックス": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "株式会社インテリックス": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "イタンジBB": {
+        "enabled": false,
+        "user_id": "",
+        "password": ""
+    },
+    "レインズ": {
+        "enabled": true,
+        "user_id": "",
+        "password": ""
+    },
+    "ielove": {
+        "user_id": "",
+        "password": ""
+    }
+}
