@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "グランディオス吹上",
+  "部屋番号": "204号室",
+  "交通": [
+    {
+      "路線名": "名古屋市営桜通線",
+      "駅名": "",
+      "徒歩時間": 6
+    }
+  ],
+  "所在地": "愛知県名古屋市昭和区曙町3丁目15",
+  "間取り": "4LDK+WIC",
+  "面積": 85.37,
+  "建築年月": "1997年2月",
+  "価格": 3499,
+  "オススメ情報": [
+    "売マンショングランディオス吹上　204号室\n      新規リノベーション物件オートロック付通風良好全室採光有WIC付\n      \n\n\t\t更新日：2025/3/10次更新：2023/6/26-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名古屋市営桜通線　吹上　徒歩：6分\n\t\t\t\t\t愛知県名古屋市昭和区曙町3丁目15\n\t\t\t\t\t4LDK+WIC\n\t\t\t\t\t85.37㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年2月\n\t\t\t\t\t3,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2023-4-27',\n\t\tendDate : '2023-6-24',\n\t\tid : '06455'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/ab34c71c2a453d3d8074782a39a31fe4.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "06455/ab34c71c2a453d3d8074782a39a31fe4.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/a5c7c1ac91bded5b084fdbfd42578451.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/a5c7c1ac91bded5b084fdbfd42578451.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/4b011dc826dfb8a2a066fe48c64b2e6b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/4b011dc826dfb8a2a066fe48c64b2e6b.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/74278a68d6e3d5f358477cfcac257f89.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/74278a68d6e3d5f358477cfcac257f89.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/dc2d98e07b13410d38aad7897a6cc1b2.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/dc2d98e07b13410d38aad7897a6cc1b2.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/9428c24a45cc47aede6ee21959b1a8dc.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/9428c24a45cc47aede6ee21959b1a8dc.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/d3bf1b6a308326d5def562bbc8e2d525.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/d3bf1b6a308326d5def562bbc8e2d525.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/379c8b79456e8ecc3968a101f36fec94.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/379c8b79456e8ecc3968a101f36fec94.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/551a1a48a5ef5c77781f568e4f3538ad.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/551a1a48a5ef5c77781f568e4f3538ad.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/648fb803b0f1c/b7343d2645fb4af8854616a154f5dea6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06455/b7343d2645fb4af8854616a154f5dea6.jpg"
+    }
+  ],
+  "物件ID": "06455",
+  "ステータス": "有効"
+}

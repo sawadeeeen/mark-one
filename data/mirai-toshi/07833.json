@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "東新宿レジデンシャルタワー",
+  "部屋番号": "904号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "東京都新宿区歌舞伎町2丁目4-14",
+  "間取り": "2LDK+WIC",
+  "面積": 61.36,
+  "建築年月": "2001年2月",
+  "価格": 12499,
+  "オススメ情報": [
+    "売マンション東新宿レジデンシャルタワー　904号室\n      新規リノベーション物件駅徒歩1分圏内ペット飼育可(細則有)宅配BOX有大規模レジデンス\n      \n\n\t\t更新日：2025/3/31次更新：2025/4/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ副都心線、都営大江戸線　東新宿　徒歩：1分\n\t\t\t\t\t東京都新宿区歌舞伎町2丁目4-14\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t61.36㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2001年2月\n\t\t\t\t\t12,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-10',\n\t\tendDate : '2025-6-6',\n\t\tid : '07833'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/8e1d3272fd6c2cd8d1e092e77fd5a44e.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07833/8e1d3272fd6c2cd8d1e092e77fd5a44e.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/b02f651931235d3f72d1b451afa70773.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07833/b02f651931235d3f72d1b451afa70773.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/5199af721b593e292596fa6ec3d24a0e.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07833/5199af721b593e292596fa6ec3d24a0e.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/744358173f086ed4e0c49d8b894207d1.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07833/744358173f086ed4e0c49d8b894207d1.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/b93406c38517de2d4a01a472b0705751.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07833/b93406c38517de2d4a01a472b0705751.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/1f2d0962ee3b71cb3fb9dcc40f2fbf38.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07833/1f2d0962ee3b71cb3fb9dcc40f2fbf38.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/62d5f5274e442fcd010f2b13860fa6bc.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07833/62d5f5274e442fcd010f2b13860fa6bc.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79f852b9c2/9cd0228c14a799f0992e110f375e38e5.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07833/9cd0228c14a799f0992e110f375e38e5.jpg"
+    }
+  ],
+  "物件ID": "07833",
+  "ステータス": "有効"
+}

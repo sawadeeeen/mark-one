@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "レーベンハイム所沢",
+  "部屋番号": "1002号室",
+  "交通": [
+    {
+      "路線名": "西武狭山線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "埼玉県所沢市金山町14-14",
+  "間取り": "1SLDK",
+  "面積": 51.59,
+  "建築年月": "1997年2月",
+  "価格": 2999,
+  "オススメ情報": [
+    "売マンションレーベンハイム所沢　1002号室\n      新規リフォーム物件複数路線利用可オートロック付宅配BOX有眺望良好\n      \n\n\t\t更新日：2025/5/19次更新：2025/3/8-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武池袋線、西武狭山線　西所沢　徒歩：7分\n\t\t\t\t\t埼玉県所沢市金山町14-14\n\t\t\t\t\t1SLDK\n\t\t\t\t\t51.59㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年2月\n\t\t\t\t\t2,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-19',\n\t\tendDate : '2025-5-30',\n\t\tid : '07888'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c279fab9dd4/61f1b1172022e7ded8b921b42afb8006.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07888/61f1b1172022e7ded8b921b42afb8006.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c279fab9dd4/d348dc17a92f1325dc0e8de00944c352.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07888/d348dc17a92f1325dc0e8de00944c352.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c279fab9dd4/bbc04a36ca32dc6fbdaec2f334d0c78d.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07888/bbc04a36ca32dc6fbdaec2f334d0c78d.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c279fab9dd4/844fe478a4e1908e041683038b5853df.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07888/844fe478a4e1908e041683038b5853df.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c279fab9dd4/3a7a365c6b3bb0bdf9fec470a61cd87d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07888/3a7a365c6b3bb0bdf9fec470a61cd87d.jpg"
+    }
+  ],
+  "物件ID": "07888",
+  "ステータス": "有効"
+}

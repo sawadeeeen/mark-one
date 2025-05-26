@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "トーア早稲田マンション",
+  "部屋番号": "706号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ副都心線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "東京都新宿区大久保3丁目14-3",
+  "間取り": "2DK",
+  "面積": 43.33,
+  "建築年月": "1978年9月",
+  "価格": 5199,
+  "オススメ情報": [
+    "売マンショントーア早稲田マンション　706号室\n      新規リノベーション物件 ペット飼育可 (細則有) 駅徒歩1分 3駅5路線利用可 山手線徒歩圏内\n      \n\n\t\t更新日：2025/5/9次更新：2025/3/20-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ副都心線　西早稲田　徒歩：1分\n\t\t\t\t\t東京都新宿区大久保3丁目14-3\n\t\t\t\t\t2DK\n\t\t\t\t\t43.33㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1978年9月\n\t\t\t\t\t5,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-14',\n\t\tendDate : '2025-6-30',\n\t\tid : '07969'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d2628d50da7/101e65eb8423b52bad9fa8ee5078ecd6.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07969/101e65eb8423b52bad9fa8ee5078ecd6.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d2628d50da7/c58e0a3f252a1e2590afaaadb21de9d3.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07969/c58e0a3f252a1e2590afaaadb21de9d3.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d2628d50da7/2702f3c29f19614eff7f9eecb0ef9397.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07969/2702f3c29f19614eff7f9eecb0ef9397.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d2628d50da7/273c775766e66591ae58a0b40371f035.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07969/273c775766e66591ae58a0b40371f035.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d2628d50da7/aa381669a7bb079b2cc140db0c412b15.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07969/aa381669a7bb079b2cc140db0c412b15.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d2628d50da7/9aa49d0dcdbda9113d0a8ac112fa56ca.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07969/9aa49d0dcdbda9113d0a8ac112fa56ca.jpg"
+    }
+  ],
+  "物件ID": "07969",
+  "ステータス": "有効"
+}

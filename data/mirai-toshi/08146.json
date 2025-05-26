@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ファミール日本橋浜町グランスイート",
+  "部屋番号": "1204号室",
+  "交通": [
+    {
+      "路線名": "都営新宿線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "東京都中央区日本橋浜町1丁目4-14",
+  "間取り": "2LDK",
+  "面積": 51.34,
+  "建築年月": "2003年1月",
+  "価格": 12280,
+  "オススメ情報": [
+    "売マンションファミール日本橋浜町グランスイート　1204号室\n      新規リノベーション物件新耐震基準(2003年築)オートロック付宅配BOX有フロントサービス有\n      \n\n\t\t更新日：2025/4/24次更新：2025/4/29-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営新宿線　浜町　徒歩：1分\n\t\t\t\t\t東京都中央区日本橋浜町1丁目4-14\n\t\t\t\t\t2LDK\n\t\t\t\t\t51.34㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2003年1月\n\t\t\t\t\t12,280万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08146'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/1d48cf32d8c9802d29f5cd1a1cd24275.png",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08146/1d48cf32d8c9802d29f5cd1a1cd24275.png"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/833a6ae24cd9ea1b6d26d7deefaaded2.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08146/833a6ae24cd9ea1b6d26d7deefaaded2.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/ec1f6ced926552ee76facb8bf77dc0e4.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08146/ec1f6ced926552ee76facb8bf77dc0e4.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/9aac48f63ddb27054930b10b69e83e6a.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08146/9aac48f63ddb27054930b10b69e83e6a.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/17c9836d842326b9d6232b57e7f44736.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "08146/17c9836d842326b9d6232b57e7f44736.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/230446e00a5dd01e9dfb9bce89525449.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08146/230446e00a5dd01e9dfb9bce89525449.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/250a3224b525d0a465a170c28502e55b.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08146/250a3224b525d0a465a170c28502e55b.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/5a46b0da8ff47cdaa2e2c4b452f49ba0.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08146/5a46b0da8ff47cdaa2e2c4b452f49ba0.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/932d4023b720cf3463319e27f1c82969.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08146/932d4023b720cf3463319e27f1c82969.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680742c429f33/52afe960961bd756722a878644f784dd.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08146/52afe960961bd756722a878644f784dd.jpg"
+    }
+  ],
+  "物件ID": "08146",
+  "ステータス": "有効"
+}

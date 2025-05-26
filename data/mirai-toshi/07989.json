@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "クレアシティ鷺洲公園",
+  "部屋番号": "202号室",
+  "交通": [
+    {
+      "路線名": "阪神本線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "大阪府大阪市福島区鷺洲2丁目5-2",
+  "間取り": "2LDK+WIC",
+  "面積": 62.64,
+  "建築年月": "2001年10月",
+  "価格": 5399,
+  "オススメ情報": [
+    "売マンションクレアシティ鷺洲公園　202号室\n      新規リノベーション物件複数路線利用可ペット飼育可(細則有)トランクルーム有オートロック付\n      \n\n\t\t更新日：2025/5/15次更新：2025/5/2-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t阪神本線　野田　徒歩：9分\n\t\t\t\t\t大阪府大阪市福島区鷺洲2丁目5-2\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t62.64㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2001年10月\n\t\t\t\t\t5,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-5-7',\n\t\tendDate : '2025-6-30',\n\t\tid : '07989'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b04a57cf8c/d592752f377acb5bb486cbc0c1b4b9ca.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07989/d592752f377acb5bb486cbc0c1b4b9ca.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b04a57cf8c/8ccdd32029ea37b058c7e55b44e8342c.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07989/8ccdd32029ea37b058c7e55b44e8342c.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b04a57cf8c/dc027cd6fbc9115ce0e8394696281f18.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07989/dc027cd6fbc9115ce0e8394696281f18.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b04a57cf8c/bf12c362492b1bf6a13e1b7b23d0a808.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07989/bf12c362492b1bf6a13e1b7b23d0a808.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b04a57cf8c/dd3a6258ecda909d7231a15f52549aec.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07989/dd3a6258ecda909d7231a15f52549aec.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b04a57cf8c/cfc2f0ab463f882c0e5addde068b350b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07989/cfc2f0ab463f882c0e5addde068b350b.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b04a57cf8c/e06eeedaf1ade80698df495be5957749.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07989/e06eeedaf1ade80698df495be5957749.jpg"
+    }
+  ],
+  "物件ID": "07989",
+  "ステータス": "有効"
+}

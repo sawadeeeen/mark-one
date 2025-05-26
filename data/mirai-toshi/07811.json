@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "マックスタワーレジデンス千葉",
+  "部屋番号": "501号室",
+  "交通": [
+    {
+      "路線名": "京成千原線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "千葉県千葉市中央区神明町205-1",
+  "間取り": "3LDK",
+  "面積": 82.16,
+  "建築年月": "2010年1月",
+  "価格": 5799,
+  "オススメ情報": [
+    "売マンションマックスタワーレジデンス千葉　501号室\n      新規リノベーション物件ペット飼育可(1住戸2匹まで可・細則有)角部屋眺望・陽当たり良好長期修繕計画有\n      \n\n\t\t更新日：2025/2/14次更新：2025/2/21-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京成千葉線、京成千原線　千葉中央　徒歩：5分\n\t\t\t\t\t千葉県千葉市中央区神明町205-1\n\t\t\t\t\t3LDK\n\t\t\t\t\t82.16㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2010年1月\n\t\t\t\t\t5,799万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07811'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67aebe42371b1/cd3b8bac4a7a39c7cc74a8f443019381.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07811/cd3b8bac4a7a39c7cc74a8f443019381.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67aebe42371b1/607ff316504935af79f16af883bd83cd.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07811/607ff316504935af79f16af883bd83cd.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67aebe42371b1/5c7bcce2454a8458fc23d7b53a25e37b.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07811/5c7bcce2454a8458fc23d7b53a25e37b.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67aebe42371b1/82878846b7219ad96327ad1baf4e636d.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07811/82878846b7219ad96327ad1baf4e636d.jpg"
+    }
+  ],
+  "物件ID": "07811",
+  "ステータス": "有効"
+}

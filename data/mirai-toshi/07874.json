@@ -1,0 +1,41 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シティタワー葵",
+  "部屋番号": "1919号室",
+  "交通": [
+    {
+      "路線名": "名古屋市営地下鉄東山線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "愛知県名古屋市東区葵1丁目2-20",
+  "間取り": "3LDK+WIC",
+  "面積": 70.15,
+  "建築年月": "2020年12月",
+  "価格": 6699,
+  "オススメ情報": [
+    "売マンションシティタワー葵　1919号室\n      新規リフォーム物件新耐震基準駅徒歩5分圏内三方角部屋眺望・通風良好\n      \n\n\t\t更新日：2025/3/25次更新：2024/12/23-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名古屋市営地下鉄東山線　新栄町　徒歩：4分\n\t\t\t\t\t愛知県名古屋市東区葵1丁目2-20\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t70.15㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2020年12月\n\t\t\t\t\t6,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-1-6',\n\t\tendDate : '2025-1-9',\n\t\tid : '07874'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675fe33dd499d/73791d378d645d4657a819b342931740.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07874/73791d378d645d4657a819b342931740.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675fe33dd499d/e37b11b3cdad00ab3dfadd78f9899fec.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07874/e37b11b3cdad00ab3dfadd78f9899fec.jpg"
+    }
+  ],
+  "物件ID": "07874",
+  "ステータス": "有効"
+}

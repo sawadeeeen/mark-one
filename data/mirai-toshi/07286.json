@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "カムザ・スクエア八千代緑が丘エスタシオン",
+  "部屋番号": "1105号室",
+  "交通": [
+    {
+      "路線名": "東葉高速線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "千葉県八千代市緑が丘1丁目4-1",
+  "間取り": "3LDK",
+  "面積": 69.43,
+  "建築年月": "1996年5月",
+  "価格": 3799,
+  "オススメ情報": [
+    "売マンションカムザ・スクエア八千代緑が丘エスタシオン　1105号室\n      新規リノベーション物件駅直結大規模レジデンスペット飼育可（細則有）野村不動産旧分譲\n      \n\n\t\t更新日：2025/3/31次更新：2024/4/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東葉高速線　八千代緑が丘　徒歩：1分\n\t\t\t\t\t千葉県八千代市緑が丘1丁目4-1\n\t\t\t\t\t3LDK\n\t\t\t\t\t69.43㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1996年5月\n\t\t\t\t\t3,799万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-4-25',\n\t\tendDate : '2024-7-9',\n\t\tid : '07286'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/e7fb70abf0267b254dd59b2e61ae8f95.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07286/e7fb70abf0267b254dd59b2e61ae8f95.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/ad52ffdbfe1dd1c6b7a7832c5629e034.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07286/ad52ffdbfe1dd1c6b7a7832c5629e034.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/08531eea9ff1b3822bf23417b087c7c2.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07286/08531eea9ff1b3822bf23417b087c7c2.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/2fc35e23937cd1c009ec112d0020155d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/2fc35e23937cd1c009ec112d0020155d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/05bddc96c37ef347de969e56f9fd98a6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/05bddc96c37ef347de969e56f9fd98a6.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/d689892b0839b5f65765b707d1b20f54.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/d689892b0839b5f65765b707d1b20f54.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/c82be90ad3b51c7985cfda62bbcf5d0c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/c82be90ad3b51c7985cfda62bbcf5d0c.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/0b9cb9a0a2c88fb79848d69901ab80b2.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/0b9cb9a0a2c88fb79848d69901ab80b2.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/e16e672f9c5f268416fa789a1b896e10.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/e16e672f9c5f268416fa789a1b896e10.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/de7c815aaf240eace1a6e494acebe9ec.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/de7c815aaf240eace1a6e494acebe9ec.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/08f29e48fc18d7f2f83e6f38430f4422.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/08f29e48fc18d7f2f83e6f38430f4422.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6613817c8d9e8/0f464b1420ba8649c3d956fdaf22c23c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07286/0f464b1420ba8649c3d956fdaf22c23c.jpg"
+    }
+  ],
+  "物件ID": "07286",
+  "ステータス": "有効"
+}

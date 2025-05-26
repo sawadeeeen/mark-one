@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "芝公園アビタシオン",
+  "部屋番号": "309号室",
+  "交通": [
+    {
+      "路線名": "都営三田線",
+      "駅名": "",
+      "徒歩時間": 2
+    }
+  ],
+  "所在地": "東京都港区芝公園2丁目6-11",
+  "間取り": "2LDK",
+  "面積": 45.8,
+  "建築年月": "1979年1月",
+  "価格": 6999,
+  "オススメ情報": [
+    "売マンション芝公園アビタシオン　309号室\n      新規リノベーション物件複数路線利用可山手線内側エリア夜間オートロック付修繕積立金総額1億円超\n      \n\n\t\t更新日：2025/3/14次更新：2025/3/10-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営三田線　芝公園　徒歩：2分\n\t\t\t\t\t東京都港区芝公園2丁目6-11\n\t\t\t\t\t2LDK\n\t\t\t\t\t45.8㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1979年1月\n\t\t\t\t\t6,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-2-26',\n\t\tendDate : '2025-5-22',\n\t\tid : '07862'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c53291dcd52/72df2b41904b486cb25b21582b568d9f.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07862/72df2b41904b486cb25b21582b568d9f.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c53291dcd52/a5c98bcb931057b50add1cf28376e8ef.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07862/a5c98bcb931057b50add1cf28376e8ef.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c53291dcd52/f63c5600c7f80a5bbc0b3305578187f2.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07862/f63c5600c7f80a5bbc0b3305578187f2.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c53291dcd52/be407370e2840c2cfbe595558dc61a3a.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07862/be407370e2840c2cfbe595558dc61a3a.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c53291dcd52/1fd849127c4dff823696303995d67352.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07862/1fd849127c4dff823696303995d67352.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c53291dcd52/db7427c9ec103884236e62b93d4042b7.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07862/db7427c9ec103884236e62b93d4042b7.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c53291dcd52/cca0fff1870f7259eeb3fddb5c6ed717.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07862/cca0fff1870f7259eeb3fddb5c6ed717.jpg"
+    }
+  ],
+  "物件ID": "07862",
+  "ステータス": "有効"
+}

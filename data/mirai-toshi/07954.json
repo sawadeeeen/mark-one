@@ -1,0 +1,90 @@
+{
+  "物件種別": "マンション",
+  "建物名": "クレストシティレジデンス",
+  "部屋番号": "1329号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "東京都中央区勝どき5丁目5-14",
+  "間取り": "3LDK",
+  "面積": 77.14,
+  "建築年月": "2007年2月",
+  "価格": 14499,
+  "オススメ情報": [
+    "売マンションクレストシティレジデンス　1329号室\n      新規リノベーション物件大規模レジデンス駅徒歩7分眺望良好13階角部屋\n      \n\n\t\t更新日：2025/5/8次更新：2025/5/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営大江戸線　勝どき　徒歩：7分\n\t\t\t\t\t東京都中央区勝どき5丁目5-14\n\t\t\t\t\t3LDK\n\t\t\t\t\t77.14㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2007年2月\n\t\t\t\t\t14,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07954'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/85f3e59529aed38efd6eea1220bcbedb.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07954/85f3e59529aed38efd6eea1220bcbedb.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/66193d2398b641771f8d45f518929316.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07954/66193d2398b641771f8d45f518929316.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/60b7747b2f8e5189a716b0dbccb804e3.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07954/60b7747b2f8e5189a716b0dbccb804e3.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/600e27fec61846c16221f1fcde56ad0f.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07954/600e27fec61846c16221f1fcde56ad0f.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/ca0cd0027fb3d17fccf2ae496509d476.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07954/ca0cd0027fb3d17fccf2ae496509d476.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/2192913d585f6f6dfb6e552ea467da8e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07954/2192913d585f6f6dfb6e552ea467da8e.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/104d93816a062d417c2c8674bff8ee61.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07954/104d93816a062d417c2c8674bff8ee61.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/db29426ec8bc75c34edd582d5f7d3b07.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07954/db29426ec8bc75c34edd582d5f7d3b07.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c631e451d3/b481f500ad3944968f5cf551389ad012.jpg",
+      "alt": "画像",
+      "caption": "",
+      "saved_path": "07954/b481f500ad3944968f5cf551389ad012.jpg"
+    }
+  ],
+  "物件ID": "07954",
+  "ステータス": "有効"
+}

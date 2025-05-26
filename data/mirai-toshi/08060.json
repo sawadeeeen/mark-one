@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "上野永谷タウンプラザ",
+  "部屋番号": "612号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ日比谷線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都台東区台東4丁目29-15",
+  "間取り": "1K",
+  "面積": 20.05,
+  "建築年月": "1978年8月",
+  "価格": 2499,
+  "オススメ情報": [
+    "売マンション上野永谷タウンプラザ　612号室\n      新規リノベーション物件 複数路線利用可 駅徒歩4分 外壁タイル貼 管理体制良好\n      \n\n\t\t更新日：2025/4/28次更新：2025/5/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ日比谷線　仲御徒町　徒歩：4分\n\t\t\t\t\t東京都台東区台東4丁目29-15\n\t\t\t\t\t1K\n\t\t\t\t\t20.05㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1978年8月\n\t\t\t\t\t2,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08060'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c81b9ecba6/74725dfd72c42f6c2fac9a1e6d3f21c1.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08060/74725dfd72c42f6c2fac9a1e6d3f21c1.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c81b9ecba6/6f4e6f963eab93974b41120470a92f66.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08060/6f4e6f963eab93974b41120470a92f66.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c81b9ecba6/512af919e3d6e82e9a134f2b10f90644.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08060/512af919e3d6e82e9a134f2b10f90644.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c81b9ecba6/d1964bb1dc34648f1220127a1be2b1ae.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08060/d1964bb1dc34648f1220127a1be2b1ae.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c81b9ecba6/96127c464b8401fac677d80c8e161bc8.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08060/96127c464b8401fac677d80c8e161bc8.jpg"
+    }
+  ],
+  "物件ID": "08060",
+  "ステータス": "有効"
+}

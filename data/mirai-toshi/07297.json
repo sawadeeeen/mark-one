@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ラークヒルマンション",
+  "部屋番号": "201号室",
+  "交通": [
+    {
+      "路線名": "JR南武線",
+      "駅名": "",
+      "徒歩時間": 6
+    }
+  ],
+  "所在地": "東京都立川市羽衣町2丁目6-4",
+  "間取り": "2LDK",
+  "面積": 46.33,
+  "建築年月": "1994年6月",
+  "価格": 2199,
+  "オススメ情報": [
+    "売マンションラークヒルマンション　201号室\n      新規リノベーション物件新耐震基準角部屋オートロック付ペット飼育可(犬のみ可)\n      \n\n\t\t更新日：2025/3/10次更新：2024/5/16-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR南武線　西国立　徒歩：6分\n\t\t\t\t\t東京都立川市羽衣町2丁目6-4\n\t\t\t\t\t2LDK\n\t\t\t\t\t46.33㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1994年6月\n\t\t\t\t\t2,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-5-13',\n\t\tendDate : '2024-7-26',\n\t\tid : '07297'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/77d86fba00810a645caf0902c0809842.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07297/77d86fba00810a645caf0902c0809842.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/9b8c99c5010ce6f4eae6c3c944f3e712.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/9b8c99c5010ce6f4eae6c3c944f3e712.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/bc7e7bf186131d04ffc2ca7bef3adffa.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/bc7e7bf186131d04ffc2ca7bef3adffa.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/19d39b9601d7d3070d79bdc7dc1d2948.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/19d39b9601d7d3070d79bdc7dc1d2948.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/04dc7652864cb6261f6b6724d862cac7.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/04dc7652864cb6261f6b6724d862cac7.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/eccb1fc2f4dfed9e1c11ad48673be779.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/eccb1fc2f4dfed9e1c11ad48673be779.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/c244c4de0d1bcc8417b66a0b88a1bec8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/c244c4de0d1bcc8417b66a0b88a1bec8.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/ede38e28bb2a5ee5114ff325e2adae21.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/ede38e28bb2a5ee5114ff325e2adae21.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/c2183c4a64ce62e3d617956afb09f09a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/c2183c4a64ce62e3d617956afb09f09a.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/f955e5b8bb9feaf781cc94f9fc943d59.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/f955e5b8bb9feaf781cc94f9fc943d59.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/e7327595e95644ef974f1ddd0ae26657.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/e7327595e95644ef974f1ddd0ae26657.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/663c75256a33b/9990bed0afd30bf77af980da09a570bf.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07297/9990bed0afd30bf77af980da09a570bf.jpg"
+    }
+  ],
+  "物件ID": "07297",
+  "ステータス": "有効"
+}

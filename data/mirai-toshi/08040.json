@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "グーディッシュ北小金",
+  "部屋番号": "502号室",
+  "交通": [
+    {
+      "路線名": "JR常磐線",
+      "駅名": "",
+      "徒歩時間": 10
+    }
+  ],
+  "所在地": "千葉県松戸市根木内11-11",
+  "間取り": "3LDK",
+  "面積": 75.52,
+  "建築年月": "2006年2月",
+  "価格": 3599,
+  "オススメ情報": [
+    "売マンショングーディッシュ北小金　502号室\n      新規リノベーション物件オートロック付宅配BOX有防犯カメラ有外壁タイル貼\n      \n\n\t\t更新日：2025/4/25次更新：2025/5/1-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR常磐線　北小金　徒歩：10分\n\t\t\t\t\t千葉県松戸市根木内11-11\n\t\t\t\t\t3LDK\n\t\t\t\t\t75.52㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2006年2月\n\t\t\t\t\t3,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08040'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809e2342efbc/46e06d4ad0f30f6c09a357d8f94e7ec2.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08040/46e06d4ad0f30f6c09a357d8f94e7ec2.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809e2342efbc/5b33a09a75ba8be31ef7b43c5a317fa9.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08040/5b33a09a75ba8be31ef7b43c5a317fa9.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809e2342efbc/1bf49061bcc5a5bc161acf7fc63709e6.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08040/1bf49061bcc5a5bc161acf7fc63709e6.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809e2342efbc/ab7521feb8fb31ff04f7d06aea39cd47.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08040/ab7521feb8fb31ff04f7d06aea39cd47.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809e2342efbc/fbb95aeed664e022c0165286dd8e0cf4.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08040/fbb95aeed664e022c0165286dd8e0cf4.jpg"
+    }
+  ],
+  "物件ID": "08040",
+  "ステータス": "有効"
+}

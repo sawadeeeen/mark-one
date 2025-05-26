@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "クレアホームズ千葉センタークロス",
+  "部屋番号": "702号室",
+  "交通": [
+    {
+      "路線名": "千葉都市モノレール",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "千葉県千葉市中央区中央1丁目1-14",
+  "間取り": "3LDK",
+  "面積": 70.84,
+  "建築年月": "2019年1月",
+  "価格": 6299,
+  "オススメ情報": [
+    "売マンションクレアホームズ千葉センタークロス　702号室\n      新規リノベーション物件複数路線利用可駅徒歩4分陽当り良好眺望良好\n      \n\n\t\t更新日：2025/5/16次更新：2025/5/20-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t千葉都市モノレール　葭川公園　徒歩：4分\n\t\t\t\t\t千葉県千葉市中央区中央1丁目1-14\n\t\t\t\t\t3LDK\n\t\t\t\t\t70.84㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2019年1月\n\t\t\t\t\t6,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08081'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6822fa9ef2bf5/eccf08480ed018a14b9e419ec1e9c2d2.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08081/eccf08480ed018a14b9e419ec1e9c2d2.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6822fa9ef2bf5/4e9ed0fa4ece3fb38e1408d2204d13f1.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08081/4e9ed0fa4ece3fb38e1408d2204d13f1.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6822fa9ef2bf5/3da8c8af61b48c8dded96ffad6608147.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08081/3da8c8af61b48c8dded96ffad6608147.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6822fa9ef2bf5/894b00ab4fbd1928407f62d44c1c8b96.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08081/894b00ab4fbd1928407f62d44c1c8b96.jpg"
+    }
+  ],
+  "物件ID": "08081",
+  "ステータス": "有効"
+}

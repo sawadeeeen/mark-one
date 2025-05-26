@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ダイアパレス花小金井Ⅱ",
+  "部屋番号": "703号室",
+  "交通": [
+    {
+      "路線名": "西武多摩湖線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "東京都小平市鈴木町1丁目152-4",
+  "間取り": "4LDK",
+  "面積": 78.9,
+  "建築年月": "2005年3月",
+  "価格": 3799,
+  "オススメ情報": [
+    "売マンションダイアパレス花小金井Ⅱ　703号室\n      新規リフォーム物件ペット飼育可(2匹・細則有)ペット足洗い場有オートロック付宅配BOX有\n      \n\n\t\t更新日：2025/5/12次更新：2024/10/4-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR中央本線、西武国分寺線、西武多摩湖線　国分寺　バス：18分「共済住宅」バス停下車徒歩：3分\n\t\t\t\t\t東京都小平市鈴木町1丁目152-4\n\t\t\t\t\t4LDK\n\t\t\t\t\t78.9㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2005年3月\n\t\t\t\t\t3,799万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-11-5',\n\t\tendDate : '2024-12-18',\n\t\tid : '07699'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/dfc5081e9b23e4c2e808eb6c98874185.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07699/dfc5081e9b23e4c2e808eb6c98874185.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/1699e9351a1646910676f779cc4afc24.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/1699e9351a1646910676f779cc4afc24.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/d809419682e055cb37915e1dd9b178eb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/d809419682e055cb37915e1dd9b178eb.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/1b02b5004943c72c1eb59f7c9a096457.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/1b02b5004943c72c1eb59f7c9a096457.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/5ce737049a19d45982667105ff4342fb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/5ce737049a19d45982667105ff4342fb.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/a2ffac21ced477dfc7017f51b01c45be.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/a2ffac21ced477dfc7017f51b01c45be.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/95e01d54b858aef7dcfa8be0ae28bc0b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/95e01d54b858aef7dcfa8be0ae28bc0b.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/b7d5457efb5b312c837cc6283c2bee0b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/b7d5457efb5b312c837cc6283c2bee0b.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/d2056341f3419f18b6914efdc2d62d24.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/d2056341f3419f18b6914efdc2d62d24.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/9ff6dab75fc575c21b40e62e866c6c06.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/9ff6dab75fc575c21b40e62e866c6c06.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/1fd5e5e3954270370534eeea1f1704fa.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/1fd5e5e3954270370534eeea1f1704fa.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66f617c795401/ed79af63a01d116ad2e52f5c12d5e123.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07699/ed79af63a01d116ad2e52f5c12d5e123.jpg"
+    }
+  ],
+  "物件ID": "07699",
+  "ステータス": "有効"
+}

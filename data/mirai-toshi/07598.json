@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ネオマイム磯子",
+  "部屋番号": "407号室",
+  "交通": [
+    {
+      "路線名": "横浜線金沢シーサイドライン",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "神奈川県横浜市磯子区中原1丁目4-7",
+  "間取り": "3LDK+WIC",
+  "面積": 67.85,
+  "建築年月": "1991年1月",
+  "価格": 3699,
+  "オススメ情報": [
+    "売マンションネオマイム磯子　407号室\n      新規リフォーム物件オートロック付宅配BOX有新耐震基準複数路線利用可\n      \n\n\t\t更新日：2025/4/7次更新：2024/11/8-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t JR根岸線、横浜線金沢シーサイドライン　新杉田　徒歩：8分\n\t\t\t\t\t神奈川県横浜市磯子区中原1丁目4-7\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t67.85㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1991年1月\n\t\t\t\t\t3,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-11-4',\n\t\tendDate : '2024-11-23',\n\t\tid : '07598'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/e3bcf21bd28721db801aea02457c6132.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07598/e3bcf21bd28721db801aea02457c6132.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/ee000be008fac1cc19620846ecb7aace.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07598/ee000be008fac1cc19620846ecb7aace.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/b04e5072a96b35c5c820015d2e32939d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/b04e5072a96b35c5c820015d2e32939d.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/d6bd5fa490290d270c631b083c9f63cd.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/d6bd5fa490290d270c631b083c9f63cd.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/23ac98397ab8f323c595fd3de5289033.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/23ac98397ab8f323c595fd3de5289033.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/a9e5945a905e69b894f8a6445fdd71ad.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/a9e5945a905e69b894f8a6445fdd71ad.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/605882877cb6a6f46037fd029267f1e5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/605882877cb6a6f46037fd029267f1e5.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/9849987ffa2cc2b4fefb5a464d66c437.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/9849987ffa2cc2b4fefb5a464d66c437.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/0bbceb380dcd79e407ee09082236e160.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/0bbceb380dcd79e407ee09082236e160.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/1c56b5b6867257c22f6983fd6d0270a9.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/1c56b5b6867257c22f6983fd6d0270a9.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/41e55faba46e00989ded8569772375cf.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/41e55faba46e00989ded8569772375cf.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67242ee10d5ae/c2111ea2a256106b405bb7217e84c2d4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07598/c2111ea2a256106b405bb7217e84c2d4.jpg"
+    }
+  ],
+  "物件ID": "07598",
+  "ステータス": "有効"
+}

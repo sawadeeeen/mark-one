@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "東海ミタカマンション",
+  "部屋番号": "203号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ東西線直通",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都武蔵野市中町2丁目20-1",
+  "間取り": "2LDK",
+  "面積": 48.0,
+  "建築年月": "1972年11月",
+  "価格": 4099,
+  "オススメ情報": [
+    "売マンション東海ミタカマンション　203号室\n      新規リノベーション物件南西向き・陽当り良好防犯カメラ有全室エアコン設置可SIC新設\n      \n\n\t\t更新日：2025/4/7次更新：2024/11/8-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR中央総武線、中央線快速、東京メトロ東西線直通　三鷹　徒歩：4分\n\t\t\t\t\t東京都武蔵野市中町2丁目20-1\n\t\t\t\t\t2LDK\n\t\t\t\t\t48㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1972年11月\n\t\t\t\t\t4,099万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-12-2',\n\t\tendDate : '2025-2-26',\n\t\tid : '07636'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/e8a5b5b14801f62b86bdabf9a219ea8b.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07636/e8a5b5b14801f62b86bdabf9a219ea8b.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/01846444ba0ae4565700655d147648c0.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07636/01846444ba0ae4565700655d147648c0.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/3a26f3116305986ae4d65e3364790a44.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/3a26f3116305986ae4d65e3364790a44.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/92af03d518ad0a2ea781d40e77c90925.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/92af03d518ad0a2ea781d40e77c90925.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/93f6f1400abbe5f60563e13397750fb8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/93f6f1400abbe5f60563e13397750fb8.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/7facb5a05f26470d575b079fcad55605.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/7facb5a05f26470d575b079fcad55605.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/03039459027d2f00643c9fa76a594940.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/03039459027d2f00643c9fa76a594940.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/697d2bd37c9f324c74bf470b8cdce601.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/697d2bd37c9f324c74bf470b8cdce601.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/8e18032e5a99903c71ea2fb31b94665c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/8e18032e5a99903c71ea2fb31b94665c.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/6d9f200b1e1ec4da33c3df3df6afdfc4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/6d9f200b1e1ec4da33c3df3df6afdfc4.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/7f70be0c1d7c3618bbf7f63243ccb7cc.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/7f70be0c1d7c3618bbf7f63243ccb7cc.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67243a24ee689/9e24dccc60045ebba4b2c08d9687b8a8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07636/9e24dccc60045ebba4b2c08d9687b8a8.jpg"
+    }
+  ],
+  "物件ID": "07636",
+  "ステータス": "有効"
+}

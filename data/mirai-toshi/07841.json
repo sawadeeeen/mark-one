@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "浜町グランドハイツ",
+  "部屋番号": "901号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ半蔵門線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都中央区日本橋中洲1-5",
+  "間取り": "3LDK+WIC",
+  "面積": 65.78,
+  "建築年月": "1976年8月",
+  "価格": 8299,
+  "オススメ情報": [
+    "売マンション浜町グランドハイツ　901号室\n      新規リノベーション物件日本橋エリアリバーView3駅4路線利用可南東向き\n      \n\n\t\t更新日：2025/2/27次更新：2025/1/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ半蔵門線　水天宮前　徒歩：5分\n\t\t\t\t\t東京都中央区日本橋中洲1-5\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t65.78㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1976年8月\n\t\t\t\t\t8,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-2-17',\n\t\tendDate : '2025-5-16',\n\t\tid : '07841'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/676e09c723838/93a9855d5e008077705272a74df5f353.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07841/93a9855d5e008077705272a74df5f353.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/676e09c723838/d241a712ee7a19266ab070f1bfb543a2.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07841/d241a712ee7a19266ab070f1bfb543a2.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/676e09c723838/c6e4c68bace3b3393fd625f36b13f97a.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07841/c6e4c68bace3b3393fd625f36b13f97a.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/676e09c723838/5a8abaf8cb79fe318938f41b8a69e59d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07841/5a8abaf8cb79fe318938f41b8a69e59d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/676e09c723838/c57b0233bef30a9cb83f69313d2a91ef.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07841/c57b0233bef30a9cb83f69313d2a91ef.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/676e09c723838/4c000ce60e586790c3e94e50b9ee31a8.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07841/4c000ce60e586790c3e94e50b9ee31a8.jpg"
+    }
+  ],
+  "物件ID": "07841",
+  "ステータス": "有効"
+}

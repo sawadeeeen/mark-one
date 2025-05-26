@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "PARK LANE 渋谷本町",
+  "部屋番号": "201号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都渋谷区本町4丁目8-13",
+  "間取り": "1LDK",
+  "面積": 51.07,
+  "建築年月": "2009年3月",
+  "価格": 7999,
+  "オススメ情報": [
+    "売マンションPARK LANE 渋谷本町　201号室\n      新規リフォーム物件駅徒歩5分圏内角住戸オートロック付宅配BOX有\n      \n\n\t\t更新日：2025/3/17次更新：2025/2/25-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営大江戸線　西新宿五丁目　徒歩：5分\n\t\t\t\t\t東京都渋谷区本町4丁目8-13\n\t\t\t\t\t1LDK\n\t\t\t\t\t51.07㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2009年3月\n\t\t\t\t\t7,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-13',\n\t\tendDate : '2025-5-23',\n\t\tid : '07982'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b41390b3a0e/632db6307066427407c0943d77462cd4.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07982/632db6307066427407c0943d77462cd4.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b41390b3a0e/5632ae8402555bacadd9221a166bb405.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07982/5632ae8402555bacadd9221a166bb405.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b41390b3a0e/6194a71c71bfebdf6246d18cf3ec3c59.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07982/6194a71c71bfebdf6246d18cf3ec3c59.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b41390b3a0e/86083cee387403ce2244d06cc8fa1072.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07982/86083cee387403ce2244d06cc8fa1072.jpg"
+    }
+  ],
+  "物件ID": "07982",
+  "ステータス": "有効"
+}

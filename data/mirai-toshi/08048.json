@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "秀和亀戸天神橋レジデンス",
+  "部屋番号": "617号室",
+  "交通": [
+    {
+      "路線名": "東武亀戸線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都江東区亀戸2丁目6-30",
+  "間取り": "3LDK",
+  "面積": 54.39,
+  "建築年月": "1973年11月",
+  "価格": 4199,
+  "オススメ情報": [
+    "売マンション秀和亀戸天神橋レジデンス　617号室\n      新規リノベーション物件清水建設㈱施工エレベーター2基有周辺にスーパー多数有ヴィンテージマンション\n      \n\n\t\t更新日：2025/5/12次更新：2025/4/21-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR総武線、東武亀戸線　錦糸町　徒歩：9分\n\t\t\t\t\t東京都江東区亀戸2丁目6-30\n\t\t\t\t\t3LDK\n\t\t\t\t\t54.39㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1973年11月\n\t\t\t\t\t4,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08048'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fc7f72b995e/f30f8f0b94d0fd44027859cd2c7cc698.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08048/f30f8f0b94d0fd44027859cd2c7cc698.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fc7f72b995e/aba526ff6908f58db67e3f9e7a287e5b.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08048/aba526ff6908f58db67e3f9e7a287e5b.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fc7f72b995e/763167e36ff65db3391fede8ae87e7ae.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08048/763167e36ff65db3391fede8ae87e7ae.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fc7f72b995e/4c5068ca0abcb6210c9e5aa6d1c603ac.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08048/4c5068ca0abcb6210c9e5aa6d1c603ac.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fc7f72b995e/4d6a6dd0459f77e2a23183233e471e1e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08048/4d6a6dd0459f77e2a23183233e471e1e.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fc7f72b995e/7a30cd368742fee10ce0f30db20f90fa.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08048/7a30cd368742fee10ce0f30db20f90fa.jpg"
+    }
+  ],
+  "物件ID": "08048",
+  "ステータス": "有効"
+}

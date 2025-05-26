@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ダイアパレス大池",
+  "部屋番号": "702号室",
+  "交通": [
+    {
+      "路線名": "名古屋市営地下鉄名城線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "愛知県名古屋市中区千代田4丁目14-3",
+  "間取り": "3LDK+WIC",
+  "面積": 58.4,
+  "建築年月": "1980年9月",
+  "価格": 1499,
+  "オススメ情報": [
+    "売マンションダイアパレス大池　702号室\n      新規リノベーション物件複数路線利用可陽当り良好全室採光有WTC 新設\n      \n\n\t\t更新日：2025/4/21次更新：2023/11/30-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名古屋市営地下鉄名城線　東別院　徒歩：7分\n\t\t\t\t\t愛知県名古屋市中区千代田4丁目14-3\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t58.4㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1980年9月\n\t\t\t\t\t1,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2023-9-25',\n\t\tendDate : '2023-11-22',\n\t\tid : '06841'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/655ecfbd021a4/ccc6e65105acb45b3df648c6d7b22227.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "06841/ccc6e65105acb45b3df648c6d7b22227.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/655ecfbd021a4/69f01a3e05ce249b3163544badecb2b0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06841/69f01a3e05ce249b3163544badecb2b0.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/655ecfbd021a4/e998ce953f1a8522e50560a276ba56f9.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06841/e998ce953f1a8522e50560a276ba56f9.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/655ecfbd021a4/c01ef64a44b2a309125abb73736ed020.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06841/c01ef64a44b2a309125abb73736ed020.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/655ecfbd021a4/01661685dd869495fc904963115b526b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06841/01661685dd869495fc904963115b526b.jpg"
+    }
+  ],
+  "物件ID": "06841",
+  "ステータス": "有効"
+}

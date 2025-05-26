@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "コスモシティ川越",
+  "部屋番号": "1108号室",
+  "交通": [
+    {
+      "路線名": "東武東上線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "埼玉県川越市脇田本町31-1",
+  "間取り": "4LDK",
+  "面積": 84.27,
+  "建築年月": "2003年2月",
+  "価格": 5999,
+  "オススメ情報": [
+    "売マンションコスモシティ川越　1108号室\n      新規リノベーション物件最上階47.10㎡のルーフバルコニー付二面バルコニーポーチ付\n      \n\n\t\t更新日：2025/3/28次更新：2025/2/20-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t JR川越線、東武東上線　川越　徒歩：5分\n\t\t\t\t\t埼玉県川越市脇田本町31-1\n\t\t\t\t\t4LDK\n\t\t\t\t\t84.27㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2003年2月\n\t\t\t\t\t5,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-28',\n\t\tendDate : '2025-6-27',\n\t\tid : '07868'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ad5b37820b3/0f6169b0fb54d8a8c45b0dfc04ade7b1.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07868/0f6169b0fb54d8a8c45b0dfc04ade7b1.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ad5b37820b3/9536c6a7a69626d624830c061a69a2fa.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07868/9536c6a7a69626d624830c061a69a2fa.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ad5b37820b3/3a1a7ddea084fba0b91f419cdd121987.jpg",
+      "alt": "画像",
+      "caption": "ポーチ",
+      "saved_path": "07868/3a1a7ddea084fba0b91f419cdd121987.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ad5b37820b3/a5c829a4c2b38a82f042bfc7b240b79f.jpg",
+      "alt": "画像",
+      "caption": "ルーフバルコニー",
+      "saved_path": "07868/a5c829a4c2b38a82f042bfc7b240b79f.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ad5b37820b3/5e65e512707f3e1a2e1293680fbf5c29.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07868/5e65e512707f3e1a2e1293680fbf5c29.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ad5b37820b3/de5f3323d7933f2867614ffaa86392f1.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07868/de5f3323d7933f2867614ffaa86392f1.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ad5b37820b3/25386f05d33b50f7e981225c5b1b2f9d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07868/25386f05d33b50f7e981225c5b1b2f9d.jpg"
+    }
+  ],
+  "物件ID": "07868",
+  "ステータス": "有効"
+}

@@ -1,0 +1,90 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シヤルマン東品川",
+  "部屋番号": "315号室",
+  "交通": [
+    {
+      "路線名": "京急本線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都品川区東品川4丁目6-7",
+  "間取り": "3LDK",
+  "面積": 58.19,
+  "建築年月": "1980年7月",
+  "価格": 4999,
+  "オススメ情報": [
+    "売マンションシヤルマン東品川　315号室\n      新規リノベーション物件駅徒歩4分圏内複数路線利用可買物環境良好オートロック付\n      \n\n\t\t更新日：2025/5/16次更新：2025/5/7-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京急本線　青物横丁　徒歩：9分\n\t\t\t\t\t東京都品川区東品川4丁目6-7\n\t\t\t\t\t3LDK\n\t\t\t\t\t58.19㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1980年7月\n\t\t\t\t\t4,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-28',\n\t\tendDate : '2025-6-20',\n\t\tid : '07930'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/3af9fd6185eaec4731dd4c3b389121c4.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07930/3af9fd6185eaec4731dd4c3b389121c4.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/6ed78ec614a64ee949cbab1c612640b9.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07930/6ed78ec614a64ee949cbab1c612640b9.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/66f245b9f66a8ed30827854ffe7bbf99.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07930/66f245b9f66a8ed30827854ffe7bbf99.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/88f8c0b8040f07a5bf8808b8ebf8260e.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07930/88f8c0b8040f07a5bf8808b8ebf8260e.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/96c950f420f977256fc8d1a0cc76ba28.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07930/96c950f420f977256fc8d1a0cc76ba28.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/ff2fbedb7406bf312467419b98583750.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07930/ff2fbedb7406bf312467419b98583750.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/2e3a8799c7e5bb651670ada5d4c64cf0.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07930/2e3a8799c7e5bb651670ada5d4c64cf0.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/9aa211a99ef0d5e8c31c8e3b1344536f.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07930/9aa211a99ef0d5e8c31c8e3b1344536f.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6811a2d4454d7/b0add6f1cf6d440dd734981052d467d3.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07930/b0add6f1cf6d440dd734981052d467d3.jpg"
+    }
+  ],
+  "物件ID": "07930",
+  "ステータス": "有効"
+}

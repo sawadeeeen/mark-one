@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シティタワー所沢クラッシィ",
+  "部屋番号": "2509号室",
+  "交通": [
+    {
+      "路線名": "西武池袋線",
+      "駅名": "",
+      "徒歩時間": 2
+    }
+  ],
+  "所在地": "埼玉県所沢市東住吉11-1",
+  "間取り": "2LDK",
+  "面積": 57.48,
+  "建築年月": "2020年8月",
+  "価格": 9999,
+  "オススメ情報": [
+    "売マンションシティタワー所沢クラッシィ　2509号室\n      新規リノベーション物件 駅徒歩2分 複数路線利用可 令和2年8月築 大規模レジデンス\n      \n\n\t\t更新日：2025/4/28次更新：2025/5/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線、西武池袋線　所沢　徒歩：2分\n\t\t\t\t\t埼玉県所沢市東住吉11-1\n\t\t\t\t\t2LDK\n\t\t\t\t\t57.48㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2020年8月\n\t\t\t\t\t9,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07889'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c696c1c1bf/450a7605ced943289116f80a2209358b.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07889/450a7605ced943289116f80a2209358b.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c696c1c1bf/5449ab31d27675a76c982ae8bb08d8b4.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07889/5449ab31d27675a76c982ae8bb08d8b4.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c696c1c1bf/cdb55f35e558ca1818217dce6a2cd0b6.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07889/cdb55f35e558ca1818217dce6a2cd0b6.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c696c1c1bf/72884db637e7d1c8e09dcb21ca3aa353.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07889/72884db637e7d1c8e09dcb21ca3aa353.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c696c1c1bf/a70e3e1346f5e97f1288a2408409ce47.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07889/a70e3e1346f5e97f1288a2408409ce47.jpg"
+    }
+  ],
+  "物件ID": "07889",
+  "ステータス": "有効"
+}

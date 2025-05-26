@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "清澄ハイツ",
+  "部屋番号": "206号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "東京都江東区深川1丁目10-6",
+  "間取り": "2LDK+WIC",
+  "面積": 57.46,
+  "建築年月": "1972年12月",
+  "価格": 4899,
+  "オススメ情報": [
+    "売マンション清澄ハイツ　206号室\n      新規リノベーション物件陽当り良好全室採光有宅配BOX有複数路線利用可\n      \n\n\t\t更新日：2025/5/19次更新：2024/12/27-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ半蔵門線、都営大江戸線　清澄白河　徒歩：7分\n\t\t\t\t\t東京都江東区深川1丁目10-6\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t57.46㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1972年12月\n\t\t\t\t\t4,899万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-1-16',\n\t\tendDate : '2025-4-10',\n\t\tid : '07775'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/5b1c8475e52bc4e4493465df6665dbc0.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07775/5b1c8475e52bc4e4493465df6665dbc0.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/1e2e1361c8aa368e8073d1e4c854382a.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07775/1e2e1361c8aa368e8073d1e4c854382a.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/a7012d3d28ed8fba5bf7b937ad3b8ca3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/a7012d3d28ed8fba5bf7b937ad3b8ca3.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/425ce3ca8e265abf12f218233a4b7f0b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/425ce3ca8e265abf12f218233a4b7f0b.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/539888dc0ae27ec051714cb95928ec4f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/539888dc0ae27ec051714cb95928ec4f.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/a84afdcb32b21d784e575b87dafeb9ab.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/a84afdcb32b21d784e575b87dafeb9ab.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/e22ee4bfd1ba819daf2d7a9ecf31e565.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/e22ee4bfd1ba819daf2d7a9ecf31e565.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/38974e5c32ddeb9a594ac4d3f59ac8c5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/38974e5c32ddeb9a594ac4d3f59ac8c5.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/fb68af1d1e1771f0dd2fcd6eca6b0cd5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/fb68af1d1e1771f0dd2fcd6eca6b0cd5.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/43c1cad05350d59f386bca0ca3c9030d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/43c1cad05350d59f386bca0ca3c9030d.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/808f536a64721f4f6ce0e09e0a7c00ee.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/808f536a64721f4f6ce0e09e0a7c00ee.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6764f38e17fac/34205a815bbf592d0e0c6d0f758e3468.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07775/34205a815bbf592d0e0c6d0f758e3468.jpg"
+    }
+  ],
+  "物件ID": "07775",
+  "ステータス": "有効"
+}

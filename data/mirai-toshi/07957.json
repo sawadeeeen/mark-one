@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "フェイバリッチタワー品川",
+  "部屋番号": "1604号室",
+  "交通": [
+    {
+      "路線名": "京急本線",
+      "駅名": "",
+      "徒歩時間": 11
+    }
+  ],
+  "所在地": "東京都港区港南3丁目7-16",
+  "間取り": "1SLDK",
+  "面積": 63.44,
+  "建築年月": "2006年10月",
+  "価格": 12999,
+  "オススメ情報": [
+    "売マンションフェイバリッチタワー品川　1604号室\n      新規リノベーション物件(旧)伊藤忠分譲制震構造採用24時間有人管理二重オートロック\n      \n\n\t\t更新日：2025/4/28次更新：2025/5/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR山手線、JR京浜東北線、JR常磐線、JR横須賀線、JR東海道線、京急本線　品川　徒歩：11分\n\t\t\t\t\t東京都港区港南3丁目7-16\n\t\t\t\t\t1SLDK\n\t\t\t\t\t63.44㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2006年10月\n\t\t\t\t\t12,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07957'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/2d37363794ca4a225f50cf6626988902.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07957/2d37363794ca4a225f50cf6626988902.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/450f1c6318f2053e0453fd544ffe14c7.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07957/450f1c6318f2053e0453fd544ffe14c7.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/de984c5d85c908e8afd6e84f73c44e7c.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07957/de984c5d85c908e8afd6e84f73c44e7c.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/f879136d0a68c7901ac66fd232fb30a1.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07957/f879136d0a68c7901ac66fd232fb30a1.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/d144396ddec3345e9990cde1a85cd314.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07957/d144396ddec3345e9990cde1a85cd314.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/aa37008d9ffd242f1d519b6edbfb35a5.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07957/aa37008d9ffd242f1d519b6edbfb35a5.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/57612dbd96ccd42c2bd150bba74bba73.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07957/57612dbd96ccd42c2bd150bba74bba73.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f3d2dafcee/b23bee3d84c99cf3d334c62d6804912f.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07957/b23bee3d84c99cf3d334c62d6804912f.jpg"
+    }
+  ],
+  "物件ID": "07957",
+  "ステータス": "有効"
+}

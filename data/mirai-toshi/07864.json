@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "朝日プラザ代々木山手",
+  "部屋番号": "701号室",
+  "交通": [
+    {
+      "路線名": "小田急小田原線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "東京都渋谷区代々木4丁目62-16",
+  "間取り": "3LDK+WIC",
+  "面積": 83.31,
+  "建築年月": "1979年3月",
+  "価格": 11500,
+  "オススメ情報": [
+    "売マンション朝日プラザ代々木山手　701号室\n      新規リノベーション物件二面バルコニー陽当り良好角部屋複数路線利用可\n      \n\n\t\t更新日：2025/3/28次更新：2025/2/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t小田急小田原線　参宮橋　徒歩：7分\n\t\t\t\t\t東京都渋谷区代々木4丁目62-16\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t83.31㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1979年3月\n\t\t\t\t\t11,500万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-3',\n\t\tendDate : '2025-6-5',\n\t\tid : '07864'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/61e253135bc25088a95cf9f2729ab936.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07864/61e253135bc25088a95cf9f2729ab936.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/c5c7b498731d14ccb32b57cdaf133855.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07864/c5c7b498731d14ccb32b57cdaf133855.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/e61cb69f1966908454399fc4477240d7.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07864/e61cb69f1966908454399fc4477240d7.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/fb90f1ef6f3e59884d2ce04938ec55e9.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07864/fb90f1ef6f3e59884d2ce04938ec55e9.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/7def90687cee3c68d796144bb4856ae7.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07864/7def90687cee3c68d796144bb4856ae7.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/5b5254e3bb1697ec6a5e859109020345.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07864/5b5254e3bb1697ec6a5e859109020345.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/2da2417b1400113515f3b480c81b1584.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07864/2da2417b1400113515f3b480c81b1584.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a7192c088e9/c6bf903bd63f9fec727582271025704b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07864/c6bf903bd63f9fec727582271025704b.jpg"
+    }
+  ],
+  "物件ID": "07864",
+  "ステータス": "有効"
+}

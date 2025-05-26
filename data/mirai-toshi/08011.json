@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ファミール東加賀屋きらめきの街",
+  "部屋番号": "903号室",
+  "交通": [
+    {
+      "路線名": "大阪メトロ四つ橋線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "大阪府大阪市住之江区東加賀屋1丁目3-37",
+  "間取り": "3LDK",
+  "面積": 78.69,
+  "建築年月": "2000年3月",
+  "価格": 3599,
+  "オススメ情報": [
+    "売マンションファミール東加賀屋きらめきの街　903号室\n      新規リノベーション物件複数路線利用可南向き・角部屋二面バルコニーオートロック付\n      \n\n\t\t更新日：2025/4/28次更新：2025/5/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t大阪メトロ四つ橋線　北加賀屋　徒歩：8分\n\t\t\t\t\t大阪府大阪市住之江区東加賀屋1丁目3-37\n\t\t\t\t\t3LDK\n\t\t\t\t\t78.69㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2000年3月\n\t\t\t\t\t3,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08011'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f340f64d1c/b6e98c986eb5ea678be8d64f445c5302.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08011/b6e98c986eb5ea678be8d64f445c5302.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f340f64d1c/a0dce0f3cb2dd35d2656358c07b3a922.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08011/a0dce0f3cb2dd35d2656358c07b3a922.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f340f64d1c/7033085bea7fd312f8747a0d043a2d0c.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08011/7033085bea7fd312f8747a0d043a2d0c.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f340f64d1c/15637cd68749e6a1cf0a4a1a424c3e67.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08011/15637cd68749e6a1cf0a4a1a424c3e67.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680f340f64d1c/9ef3a48012135a69b0f90dc7dd9f0c7d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08011/9ef3a48012135a69b0f90dc7dd9f0c7d.jpg"
+    }
+  ],
+  "物件ID": "08011",
+  "ステータス": "有効"
+}

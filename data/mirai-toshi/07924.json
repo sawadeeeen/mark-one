@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズ川口幸町グランフォート",
+  "部屋番号": "1206号室",
+  "交通": [
+    {
+      "路線名": "JR京浜東北線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "埼玉県川口市幸町1丁目2-2",
+  "間取り": "3LDK+WIC",
+  "面積": 75.01,
+  "建築年月": "2014年11月",
+  "価格": 8799,
+  "オススメ情報": [
+    "売マンションライオンズ川口幸町グランフォート　1206号室\n      新規リフォーム物件三方角部屋宅配BOX有長期修繕計画有外壁タイル貼\n      \n\n\t\t更新日：2025/4/4次更新：2025/4/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線　川口　徒歩：9分\n\t\t\t\t\t埼玉県川口市幸町1丁目2-2\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t75.01㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2014年11月\n\t\t\t\t\t8,799万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-2',\n\t\tendDate : '2025-4-30',\n\t\tid : '07924'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/4dfea194b658c3fd9aae6d19ab319661.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07924/4dfea194b658c3fd9aae6d19ab319661.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/7814cae4412b4949d0ae8ac010b14557.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07924/7814cae4412b4949d0ae8ac010b14557.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/5a543a61903110f3de637cdc8f3034c3.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07924/5a543a61903110f3de637cdc8f3034c3.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/0b3e7ecda14715ebca0f7e18efec97a2.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07924/0b3e7ecda14715ebca0f7e18efec97a2.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/45506a72c8c2d64d88e816974e0d5c0c.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07924/45506a72c8c2d64d88e816974e0d5c0c.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/76fe2fa6b138d9ddea96097ff036fce3.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07924/76fe2fa6b138d9ddea96097ff036fce3.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/9302ab5444d183e22cc8539a375b2006.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07924/9302ab5444d183e22cc8539a375b2006.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e7a127cf68e/02f41266097dcc6c574ec6561b8743e3.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07924/02f41266097dcc6c574ec6561b8743e3.jpg"
+    }
+  ],
+  "物件ID": "07924",
+  "ステータス": "有効"
+}

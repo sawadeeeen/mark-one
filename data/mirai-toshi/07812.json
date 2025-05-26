@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "横浜南太田ホームズ",
+  "部屋番号": "1005号室",
+  "交通": [
+    {
+      "路線名": "ブルーライン",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "神奈川県横浜市南区日枝町5丁目137-1",
+  "間取り": "3LDK",
+  "面積": 71.44,
+  "建築年月": "1997年1月",
+  "価格": 5799,
+  "オススメ情報": [
+    "売マンション横浜南太田ホームズ　1005号室\n      新規リノベーション物件駅徒歩3分角部屋全室採光有玄関ポーチ付\n      \n\n\t\t更新日：2025/3/14次更新：2025/3/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tブルーライン　吉野町　徒歩：3分\n\t\t\t\t\t神奈川県横浜市南区日枝町5丁目137-1\n\t\t\t\t\t3LDK\n\t\t\t\t\t71.44㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年1月\n\t\t\t\t\t5,799万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-17',\n\t\tendDate : '2025-6-4',\n\t\tid : '07812'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbe48672941/de10d4c20d6750209f01670c5107a8fa.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07812/de10d4c20d6750209f01670c5107a8fa.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbe48672941/3dc73eb080bdcc1851ef2c93218d664c.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07812/3dc73eb080bdcc1851ef2c93218d664c.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbe48672941/42604660bb406261b1d54e578cd6c3a8.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07812/42604660bb406261b1d54e578cd6c3a8.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbe48672941/ae86b162b64dd36a7ee60a50f12c8fb7.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07812/ae86b162b64dd36a7ee60a50f12c8fb7.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbe48672941/bd8a04cb6c20e3887430b81aec84b61a.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07812/bd8a04cb6c20e3887430b81aec84b61a.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbe48672941/0058ba545e06cf2a85edecf8ddb93079.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07812/0058ba545e06cf2a85edecf8ddb93079.jpg"
+    }
+  ],
+  "物件ID": "07812",
+  "ステータス": "有効"
+}

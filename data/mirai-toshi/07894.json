@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "レーベン流山おおたかの森Luminia",
+  "部屋番号": "310号室",
+  "交通": [
+    {
+      "路線名": "東武アーバンパークライン",
+      "駅名": "",
+      "徒歩時間": 14
+    }
+  ],
+  "所在地": "千葉県流山市おおたかの森北3丁目49-7",
+  "間取り": "4LDK+WIC",
+  "面積": 82.55,
+  "建築年月": "2014年1月",
+  "価格": 5999,
+  "オススメ情報": [
+    "売マンションレーベン流山おおたかの森Luminia　310号室\n      新規リフォーム物件二面バルコニー三方角部屋宅配BOX有24時間ゴミ出し可\n      \n\n\t\t更新日：2025/4/12次更新：2025/4/14-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tつくばエクスプレス、東武アーバンパークライン　流山おおたかの森　徒歩：14分\n\t\t\t\t\t千葉県流山市おおたかの森北3丁目49-7\n\t\t\t\t\t4LDK+WIC\n\t\t\t\t\t82.55㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2014年1月\n\t\t\t\t\t5,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-14',\n\t\tendDate : '2025-5-14',\n\t\tid : '07894'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f33a94a2ab9/7f83715a63ea2839ec2597d5548bd40d.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07894/7f83715a63ea2839ec2597d5548bd40d.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f33a94a2ab9/8d81bfebcb231d702fb92bf17e592b5c.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07894/8d81bfebcb231d702fb92bf17e592b5c.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f33a94a2ab9/8d719a0153d871ab083ac26b874b4f38.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07894/8d719a0153d871ab083ac26b874b4f38.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f33a94a2ab9/68b54c4253e6b3210430cb67bd5f3217.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07894/68b54c4253e6b3210430cb67bd5f3217.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f33a94a2ab9/ef3dde9a8d9279f6b87cbf976c71868f.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07894/ef3dde9a8d9279f6b87cbf976c71868f.jpg"
+    }
+  ],
+  "物件ID": "07894",
+  "ステータス": "有効"
+}

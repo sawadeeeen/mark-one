@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "晴海アイランドトリトンスクエアビュータワー",
+  "部屋番号": "1905号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "東京都中央区晴海1丁目6-1",
+  "間取り": "1SLDK",
+  "面積": 55.27,
+  "建築年月": "1998年2月",
+  "価格": 10999,
+  "オススメ情報": [
+    "売マンション晴海アイランドトリトンスクエアビュータワー　1905号室\n      新規リノベーション物件湾岸エリア24時間有人管理オートロック付宅配BOX有\n      \n\n\t\t更新日：2025/5/10次更新：2025/4/18-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ有楽町線、都営大江戸線　月島　徒歩：7分\n\t\t\t\t\t東京都中央区晴海1丁目6-1\n\t\t\t\t\t1SLDK\n\t\t\t\t\t55.27㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1998年2月\n\t\t\t\t\t10,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07921'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f8989aeb5f6/2e0fafcb92810c7f27b815b9cbe733f0.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07921/2e0fafcb92810c7f27b815b9cbe733f0.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f8989aeb5f6/a8611983189805d6f948502993db9aac.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07921/a8611983189805d6f948502993db9aac.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f8989aeb5f6/08874c65b0b563c717c7725803d3294c.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07921/08874c65b0b563c717c7725803d3294c.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f8989aeb5f6/4a7688917885bc199d5dc154dfeab91c.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07921/4a7688917885bc199d5dc154dfeab91c.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f8989aeb5f6/ba1a5308a7e1d831dfeb460dd2ba5f01.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07921/ba1a5308a7e1d831dfeb460dd2ba5f01.jpg"
+    }
+  ],
+  "物件ID": "07921",
+  "ステータス": "有効"
+}

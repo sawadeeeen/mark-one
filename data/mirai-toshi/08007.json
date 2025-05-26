@@ -1,0 +1,41 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ソフィア松戸",
+  "部屋番号": "1110号室",
+  "交通": [
+    {
+      "路線名": "北総線",
+      "駅名": "",
+      "徒歩時間": 17
+    }
+  ],
+  "所在地": "千葉県松戸市小山711-3",
+  "間取り": "4LDK",
+  "面積": 87.3,
+  "建築年月": "2006年2月",
+  "価格": 3699,
+  "オススメ情報": [
+    "売マンションソフィア松戸　1110号室\n      新規リノベーション物件 大規模レジデンス ペット飼育可(細則有) 宅配BOX有 防犯カメラ有\n      \n\n\t\t更新日：2025/4/28次更新：2025/5/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t北総線　矢切　徒歩：17分\n\t\t\t\t\t千葉県松戸市小山711-3\n\t\t\t\t\t4LDK\n\t\t\t\t\t87.3㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2006年2月\n\t\t\t\t\t3,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08007'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c8ce2e967d/972d4b2a1a769b5bd0a97586335b9c21.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08007/972d4b2a1a769b5bd0a97586335b9c21.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c8ce2e967d/1d5c28249d8d7ba9699c5ee08037ffb8.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08007/1d5c28249d8d7ba9699c5ee08037ffb8.jpg"
+    }
+  ],
+  "物件ID": "08007",
+  "ステータス": "有効"
+}

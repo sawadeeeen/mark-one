@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "エクセレントシティ新柏ヒルズ",
+  "部屋番号": "606号室",
+  "交通": [
+    {
+      "路線名": "東武アーバンパークライン",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "千葉県柏市豊住3丁目1-26",
+  "間取り": "3LDK",
+  "面積": 67.52,
+  "建築年月": "2019年12月",
+  "価格": 4699,
+  "オススメ情報": [
+    "売マンションエクセレントシティ新柏ヒルズ　606号室\n      新規リノベーション物件総戸数117戸のビッグコミュニティ令和元年12月築オートロック付宅配BOX有\n      \n\n\t\t更新日：2025/3/27次更新：2025/4/1-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東武アーバンパークライン　新柏　徒歩：9分\n\t\t\t\t\t千葉県柏市豊住3丁目1-26\n\t\t\t\t\t3LDK\n\t\t\t\t\t67.52㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2019年12月\n\t\t\t\t\t4,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07961'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263c3979e0/fa7d79c23a16b5e4f68e092a88eb053b.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07961/fa7d79c23a16b5e4f68e092a88eb053b.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263c3979e0/fdbca186f08d95f83fa6df05105a3613.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07961/fdbca186f08d95f83fa6df05105a3613.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263c3979e0/a066a290e161fff36503a3ec724ad52f.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07961/a066a290e161fff36503a3ec724ad52f.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263c3979e0/fd27a1497666a766ae168ff7037d0b4d.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07961/fd27a1497666a766ae168ff7037d0b4d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263c3979e0/6564ba0df3aca841dbced25c87c5a94b.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07961/6564ba0df3aca841dbced25c87c5a94b.jpg"
+    }
+  ],
+  "物件ID": "07961",
+  "ステータス": "有効"
+}

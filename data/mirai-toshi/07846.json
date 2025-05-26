@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション高砂",
+  "部屋番号": "207号室",
+  "交通": [
+    {
+      "路線名": "福岡市地下鉄七隈線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "福岡県福岡市中央区高砂1丁目16-36",
+  "間取り": "2LDK",
+  "面積": 55.69,
+  "建築年月": "1978年11月",
+  "価格": 2599,
+  "オススメ情報": [
+    "売マンションライオンズマンション高砂　207号室\n      新規リノベーション物件駅徒歩10分圏内オートロック付複数路線利用可長期修繕計画有\n      \n\n\t\t更新日：2025/5/12次更新：2025/3/7-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西鉄天神大牟田線、福岡市地下鉄七隈線　薬院　徒歩：9分\n\t\t\t\t\t福岡県福岡市中央区高砂1丁目16-36\n\t\t\t\t\t2LDK\n\t\t\t\t\t55.69㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1978年11月\n\t\t\t\t\t2,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-4',\n\t\tendDate : '2025-6-13',\n\t\tid : '07846'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/88073588acb3940b1265a199b4214cb9.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07846/88073588acb3940b1265a199b4214cb9.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/dbf3bcfe52ccfddbfd52730c86a11e19.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07846/dbf3bcfe52ccfddbfd52730c86a11e19.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/7d5aef57ba27e328f41834b487093316.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07846/7d5aef57ba27e328f41834b487093316.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/ff4bd00d19f79d12c78ffe5bd0d2a9f7.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07846/ff4bd00d19f79d12c78ffe5bd0d2a9f7.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/e4406288c81c09931209c6b69a007dae.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07846/e4406288c81c09931209c6b69a007dae.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/0c1aa01ac6a15cd2c7ce4540386bb3f6.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07846/0c1aa01ac6a15cd2c7ce4540386bb3f6.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/3b008b0c7bb089f28ff1b9f85cabc516.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07846/3b008b0c7bb089f28ff1b9f85cabc516.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c1360af3206/395e7529bbff8c4d68e5d1923a6052c3.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07846/395e7529bbff8c4d68e5d1923a6052c3.jpg"
+    }
+  ],
+  "物件ID": "07846",
+  "ステータス": "有効"
+}

@@ -1,0 +1,90 @@
+{
+  "物件種別": "マンション",
+  "建物名": "フォルム小石川",
+  "部屋番号": "1007号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都文京区小石川3丁目27-16",
+  "間取り": "2LDK+WIC",
+  "面積": 60.19,
+  "建築年月": "1990年9月",
+  "価格": 9999,
+  "オススメ情報": [
+    "売マンションフォルム小石川　1007号室\n      新規リノベーション物件24時間有人による安心のコンシェルジュサービス㈱リクルートコスモス旧分譲総戸数107戸のビッグコミュニティマンション1階には24時間営業のスーパー有\n      \n\n\t\t更新日：2025/5/16次更新：2024/9/6-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営三田線、都営大江戸線　春日　徒歩：4分\n\t\t\t\t\t東京都文京区小石川3丁目27-16\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t60.19㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1990年9月\n\t\t\t\t\t9,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-2-18',\n\t\tendDate : '2025-5-17',\n\t\tid : '07521'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/cc241371ae81be1e30ea8b44c25c362d.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07521/cc241371ae81be1e30ea8b44c25c362d.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/a9bea364fd69e85497faf12bc5063673.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07521/a9bea364fd69e85497faf12bc5063673.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/8234e5d8ad7f732998b60491f8756088.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07521/8234e5d8ad7f732998b60491f8756088.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/a020c249b2b4d201bcdb23122a665eba.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07521/a020c249b2b4d201bcdb23122a665eba.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/b10835332f5e3f9515fff87e0960d052.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07521/b10835332f5e3f9515fff87e0960d052.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/7dde91cc9f8cfa3c980c90183c91bc4d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07521/7dde91cc9f8cfa3c980c90183c91bc4d.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/f3a36542b8e3a87fab36d01d03bfdd15.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07521/f3a36542b8e3a87fab36d01d03bfdd15.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/64785287b6da040e19886fb01fc8492f.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07521/64785287b6da040e19886fb01fc8492f.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66d132581241e/fb5ee373daab3040afeb2a35530e863b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07521/fb5ee373daab3040afeb2a35530e863b.jpg"
+    }
+  ],
+  "物件ID": "07521",
+  "ステータス": "有効"
+}

@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "南柏パーク・ホームズウイングスクエア",
+  "部屋番号": "301号室",
+  "交通": [
+    {
+      "路線名": "JR常磐線",
+      "駅名": "",
+      "徒歩時間": 14
+    }
+  ],
+  "所在地": "千葉県流山市向小金2丁目263-4",
+  "間取り": "3SLDK",
+  "面積": 89.07,
+  "建築年月": "1997年1月",
+  "価格": 3599,
+  "オススメ情報": [
+    "売マンション南柏パーク・ホームズウイングスクエア　301号室\n      新規リノベーション物件三方角部屋三面バルコニーペット飼育可(細則有)令和5年 大規模修繕工事実施済\n      \n\n\t\t更新日：2025/3/28次更新：2025/2/13-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR常磐線　南柏　徒歩：14分、バス：2分「堀込」バス停下車徒歩：6分\n\t\t\t\t\t千葉県流山市向小金2丁目263-4\n\t\t\t\t\t3SLDK\n\t\t\t\t\t89.07㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年1月\n\t\t\t\t\t3,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-24',\n\t\tendDate : '2025-6-27',\n\t\tid : '07898'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a424c61f2e3/f4ce31e21958135b6755204fdc5a29a5.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07898/f4ce31e21958135b6755204fdc5a29a5.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a424c61f2e3/f4906b44a9db999087470845f314a060.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07898/f4906b44a9db999087470845f314a060.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a424c61f2e3/1a0b08082437c12142698f7bcff91a2f.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07898/1a0b08082437c12142698f7bcff91a2f.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a424c61f2e3/fa6057c91a38b7d8e7181c18d53e6ad2.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07898/fa6057c91a38b7d8e7181c18d53e6ad2.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a424c61f2e3/caf3dbe64e7b85c03e401062493a37bd.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07898/caf3dbe64e7b85c03e401062493a37bd.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a424c61f2e3/44950db89aa7eace1f33b78b7195a2a1.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07898/44950db89aa7eace1f33b78b7195a2a1.jpg"
+    }
+  ],
+  "物件ID": "07898",
+  "ステータス": "有効"
+}

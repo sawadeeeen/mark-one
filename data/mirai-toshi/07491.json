@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "野庭団地634-1号棟",
+  "部屋番号": "132号室",
+  "交通": [
+    {
+      "路線名": "ブルーライン",
+      "駅名": "",
+      "徒歩時間": 25
+    }
+  ],
+  "所在地": "神奈川県横浜市港南区野庭町634",
+  "間取り": "2SLDK+WIC",
+  "面積": 83.64,
+  "建築年月": "1975年11月",
+  "価格": 2599,
+  "オススメ情報": [
+    "売マンション野庭団地634-1号棟　132号室\n      新規リノベーション物件南東向き全室採光有ペット飼育可(細則有)管理人週6勤務\n      \n\n\t\t更新日：2025/4/21次更新：2024/8/24-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tブルーライン　上永谷　徒歩：25分、バス：8分「野庭中央公園」バス停下車徒歩：4分\n\t\t\t\t\t神奈川県横浜市港南区野庭町634\n\t\t\t\t\t2SLDK+WIC\n\t\t\t\t\t83.64㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1975年11月\n\t\t\t\t\t2,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-9-13',\n\t\tendDate : '2024-12-19',\n\t\tid : '07491'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/d5c04463e3051780cc6e7aa8df3126f6.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07491/d5c04463e3051780cc6e7aa8df3126f6.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/9f69636daae66bcbff316d02959ba368.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07491/9f69636daae66bcbff316d02959ba368.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/4500b821937e48836f3f0e1a63f1c017.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/4500b821937e48836f3f0e1a63f1c017.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/d5c37b20a086ced542316dca967070b2.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/d5c37b20a086ced542316dca967070b2.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/ce85d0cbdee5169e7baf84f65ccaac7e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/ce85d0cbdee5169e7baf84f65ccaac7e.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/7f29e31c1481cc89c36e18af96283a7a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/7f29e31c1481cc89c36e18af96283a7a.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/54deba02e130af12a70350668b9836b5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/54deba02e130af12a70350668b9836b5.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/b3521194e57758a0fe0a4bb268d77acf.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/b3521194e57758a0fe0a4bb268d77acf.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/6db7266a46ea5975e55e0c4494cced87.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/6db7266a46ea5975e55e0c4494cced87.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/44d92ba3847bc4a18066fae7d95d28dc.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/44d92ba3847bc4a18066fae7d95d28dc.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/2d1372aaf1283109d183145e0e786f85.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/2d1372aaf1283109d183145e0e786f85.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66c0047376d05/d1010f249efc11cf1c7e61035c7cfc4f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07491/d1010f249efc11cf1c7e61035c7cfc4f.jpg"
+    }
+  ],
+  "物件ID": "07491",
+  "ステータス": "有効"
+}

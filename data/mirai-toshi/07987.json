@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ルモン広尾",
+  "部屋番号": "701号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ日比谷線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "東京都渋谷区広尾1丁目16-3",
+  "間取り": "2LDK",
+  "面積": 46.98,
+  "建築年月": "1979年8月",
+  "価格": 7999,
+  "オススメ情報": [
+    "売マンションルモン広尾　701号室\n      新規リノベーション物件 渋谷区アドレス 2駅5路線利用可 山手線徒歩圏内 駅から徒歩3分\n      \n\n\t\t更新日：2025/5/15次更新：2025/2/28-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR山手線、JR埼京線、JR湘南新宿ライン、東京メトロ日比谷線　恵比寿　徒歩：3分\n\t\t\t\t\t東京都渋谷区広尾1丁目16-3\n\t\t\t\t\t2LDK\n\t\t\t\t\t46.98㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1979年8月\n\t\t\t\t\t7,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-23',\n\t\tendDate : '2025-7-3',\n\t\tid : '07987'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b7f52d33716/c5a0c27cec8779d05f32f173a8269d7b.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07987/c5a0c27cec8779d05f32f173a8269d7b.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b7f52d33716/176674f98042c0181fc3b9c33ec1c46d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07987/176674f98042c0181fc3b9c33ec1c46d.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b7f52d33716/12987bd0d105f4a0b49c65950ba9812b.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07987/12987bd0d105f4a0b49c65950ba9812b.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b7f52d33716/ca55ef12d93906422b5b70a1ca3431ff.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07987/ca55ef12d93906422b5b70a1ca3431ff.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b7f52d33716/596483daa11d585d8d25fad458581dd5.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07987/596483daa11d585d8d25fad458581dd5.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b7f52d33716/78c07ffc7dadd278e5f67017ec8f357c.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07987/78c07ffc7dadd278e5f67017ec8f357c.jpg"
+    }
+  ],
+  "物件ID": "07987",
+  "ステータス": "有効"
+}

@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "日神パレステージ船橋海神",
+  "部屋番号": "604号室",
+  "交通": [
+    {
+      "路線名": "東葉高速線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "千葉県船橋市海神1丁目22-21",
+  "間取り": "3LDK+WIC",
+  "面積": 69.48,
+  "建築年月": "2007年11月",
+  "価格": 5199,
+  "オススメ情報": [
+    "売マンション日神パレステージ船橋海神　604号室\n      新規リフォーム物件最上階・角部屋長期修繕計画有宅配BOX有複数路線利用可\n      \n\n\t\t更新日：2025/4/24次更新：2025/4/22-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東葉高速線　東海神　徒歩：7分\n\t\t\t\t\t千葉県船橋市海神1丁目22-21\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t69.48㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2007年11月\n\t\t\t\t\t5,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-23',\n\t\tendDate : '2025-7-3',\n\t\tid : '08013'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fde7473e2e3/9a5158a5465702cad5d33179ee42577a.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08013/9a5158a5465702cad5d33179ee42577a.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fde7473e2e3/6b93cc75d72bbc8f972b98e742dc4c2f.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08013/6b93cc75d72bbc8f972b98e742dc4c2f.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fde7473e2e3/548eac551fa4e22904e2cf44d4912955.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08013/548eac551fa4e22904e2cf44d4912955.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fde7473e2e3/930a0601655eb7e46d808f3427000f93.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08013/930a0601655eb7e46d808f3427000f93.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fde7473e2e3/c1462f00c1eb474f3eabace7ce75132c.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08013/c1462f00c1eb474f3eabace7ce75132c.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fde7473e2e3/e9cb961402f6175ef736aa034a10672b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08013/e9cb961402f6175ef736aa034a10672b.jpg"
+    }
+  ],
+  "物件ID": "08013",
+  "ステータス": "有効"
+}

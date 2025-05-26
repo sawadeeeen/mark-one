@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズガーデンヒルズ上大岡",
+  "部屋番号": "409号室",
+  "交通": [
+    {
+      "路線名": "ブルーライン",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "神奈川県横浜市港南区港南1丁目14-5",
+  "間取り": "4LDK+WIC",
+  "面積": 113.42,
+  "建築年月": "1997年2月",
+  "価格": 3999,
+  "オススメ情報": [
+    "売マンションライオンズガーデンヒルズ上大岡　409号室\n      新規リフォーム物件メゾネットタイプオートロック付宅配BOX有トランクルーム有\n      \n\n\t\t更新日：2025/2/27次更新：2024/11/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tブルーライン　上大岡　徒歩：9分\n\t\t\t\t\t神奈川県横浜市港南区港南1丁目14-5\n\t\t\t\t\t4LDK+WIC\n\t\t\t\t\t113.42㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年2月\n\t\t\t\t\t3,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-11-11',\n\t\tendDate : '2024-12-17',\n\t\tid : '07656'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/03d9acc61b7a0b8091fafd008d6ff09a.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07656/03d9acc61b7a0b8091fafd008d6ff09a.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/8f3e0efd983a1016ee9e684ed791af3a.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07656/8f3e0efd983a1016ee9e684ed791af3a.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/141eabb5ada8210571fce20a40283e51.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/141eabb5ada8210571fce20a40283e51.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/a80d57565633232797a071c59e27a9d3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/a80d57565633232797a071c59e27a9d3.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/1b44e4a3818e69d03cff8f7cfd4313f7.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/1b44e4a3818e69d03cff8f7cfd4313f7.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/cc8570987f3cc6b04b360ff5f87409e5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/cc8570987f3cc6b04b360ff5f87409e5.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/29d48c8baa90c02872e9919172d9566f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/29d48c8baa90c02872e9919172d9566f.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/e3d7a206e989bac3c60056940853db97.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/e3d7a206e989bac3c60056940853db97.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/36bc0fc1ef9b3fcf8a2c5ef30e606edf.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/36bc0fc1ef9b3fcf8a2c5ef30e606edf.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/4fb904f28585d78a16abac07e0b452a3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/4fb904f28585d78a16abac07e0b452a3.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/5aaafe97730f363d4f251da29d2c764f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/5aaafe97730f363d4f251da29d2c764f.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/672d87e75c783/24d783f4277a9ff13bc17baddf05e26c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07656/24d783f4277a9ff13bc17baddf05e26c.jpg"
+    }
+  ],
+  "物件ID": "07656",
+  "ステータス": "有効"
+}

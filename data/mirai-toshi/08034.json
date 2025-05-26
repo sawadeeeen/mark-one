@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シティタワー池袋ウエストゲート",
+  "部屋番号": "2301号室",
+  "交通": [
+    {
+      "路線名": "東武東上線",
+      "駅名": "",
+      "徒歩時間": 13
+    }
+  ],
+  "所在地": "東京都豊島区高松1丁目22-1",
+  "間取り": "2LDK",
+  "面積": 54.12,
+  "建築年月": "2010年2月",
+  "価格": 12480,
+  "オススメ情報": [
+    "売マンションシティタワー池袋ウエストゲート　2301号室\n      新規リノベーション物件南西角部屋3段階セキュリティーシステム車寄せスペース有各階24時間クリーンステーション有\n      \n\n\t\t更新日：2025/4/17次更新：2025/4/22-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR山手線、JR埼京線、JR湘南新宿ライン、西武池袋線、東京メトロ丸ノ内線、東京メトロ有楽町線、東京メトロ副都心線、東武東上線　池袋　徒歩：13分\n\t\t\t\t\t東京都豊島区高松1丁目22-1\n\t\t\t\t\t2LDK\n\t\t\t\t\t54.12㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2010年2月\n\t\t\t\t\t12,480万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08034'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fddeae91a9b/11978bd9c49a9e846f702870bfe5f3dd.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08034/11978bd9c49a9e846f702870bfe5f3dd.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fddeae91a9b/401cf0bcab73291b510be8e1e7212494.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08034/401cf0bcab73291b510be8e1e7212494.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fddeae91a9b/c5d4631c10cd5a52453cd259d411e070.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08034/c5d4631c10cd5a52453cd259d411e070.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fddeae91a9b/5b9f6f6977a058777b44fcd84f27b45c.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08034/5b9f6f6977a058777b44fcd84f27b45c.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fddeae91a9b/58d136d5cd5a2890252e42724e05f1bb.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "08034/58d136d5cd5a2890252e42724e05f1bb.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fddeae91a9b/9d6156b5efcabc8ed98affdc4e231db9.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "08034/9d6156b5efcabc8ed98affdc4e231db9.jpg"
+    }
+  ],
+  "物件ID": "08034",
+  "ステータス": "有効"
+}

@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション徳川",
+  "部屋番号": "1001号室",
+  "交通": [
+    {
+      "路線名": "名鉄瀬戸線",
+      "駅名": "",
+      "徒歩時間": 10
+    }
+  ],
+  "所在地": "愛知県名古屋市東区徳川1丁目507",
+  "間取り": "4LDK",
+  "面積": 100.58,
+  "建築年月": "1993年2月",
+  "価格": 3599,
+  "オススメ情報": [
+    "売マンションライオンズマンション徳川　1001号室\n      新規リフォーム物件三方角部屋全室採光有眺望良好陽当り良好\n      \n\n\t\t更新日：2025/5/7次更新：2025/2/7-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名鉄瀬戸線　森下　徒歩：10分\n\t\t\t\t\t愛知県名古屋市東区徳川1丁目507\n\t\t\t\t\t4LDK\n\t\t\t\t\t100.58㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1993年2月\n\t\t\t\t\t3,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-2-3',\n\t\tendDate : '2025-4-18',\n\t\tid : '07895'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/030d64ef36f5fc4efc03d42041434a9e.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07895/030d64ef36f5fc4efc03d42041434a9e.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/583d3309a4298683982a8363217c6d59.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07895/583d3309a4298683982a8363217c6d59.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/84c430be67fb220c833423e69ec12d80.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/84c430be67fb220c833423e69ec12d80.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/2c5d10d4108e59ebb3d78a6cf7251d1e.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/2c5d10d4108e59ebb3d78a6cf7251d1e.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/9a26ab751a0a7a52a17e850d50e8c8f8.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/9a26ab751a0a7a52a17e850d50e8c8f8.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/faccde9446d5a59b43dc4b376117b456.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/faccde9446d5a59b43dc4b376117b456.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/c1cfd4afccaf40f8d836f6dceae01b79.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/c1cfd4afccaf40f8d836f6dceae01b79.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/1b70e3ea0110d499d1a40d0832dbea94.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/1b70e3ea0110d499d1a40d0832dbea94.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/67df074c5dec655204c58a8ab90d85ef.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/67df074c5dec655204c58a8ab90d85ef.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/8ce12dd6d909dec68c1cd2d9600094ca.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/8ce12dd6d909dec68c1cd2d9600094ca.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/6608a021bde195f24713c9e6c5d85f1e.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/6608a021bde195f24713c9e6c5d85f1e.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/679c39f083d8f/e05444db48a15032d795bc3016d81e36.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07895/e05444db48a15032d795bc3016d81e36.jpg"
+    }
+  ],
+  "物件ID": "07895",
+  "ステータス": "有効"
+}

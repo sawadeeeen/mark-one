@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ノバ浅草",
+  "部屋番号": "602号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ日比谷線",
+      "駅名": "",
+      "徒歩時間": 11
+    }
+  ],
+  "所在地": "東京都台東区浅草4丁目27-8",
+  "間取り": "2DK",
+  "面積": 45.92,
+  "建築年月": "1991年10月",
+  "価格": 5299,
+  "オススメ情報": [
+    "売マンションノバ浅草　602号室\n      新規リノベーション物件複数路線利用可外壁タイル貼オートロック付長期修繕計画有\n      \n\n\t\t更新日：2025/3/31次更新：2025/4/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ日比谷線　入谷　徒歩：11分\n\t\t\t\t\t東京都台東区浅草4丁目27-8\n\t\t\t\t\t2DK\n\t\t\t\t\t45.92㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1991年10月\n\t\t\t\t\t5,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08058'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79daac554b/648f2a396e5ba05bf77b8c8487d0dd60.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08058/648f2a396e5ba05bf77b8c8487d0dd60.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79daac554b/a5283ac89377f24697704e4a81a82a32.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08058/a5283ac89377f24697704e4a81a82a32.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79daac554b/019ed770b8cf447d049eff2832c52204.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08058/019ed770b8cf447d049eff2832c52204.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79daac554b/1fc239cf07418c3cb6e888c959b7ebde.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08058/1fc239cf07418c3cb6e888c959b7ebde.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79daac554b/cc044faa54b89a50a67dcd7e451620e5.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08058/cc044faa54b89a50a67dcd7e451620e5.jpg"
+    }
+  ],
+  "物件ID": "08058",
+  "ステータス": "有効"
+}

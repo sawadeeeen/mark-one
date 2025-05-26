@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "日興ロイヤルパレス西麻布",
+  "部屋番号": "401号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ千代田線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都港区西麻布2丁目10-3",
+  "間取り": "1LDK",
+  "面積": 48.4,
+  "建築年月": "1984年6月",
+  "価格": 7499,
+  "オススメ情報": [
+    "売マンション日興ロイヤルパレス西麻布　401号室\n      新規リノベーション物件 複数路線利用可 西麻布アドレス オートロック付 事務所利用可(条件有)\n      \n\n\t\t更新日：2025/4/14次更新：2025/4/14-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ千代田線　乃木坂　徒歩：9分\n\t\t\t\t\t東京都港区西麻布2丁目10-3\n\t\t\t\t\t1LDK\n\t\t\t\t\t48.4㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1984年6月\n\t\t\t\t\t7,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08083'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3452fec428/26fea90b06bf203dcf7d46cc020eed81.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08083/26fea90b06bf203dcf7d46cc020eed81.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3452fec428/e9ec75740b6f7136c33e9563bc5a71ab.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08083/e9ec75740b6f7136c33e9563bc5a71ab.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3452fec428/20b3afa42ffbe47686be1ad0e95fb7fd.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08083/20b3afa42ffbe47686be1ad0e95fb7fd.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3452fec428/6768b94dbd5b5af454f668677d6fcdd4.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08083/6768b94dbd5b5af454f668677d6fcdd4.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3452fec428/5884e651447a5ee0eb968fd3585ac2ed.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08083/5884e651447a5ee0eb968fd3585ac2ed.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3452fec428/97936d0f84ce13ecb91a3c1601374dd7.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08083/97936d0f84ce13ecb91a3c1601374dd7.jpg"
+    }
+  ],
+  "物件ID": "08083",
+  "ステータス": "有効"
+}

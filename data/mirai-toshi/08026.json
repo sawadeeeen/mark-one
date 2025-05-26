@@ -1,0 +1,41 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズシティ松戸",
+  "部屋番号": "101号室",
+  "交通": [
+    {
+      "路線名": "京成松戸線",
+      "駅名": "",
+      "徒歩時間": 13
+    }
+  ],
+  "所在地": "千葉県松戸市竹ケ花23-1",
+  "間取り": "3LDK",
+  "面積": 66.19,
+  "建築年月": "1997年9月",
+  "価格": 3099,
+  "オススメ情報": [
+    "売マンションライオンズシティ松戸　101号室\n      新規リノベーション物件三方角部屋両面バルコニー専用庭付専用平置駐車場有\n      \n\n\t\t更新日：2025/5/19次更新：2025/5/24-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR常磐緩行線、JR常磐線、京成松戸線　松戸　徒歩：13分\n\t\t\t\t\t千葉県松戸市竹ケ花23-1\n\t\t\t\t\t3LDK\n\t\t\t\t\t66.19㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年9月\n\t\t\t\t\t3,099万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08026'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6827ebe8c0a12/7df9b4e6f06a303c34d681c70ed06266.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08026/7df9b4e6f06a303c34d681c70ed06266.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6827ebe8c0a12/4d529a1e2ebd72f0f59658ae9ef20ee3.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08026/4d529a1e2ebd72f0f59658ae9ef20ee3.jpg"
+    }
+  ],
+  "物件ID": "08026",
+  "ステータス": "有効"
+}

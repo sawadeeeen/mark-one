@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "クリオ武蔵関1番館",
+  "部屋番号": "203号室",
+  "交通": [
+    {
+      "路線名": "西武新宿線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "東京都練馬区関町北1丁目2-3",
+  "間取り": "3LDK",
+  "面積": 61.63,
+  "建築年月": "1995年8月",
+  "価格": 4199,
+  "オススメ情報": [
+    "売マンションクリオ武蔵関1番館　203号室\n      新規リノベーション物件駅徒歩10分圏内オートロック付外壁タイル貼新耐震基準\n      \n\n\t\t更新日：2025/5/12次更新：2024/4/25-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線　武蔵関　徒歩：8分\n\t\t\t\t\t東京都練馬区関町北1丁目2-3\n\t\t\t\t\t3LDK\n\t\t\t\t\t61.63㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1995年8月\n\t\t\t\t\t4,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-5-13',\n\t\tendDate : '2024-7-19',\n\t\tid : '07282'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/975afcbbb0863f43d7b48065c9786961.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07282/975afcbbb0863f43d7b48065c9786961.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/10920f8537a222c2c980fa214b8fd5ba.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07282/10920f8537a222c2c980fa214b8fd5ba.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/d3c7e20e9ea2c63bdaaea7873c691014.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/d3c7e20e9ea2c63bdaaea7873c691014.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/ae05d4c5ec8ae7202eb64760439c9ed6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/ae05d4c5ec8ae7202eb64760439c9ed6.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/d8584db471cb1562e8d8d86c5ca26761.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/d8584db471cb1562e8d8d86c5ca26761.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/3b9ba590fee05b2a86d894e3359a5469.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/3b9ba590fee05b2a86d894e3359a5469.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/054db1b790b53fb56725caaddb1651d6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/054db1b790b53fb56725caaddb1651d6.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/ddb18f5c03eb5ed4c2c36cb19cc83a11.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/ddb18f5c03eb5ed4c2c36cb19cc83a11.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/85d0dd2d1cc62f63f5c1e453d9d6b3d8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/85d0dd2d1cc62f63f5c1e453d9d6b3d8.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/98e8dab15e02cfe3f58dfb0ed055f086.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/98e8dab15e02cfe3f58dfb0ed055f086.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/6646971a278a79f247669319f336c146.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/6646971a278a79f247669319f336c146.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6620a58636589/b5c840651ef8ae36fae4b2363a86083a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07282/b5c840651ef8ae36fae4b2363a86083a.jpg"
+    }
+  ],
+  "物件ID": "07282",
+  "ステータス": "有効"
+}

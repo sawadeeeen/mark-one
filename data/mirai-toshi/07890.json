@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ソフトタウン晴海",
+  "部屋番号": "802号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都中央区晴海2丁目5-16",
+  "間取り": "3LDK",
+  "面積": 73.03,
+  "建築年月": "1983年8月",
+  "価格": 8299,
+  "オススメ情報": [
+    "売マンションソフトタウン晴海　802号室\n      新規リノベーション物件大規模レジデンス眺望良好耐震基準適合オートロック付\n      \n\n\t\t更新日：2025/3/28次更新：2025/4/4-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営大江戸線　勝どき　徒歩：9分\n\t\t\t\t\t東京都中央区晴海2丁目5-16\n\t\t\t\t\t3LDK\n\t\t\t\t\t73.03㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1983年8月\n\t\t\t\t\t8,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07890'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e5f70d887e6/8708a2c4213332760f7b6a9257f44d32.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07890/8708a2c4213332760f7b6a9257f44d32.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e5f70d887e6/84f9d1dff4e12bbde3e28ebcae142d32.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07890/84f9d1dff4e12bbde3e28ebcae142d32.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e5f70d887e6/9987fa9348e0198ae4d93ed0f64dce6a.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07890/9987fa9348e0198ae4d93ed0f64dce6a.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e5f70d887e6/ba7c2f9fe8937d55fabe9c524a2432b0.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07890/ba7c2f9fe8937d55fabe9c524a2432b0.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e5f70d887e6/744f86f1fcc4e4c7f22d27f5bcef55cd.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07890/744f86f1fcc4e4c7f22d27f5bcef55cd.jpg"
+    }
+  ],
+  "物件ID": "07890",
+  "ステータス": "有効"
+}

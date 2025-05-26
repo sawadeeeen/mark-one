@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ウェリス大宮",
+  "部屋番号": "1204号室",
+  "交通": [
+    {
+      "路線名": "埼玉新都市交通",
+      "駅名": "",
+      "徒歩時間": 10
+    }
+  ],
+  "所在地": "埼玉県さいたま市大宮区吉敷町1丁目99-5",
+  "間取り": "3LDK+WIC",
+  "面積": 70.18,
+  "建築年月": "2013年1月",
+  "価格": 7999,
+  "オススメ情報": [
+    "売マンションウェリス大宮　1204号室\n      新規リノベーション物件設備入れ替えのフルリフォームポーチ付、角部屋住戸ペット飼育可(犬、猫2匹まで・細則有)二重床・二重天井・複層ガラス採用\n      \n\n\t\t更新日：2025/5/7次更新：2024/12/12-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線、JR埼京線、JR川越線、JR高崎線、JR宇都宮線、JR湘南新宿ライン、東武アーバンパークライン、埼玉新都市交通　大宮　徒歩：10分\n\t\t\t\t\t埼玉県さいたま市大宮区吉敷町1丁目99-5\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t70.18㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2013年1月\n\t\t\t\t\t7,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-1-20',\n\t\tendDate : '2025-4-18',\n\t\tid : '07763'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6751547a5f790/b3883c0025d546dcf81d7f1245bfade4.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07763/b3883c0025d546dcf81d7f1245bfade4.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6751547a5f790/2dcb20095ccafb3d35f9af3888725a2a.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07763/2dcb20095ccafb3d35f9af3888725a2a.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6751547a5f790/e5ca1c41b5f6df861a213454a001f568.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07763/e5ca1c41b5f6df861a213454a001f568.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6751547a5f790/f680b284d5b1d06c137c03b15f55a002.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07763/f680b284d5b1d06c137c03b15f55a002.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6751547a5f790/c049995f33000965637dfddc2c336b97.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07763/c049995f33000965637dfddc2c336b97.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6751547a5f790/457edea3d8fb3a10c9d0e4bf67a083c6.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07763/457edea3d8fb3a10c9d0e4bf67a083c6.jpg"
+    }
+  ],
+  "物件ID": "07763",
+  "ステータス": "有効"
+}

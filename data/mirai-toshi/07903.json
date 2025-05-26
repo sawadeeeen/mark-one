@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "つつじケ丘ガーデンハウスサニーサイドレジデンス",
+  "部屋番号": "303号室",
+  "交通": [
+    {
+      "路線名": "京王線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都調布市西つつじヶ丘1丁目18-10",
+  "間取り": "3LDK+WIC",
+  "面積": 72.29,
+  "建築年月": "2001年9月",
+  "価格": 5799,
+  "オススメ情報": [
+    "売マンションつつじケ丘ガーデンハウスサニーサイドレジデンス　303号室\n      新規リフォーム物件南西向き・陽当り良好オートロック付宅配BOX有京王線急行・快速停車駅\n      \n\n\t\t更新日：2025/4/22次更新：2025/1/16-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京王線　つつじヶ丘　徒歩：9分\n\t\t\t\t\t東京都調布市西つつじヶ丘1丁目18-10\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t72.29㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2001年9月\n\t\t\t\t\t5,799万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-2-10',\n\t\tendDate : '2025-3-7',\n\t\tid : '07903'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/d892663492c9e059173c6f17647f3118.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07903/d892663492c9e059173c6f17647f3118.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/808b8606f306663020e8833f3eaf1f93.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/808b8606f306663020e8833f3eaf1f93.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/826ac40d94423a15f8d7d37b60086eb6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/826ac40d94423a15f8d7d37b60086eb6.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/a469b9996f35773e92794752743b71e6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/a469b9996f35773e92794752743b71e6.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/e97cec7f3a6eb6fd6aa40f7a749a20e3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/e97cec7f3a6eb6fd6aa40f7a749a20e3.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/c69371f5b0942f13c8f70f890021aaab.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/c69371f5b0942f13c8f70f890021aaab.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/350fc18739ecbd43262f55ce577a429d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/350fc18739ecbd43262f55ce577a429d.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/a29e8eca9d59cb24c44bbb0cd781eb75.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/a29e8eca9d59cb24c44bbb0cd781eb75.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/e0ce7bfff6955f1957c0a46647f4e010.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/e0ce7bfff6955f1957c0a46647f4e010.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/da3ede1ca8b0c73c2ba825d9b891e965.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/da3ede1ca8b0c73c2ba825d9b891e965.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/a63edbccfc529521bb1b89500b50cc9b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/a63edbccfc529521bb1b89500b50cc9b.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8277f0db9/a8dbf9a89605f4f6871c6e5506c8d468.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07903/a8dbf9a89605f4f6871c6e5506c8d468.jpg"
+    }
+  ],
+  "物件ID": "07903",
+  "ステータス": "有効"
+}

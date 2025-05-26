@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション多摩永山第三",
+  "部屋番号": "401号室",
+  "交通": [
+    {
+      "路線名": "京王相模原線",
+      "駅名": "",
+      "徒歩時間": 13
+    }
+  ],
+  "所在地": "東京都多摩市馬引沢1丁目6-8",
+  "間取り": "3LDK",
+  "面積": 63.85,
+  "建築年月": "1987年2月",
+  "価格": 2399,
+  "オススメ情報": [
+    "売マンションライオンズマンション多摩永山第三　401号室\n      新規リノベーション物件陽当り・眺望良好ルーフバルコニー付オートロック付新耐震基準\n      \n\n\t\t更新日：2025/5/15次更新：2024/12/19-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京王相模原線　京王永山　徒歩：13分\n\t\t\t\t\t東京都多摩市馬引沢1丁目6-8\n\t\t\t\t\t3LDK\n\t\t\t\t\t63.85㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1987年2月\n\t\t\t\t\t2,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-12-23',\n\t\tendDate : '2025-3-21',\n\t\tid : '07662'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/907ef7d8881bfd2ffeef4f6754dd89bc.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07662/907ef7d8881bfd2ffeef4f6754dd89bc.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/3e73ca14de84d5779517cf52f63ab3b1.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/3e73ca14de84d5779517cf52f63ab3b1.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/ad74faf94317230dde676caa217ffb03.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/ad74faf94317230dde676caa217ffb03.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/9a0822fd9a23947b45da5dce229e8a2d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/9a0822fd9a23947b45da5dce229e8a2d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/42bc868c43d3c30b74120460c0f9c54d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/42bc868c43d3c30b74120460c0f9c54d.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/9ee685bfacfd85390fc2b634b31ae91e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/9ee685bfacfd85390fc2b634b31ae91e.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/0a1e72c22806090cf1e74a614683d134.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/0a1e72c22806090cf1e74a614683d134.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/40e487f6ebfcc83cdd9e5ba167ee342c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/40e487f6ebfcc83cdd9e5ba167ee342c.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/78c40da8413359200044c44cdbb86c7f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/78c40da8413359200044c44cdbb86c7f.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/6aea33d2f6288a92342d507fb06c5ae1.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/6aea33d2f6288a92342d507fb06c5ae1.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/29c19b62fded6b93df329d0db1df7f1c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/29c19b62fded6b93df329d0db1df7f1c.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/675a85bd3e8c8/332e35f08b62e651b8052ddbba8bdae6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07662/332e35f08b62e651b8052ddbba8bdae6.jpg"
+    }
+  ],
+  "物件ID": "07662",
+  "ステータス": "有効"
+}

@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ドウエル東町",
+  "部屋番号": "203号室",
+  "交通": [
+    {
+      "路線名": "JR青梅線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都昭島市東町3丁目2-13",
+  "間取り": "3LDK",
+  "面積": 53.46,
+  "建築年月": "1986年3月",
+  "価格": 2099,
+  "オススメ情報": [
+    "売マンションドウエル東町　203号室\n      新規リノベーション物件登記簿面積50㎡以上外壁タイル貼南西向き陽当り良好\n      \n\n\t\t更新日：2025/3/24次更新：2024/2/10-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR青梅線　西立川　徒歩：4分\n\t\t\t\t\t東京都昭島市東町3丁目2-13\n\t\t\t\t\t3LDK\n\t\t\t\t\t53.46㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1986年3月\n\t\t\t\t\t2,099万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-2-13',\n\t\tendDate : '2024-4-26',\n\t\tid : '07012'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/2ac08187bb94f08860c7e55ffc9b4649.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07012/2ac08187bb94f08860c7e55ffc9b4649.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/0908d6f246aa3289f43d11090c98a638.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07012/0908d6f246aa3289f43d11090c98a638.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/5027e6fa0b929bd5a4a12a301fe3b9a3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/5027e6fa0b929bd5a4a12a301fe3b9a3.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/b65a315e95826b52443b33388a1d3dc8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/b65a315e95826b52443b33388a1d3dc8.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/1d88fc9405afeccd43fa9b93e55a83de.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/1d88fc9405afeccd43fa9b93e55a83de.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/9706d3e5e705c2736fd6e11589de5a1d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/9706d3e5e705c2736fd6e11589de5a1d.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/28e18d8ff97fe6fe160adfc5edcd2abf.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/28e18d8ff97fe6fe160adfc5edcd2abf.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/de4497d2d4e10567978b6d3b1fbe2daa.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/de4497d2d4e10567978b6d3b1fbe2daa.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/51eee979e58e56512add7217d6ba2348.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/51eee979e58e56512add7217d6ba2348.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/402f6ad188a3f8aab127a0ddb892707f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/402f6ad188a3f8aab127a0ddb892707f.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/f1e11e3cb41e4cdf20cc94907cd4f307.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/f1e11e3cb41e4cdf20cc94907cd4f307.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65bdadddd9e53/79d2095c762784034c7ca372768304a5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07012/79d2095c762784034c7ca372768304a5.jpg"
+    }
+  ],
+  "物件ID": "07012",
+  "ステータス": "有効"
+}

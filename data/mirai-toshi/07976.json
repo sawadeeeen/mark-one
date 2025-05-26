@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "クレッセント中目黒",
+  "部屋番号": "1101号室",
+  "交通": [
+    {
+      "路線名": "東急東横線",
+      "駅名": "",
+      "徒歩時間": 11
+    }
+  ],
+  "所在地": "東京都目黒区中目黒4丁目5-2",
+  "間取り": "3LDK",
+  "面積": 75.16,
+  "建築年月": "1995年11月",
+  "価格": 17499,
+  "オススメ情報": [
+    "売マンションクレッセント中目黒　1101号室\n      新規リノベーション物件オートロック付複数路線利用可外壁タイル貼駅徒歩15分圏内\n      \n\n\t\t更新日：2025/5/9次更新：2025/5/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ日比谷線、東急東横線　中目黒　徒歩：11分\n\t\t\t\t\t東京都目黒区中目黒4丁目5-2\n\t\t\t\t\t3LDK\n\t\t\t\t\t75.16㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1995年11月\n\t\t\t\t\t17,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-7',\n\t\tendDate : '2025-6-28',\n\t\tid : '07976'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c4e9371491/aee3c72911fc9dad46eb4d577e5524e3.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07976/aee3c72911fc9dad46eb4d577e5524e3.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c4e9371491/dcc88f1973ad414445db6627404c8822.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07976/dcc88f1973ad414445db6627404c8822.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c4e9371491/940b39eb603fc7ba9ddacdba74c67190.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07976/940b39eb603fc7ba9ddacdba74c67190.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c4e9371491/285207f0c55d009ebf9a8c53a15448e8.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07976/285207f0c55d009ebf9a8c53a15448e8.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c4e9371491/fae76ec2908d99c8c44d24138301cf1a.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07976/fae76ec2908d99c8c44d24138301cf1a.jpg"
+    }
+  ],
+  "物件ID": "07976",
+  "ステータス": "有効"
+}

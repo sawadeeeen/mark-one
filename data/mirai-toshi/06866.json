@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンシヨン大宮指扇第二",
+  "部屋番号": "110号室",
+  "交通": [
+    {
+      "路線名": "JR川越線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "埼玉県さいたま市西区大字指扇3363-2",
+  "間取り": "3LDK",
+  "面積": 77.49,
+  "建築年月": "1990年4月",
+  "価格": 2399,
+  "オススメ情報": [
+    "売マンションライオンズマンシヨン大宮指扇第二　110号室\n      新規リノベーション物件 平成築・大規模マンション ペット飼育可(犬または猫一匹のみ、事前審査有・細則有) 学区『指扇小学校』『土屋中学校』 南向き・陽当り良好\n      \n\n\t\t更新日：2025/4/11次更新：2023/9/28-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR川越線　西大宮　徒歩：8分\n\t\t\t\t\t埼玉県さいたま市西区大字指扇3363-2\n\t\t\t\t\t3LDK\n\t\t\t\t\t77.49㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1990年4月\n\t\t\t\t\t2,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2023-10-16',\n\t\tendDate : '2023-12-22',\n\t\tid : '06866'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/1a92ddaac3e15943cf5b79953aada919.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "06866/1a92ddaac3e15943cf5b79953aada919.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/88b1532ea33ea8d41752b1cdda9bda5e.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "06866/88b1532ea33ea8d41752b1cdda9bda5e.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/6b3cd352190a93cdf414d59abea9ae02.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/6b3cd352190a93cdf414d59abea9ae02.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/75497305a90fc4b8ef7cd2648464fa13.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/75497305a90fc4b8ef7cd2648464fa13.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/5c41016d7c8c03fad82385e21c84a206.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/5c41016d7c8c03fad82385e21c84a206.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/de1d384111f1b9c9fbf8fbb28d835830.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/de1d384111f1b9c9fbf8fbb28d835830.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/0adae5e1ef99858cb6ec72a37b308127.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/0adae5e1ef99858cb6ec72a37b308127.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/eb7772d8b7003f7e40b29d5a17a609b8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/eb7772d8b7003f7e40b29d5a17a609b8.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/80af3bd67dbd81f01ebf404ae2f2f4ac.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/80af3bd67dbd81f01ebf404ae2f2f4ac.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/5897f561335273d11aececfb1577032d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/5897f561335273d11aececfb1577032d.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/a270f62d73d745177d083a981d9ccf0f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/a270f62d73d745177d083a981d9ccf0f.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/650bd3ecc608f/b83219da1ddb777973f2096e43fa60bc.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06866/b83219da1ddb777973f2096e43fa60bc.jpg"
+    }
+  ],
+  "物件ID": "06866",
+  "ステータス": "有効"
+}

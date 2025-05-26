@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズプラザ西八王子",
+  "部屋番号": "802号室",
+  "交通": [
+    {
+      "路線名": "JR中央本線",
+      "駅名": "",
+      "徒歩時間": 6
+    }
+  ],
+  "所在地": "東京都八王子市千人町1丁目5-15",
+  "間取り": "3LDK+WIC",
+  "面積": 79.38,
+  "建築年月": "1991年5月",
+  "価格": 3699,
+  "オススメ情報": [
+    "売マンションライオンズプラザ西八王子　802号室\n      新規リフォーム物件新耐震基準オートロック付防犯カメラ有令和3年5月 大規模修繕工事実施済\n      \n\n\t\t更新日：2025/4/14次更新：2024/10/18-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR中央本線　西八王子　徒歩：6分\n\t\t\t\t\t東京都八王子市千人町1丁目5-15\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t79.38㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1991年5月\n\t\t\t\t\t3,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-11-11',\n\t\tendDate : '2025-1-31',\n\t\tid : '07726'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/95e903c28a4e3b5ee663de7005a4c4e0.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07726/95e903c28a4e3b5ee663de7005a4c4e0.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/337d70a94ed31ae41a166f97e55d7658.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07726/337d70a94ed31ae41a166f97e55d7658.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/dcb9c6b815653377f67953014619292e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/dcb9c6b815653377f67953014619292e.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/18b8317220133db5bc04d5c8524cfa9d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/18b8317220133db5bc04d5c8524cfa9d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/6cd3f2ca52a4b76b9a6b81031fef1e3e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/6cd3f2ca52a4b76b9a6b81031fef1e3e.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/522522342b7342c1a723b63eb031c23a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/522522342b7342c1a723b63eb031c23a.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/d75624cf1b60f976647623d6e575e42a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/d75624cf1b60f976647623d6e575e42a.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/1f8dde17286d671ec986a78d903022ba.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/1f8dde17286d671ec986a78d903022ba.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/7272e342e80d6cac7ab6ff70f30198b6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/7272e342e80d6cac7ab6ff70f30198b6.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/ba20a44512aa3660c3cb03b9b6f98c02.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/ba20a44512aa3660c3cb03b9b6f98c02.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/fc3993ebdf0a4c903d2afc2ad9a0171d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/fc3993ebdf0a4c903d2afc2ad9a0171d.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6708a6a7e6bf3/4291c3c797ec24979d34e26de2e77106.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07726/4291c3c797ec24979d34e26de2e77106.jpg"
+    }
+  ],
+  "物件ID": "07726",
+  "ステータス": "有効"
+}

@@ -1,0 +1,48 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ランロウド不動前【一棟】",
+  "部屋番号": null,
+  "交通": [
+    {
+      "路線名": "東急目黒線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "東京都品川区小山1丁目5-19",
+  "間取り": "",
+  "面積": 233.37,
+  "建築年月": "2009年2月",
+  "価格": 29800,
+  "オススメ情報": [
+    "売マンションランロウド不動前【一棟】\n      西五反田7丁目・武蔵小山再開発エリア至近「武蔵小山商店街パルム」が生活圏内「林試の森公園」まで徒歩10分賑わいを見せる立地に佇む一棟レジデンス\n      \n\n\t\t更新日：2023/12/19次更新：2023/6/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東急目黒線　不動前　徒歩：7分\n\t\t\t\t\t東京都品川区小山1丁目5-19\n\t\t\t\t\t\n\t\t\t\t\t233.37㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2009年2月\n\t\t\t\t\t29,800万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '06648'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/647477ac3d0a6/cd2c0f8d4851f24ccd6cc11e67db5bdf.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "06648/cd2c0f8d4851f24ccd6cc11e67db5bdf.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/647477ac3d0a6/0bcc6a84017bdee1a6e070cee2ba51eb.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "06648/0bcc6a84017bdee1a6e070cee2ba51eb.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/647477ac3d0a6/ade2a05075d73ef17d24a7c80c3a2dbd.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "06648/ade2a05075d73ef17d24a7c80c3a2dbd.jpg"
+    }
+  ],
+  "物件ID": "06648",
+  "ステータス": "有効"
+}

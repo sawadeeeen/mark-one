@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ワコーレ所沢Ⅲ",
+  "部屋番号": "301号室",
+  "交通": [
+    {
+      "路線名": "西武池袋線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "埼玉県所沢市北秋津290-1",
+  "間取り": "3LDK+WIC",
+  "面積": 58.27,
+  "建築年月": "1994年12月",
+  "価格": 3999,
+  "オススメ情報": [
+    "売マンションワコーレ所沢Ⅲ　301号室\n      新規リノベーション物件複数路線利用可角部屋ペット飼育可(細則有)全室採光有\n      \n\n\t\t更新日：2025/5/12次更新：2025/4/26-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線、西武池袋線　所沢　徒歩：9分\n\t\t\t\t\t埼玉県所沢市北秋津290-1\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t58.27㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1994年12月\n\t\t\t\t\t3,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-25',\n\t\tendDate : '2025-7-5',\n\t\tid : '07946'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680347391a24f/50c0afcce152522f1216298e70b9598d.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07946/50c0afcce152522f1216298e70b9598d.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680347391a24f/eab954853c527cfb67941bffbff666b8.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07946/eab954853c527cfb67941bffbff666b8.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680347391a24f/0b4fc9c7f31fc2be931dec9d20756326.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07946/0b4fc9c7f31fc2be931dec9d20756326.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680347391a24f/7c81d9a8e5a8ba8320464788cc960972.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07946/7c81d9a8e5a8ba8320464788cc960972.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680347391a24f/dad23ed99d366dfe453e16a9e22cffda.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07946/dad23ed99d366dfe453e16a9e22cffda.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680347391a24f/3f339787c555fd28456e5dbf36732793.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07946/3f339787c555fd28456e5dbf36732793.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680347391a24f/7d515081b35f570538114cb11714c34d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07946/7d515081b35f570538114cb11714c34d.jpg"
+    }
+  ],
+  "物件ID": "07946",
+  "ステータス": "有効"
+}

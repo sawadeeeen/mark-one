@@ -1,0 +1,41 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シャトレ愛松半田Ⅲ",
+  "部屋番号": "705号室",
+  "交通": [
+    {
+      "路線名": "JR武豊線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "愛知県半田市旭町2丁目72",
+  "間取り": "4LDK",
+  "面積": 81.0,
+  "建築年月": "2003年2月",
+  "価格": 1599,
+  "オススメ情報": [
+    "売マンションシャトレ愛松半田Ⅲ　705号室\n      新規リフォーム物件複数路線利用可ペット飼育可(細則有)カウンターキッチン眺望良好\n      \n\n\t\t更新日：2025/2/17次更新：2024/3/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR武豊線　東成岩　徒歩：5分\n\t\t\t\t\t愛知県半田市旭町2丁目72\n\t\t\t\t\t4LDK\n\t\t\t\t\t81㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2003年2月\n\t\t\t\t\t1,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-3-18',\n\t\tendDate : '2024-4-27',\n\t\tid : '07119'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65dd4f51e9804/50b9ae4a5e2e16046ac96fdd58185c00.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07119/50b9ae4a5e2e16046ac96fdd58185c00.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65dd4f51e9804/06aaecfec28e17dcae1888fa38a3515e.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07119/06aaecfec28e17dcae1888fa38a3515e.jpg"
+    }
+  ],
+  "物件ID": "07119",
+  "ステータス": "有効"
+}

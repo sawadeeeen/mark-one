@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ビッグヴァン湘南辻堂",
+  "部屋番号": "303号室",
+  "交通": [
+    {
+      "路線名": "JR東海道線",
+      "駅名": "",
+      "徒歩時間": 15
+    }
+  ],
+  "所在地": "神奈川県藤沢市城南2丁目6-30",
+  "間取り": "1SLDK",
+  "面積": 52.5,
+  "建築年月": "1992年5月",
+  "価格": 1699,
+  "オススメ情報": [
+    "売マンションビッグヴァン湘南辻堂　303号室\n      新規リフォーム物件新耐震基準外壁タイル貼長期修繕計画有オートロック付\n      \n\n\t\t更新日：2025/3/24次更新：2024/5/25-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR東海道線　辻堂　徒歩：15分\n\t\t\t\t\t神奈川県藤沢市城南2丁目6-30\n\t\t\t\t\t1SLDK\n\t\t\t\t\t52.5㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1992年5月\n\t\t\t\t\t1,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-5-13',\n\t\tendDate : '2024-6-28',\n\t\tid : '07272'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/3570385595aac623e5d8dca9be6f92d1.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07272/3570385595aac623e5d8dca9be6f92d1.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/e2ef186fe305ca2f0b82c370c16f6427.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07272/e2ef186fe305ca2f0b82c370c16f6427.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/0c54886d2788ac64656cd57731631cfc.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/0c54886d2788ac64656cd57731631cfc.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/183914b253bf4eda57df76d0a5d1f6da.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/183914b253bf4eda57df76d0a5d1f6da.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/eff1cf7c4e5b51b1ab6a800ee9035e20.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/eff1cf7c4e5b51b1ab6a800ee9035e20.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/3bb328eeebf30ed797561f1a39f9108f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/3bb328eeebf30ed797561f1a39f9108f.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/05ab3a38c722094e80d807fc8ccc2344.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/05ab3a38c722094e80d807fc8ccc2344.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/6f276955ddc0eadbbc2934a1681fcd1d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/6f276955ddc0eadbbc2934a1681fcd1d.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/0769f4f8c96f1557862f34944641e656.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/0769f4f8c96f1557862f34944641e656.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/2e3ef6cacc45ab15b30a1a79a2f92968.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/2e3ef6cacc45ab15b30a1a79a2f92968.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/9535b0d2e2bfb8a83ce4a6c59366afa6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/9535b0d2e2bfb8a83ce4a6c59366afa6.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/664822a7407be/505e108f5e69d8fc3b413a5c4a8b71d2.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07272/505e108f5e69d8fc3b413a5c4a8b71d2.jpg"
+    }
+  ],
+  "物件ID": "07272",
+  "ステータス": "有効"
+}

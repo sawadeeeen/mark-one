@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション船橋第六",
+  "部屋番号": "502号室",
+  "交通": [
+    {
+      "路線名": "JR総武線",
+      "駅名": "",
+      "徒歩時間": 12
+    }
+  ],
+  "所在地": "千葉県船橋市市場3丁目12-25",
+  "間取り": "3LDK+WIC",
+  "面積": 57.24,
+  "建築年月": "1990年10月",
+  "価格": 2699,
+  "オススメ情報": [
+    "売マンションライオンズマンション船橋第六　502号室\n      新規リノベーション物件オートロック付宅配ＢＯＸ有平成築眺望・陽当り良好\n      \n\n\t\t更新日：2025/5/12次更新：2024/8/8-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR総武線　東船橋　徒歩：12分\n\t\t\t\t\t千葉県船橋市市場3丁目12-25\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t57.24㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1990年10月\n\t\t\t\t\t2,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-9-7',\n\t\tendDate : '2024-12-2',\n\t\tid : '07179'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/5d98c9eccc8361e5a9b73eac7296c93e.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07179/5d98c9eccc8361e5a9b73eac7296c93e.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/bce55a760d0b30dd8444fb8d80b89174.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/bce55a760d0b30dd8444fb8d80b89174.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/6b47bd638ebfa81820b30f57e480f067.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/6b47bd638ebfa81820b30f57e480f067.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/be80f70bca4c76b1f8d37fe739f483fd.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/be80f70bca4c76b1f8d37fe739f483fd.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/0212ea81b5da66ea076881d8053ef1e4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/0212ea81b5da66ea076881d8053ef1e4.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/968db9529bbd922ea22b36572b00c2ad.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/968db9529bbd922ea22b36572b00c2ad.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/86a3a3dfde079b811fdbc731ab86bbe0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/86a3a3dfde079b811fdbc731ab86bbe0.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/2d20a4588a8443bb1bbe27b479e17ac0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/2d20a4588a8443bb1bbe27b479e17ac0.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/b41df162823859683ad338e47af7adb1.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/b41df162823859683ad338e47af7adb1.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/b164d161d1294b16c12fae24b8bc4e29.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/b164d161d1294b16c12fae24b8bc4e29.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/a037b54b4d2efd951288929cefa7c554.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/a037b54b4d2efd951288929cefa7c554.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66ab409f191f6/2f7c3636182f654429bfd674e0c612c6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07179/2f7c3636182f654429bfd674e0c612c6.jpg"
+    }
+  ],
+  "物件ID": "07179",
+  "ステータス": "有効"
+}

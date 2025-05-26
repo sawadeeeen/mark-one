@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シーズ天王寺イーストⅡ※案内下見は担当まで",
+  "部屋番号": "201号室",
+  "交通": [
+    {
+      "路線名": "JR大阪環状線",
+      "駅名": "",
+      "徒歩時間": 6
+    }
+  ],
+  "所在地": "大阪府大阪市天王寺区国分町2-2",
+  "間取り": "2LDK+WIC",
+  "面積": 56.52,
+  "建築年月": "1996年4月",
+  "価格": 2899,
+  "オススメ情報": [
+    "売マンションシーズ天王寺イーストⅡ※案内下見は担当まで　201号室\n      新規リノベーション物件三方角部屋全室採光有両面バルコニーオートロック付\n      \n\n\t\t更新日：2025/3/15次更新：2024/12/26-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR大阪環状線　桃谷　徒歩：6分\n\t\t\t\t\t大阪府大阪市天王寺区国分町2-2\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t56.52㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1996年4月\n\t\t\t\t\t2,899万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-1-10',\n\t\tendDate : '2025-2-28',\n\t\tid : '07807'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/c628d619495abda165293d091d4a8bba.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07807/c628d619495abda165293d091d4a8bba.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/cbb2710c01b1f0eba8bf50ac0b4f1bdc.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07807/cbb2710c01b1f0eba8bf50ac0b4f1bdc.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/c2d242424d8d4892c35a0f7c65a85384.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/c2d242424d8d4892c35a0f7c65a85384.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/fec01560626eeb22f9cedf2880e159d0.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/fec01560626eeb22f9cedf2880e159d0.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/542b1ad6b748478aff262edc26be1855.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/542b1ad6b748478aff262edc26be1855.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/25ca282ac980138f97abaa4983ea8be6.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/25ca282ac980138f97abaa4983ea8be6.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/5202bcdac4c3eb9fa39e0e36c870d7fa.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/5202bcdac4c3eb9fa39e0e36c870d7fa.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/6f1ca084ffc5edf8e7cd6773add09a92.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/6f1ca084ffc5edf8e7cd6773add09a92.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/0e44ca9fd6780de22dcd04ffa7a44160.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/0e44ca9fd6780de22dcd04ffa7a44160.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6763e4bf8c619/a71a76f01e0552b57b3315bbd12a3277.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07807/a71a76f01e0552b57b3315bbd12a3277.jpg"
+    }
+  ],
+  "物件ID": "07807",
+  "ステータス": "有効"
+}

@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ナイスアーバン中野方南町",
+  "部屋番号": "305号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ丸ノ内線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "東京都中野区南台5丁目13-20",
+  "間取り": "2LDK",
+  "面積": 57.21,
+  "建築年月": "1990年9月",
+  "価格": 6399,
+  "オススメ情報": [
+    "売マンションナイスアーバン中野方南町　305号室\n      新規リノベーション物件複数路線利用可南西向き通風良好ルーフバルコニー付\n      \n\n\t\t更新日：2025/5/12次更新：2025/5/17-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ丸ノ内線　方南町　徒歩：8分\n\t\t\t\t\t東京都中野区南台5丁目13-20\n\t\t\t\t\t2LDK\n\t\t\t\t\t57.21㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1990年9月\n\t\t\t\t\t6,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08075'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681ed4dd19032/71afd07cca6c59dc0d130d376fa1a754.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08075/71afd07cca6c59dc0d130d376fa1a754.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681ed4dd19032/a3710df1a72b38a84b339bd164a92c6e.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08075/a3710df1a72b38a84b339bd164a92c6e.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681ed4dd19032/1996d13ae65f6d5e71712bcc455abd05.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08075/1996d13ae65f6d5e71712bcc455abd05.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681ed4dd19032/56645f53ef8898f47da80fb98f62fa59.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08075/56645f53ef8898f47da80fb98f62fa59.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681ed4dd19032/12f3834b74a77b351ae21ad39a888cb8.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08075/12f3834b74a77b351ae21ad39a888cb8.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681ed4dd19032/dc1d7a95da245030d94b0cf54afa29fa.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08075/dc1d7a95da245030d94b0cf54afa29fa.jpg"
+    }
+  ],
+  "物件ID": "08075",
+  "ステータス": "有効"
+}

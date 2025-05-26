@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ストークマンシヨン内本町",
+  "部屋番号": "1006号室",
+  "交通": [
+    {
+      "路線名": "大阪メトロ堺筋線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "大阪府大阪市中央区本町橋8-3",
+  "間取り": "1SLDK+WIC",
+  "面積": 60.48,
+  "建築年月": "1982年8月",
+  "価格": 3599,
+  "オススメ情報": [
+    "売マンションストークマンシヨン内本町　1006号室\n      新規リノベーション物件 複数路線利用可 駅徒歩4分 棟内1階に業務スーパー有 外壁タイル貼\n      \n\n\t\t更新日：2025/5/15次更新：2025/5/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t大阪メトロ中央線、大阪メトロ堺筋線　堺筋本町　徒歩：4分\n\t\t\t\t\t大阪府大阪市中央区本町橋8-3\n\t\t\t\t\t1SLDK+WIC\n\t\t\t\t\t60.48㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1982年8月\n\t\t\t\t\t3,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08165'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c7e5de02cb/b24fc40a2caa2ad20bd4034268ab3ca8.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08165/b24fc40a2caa2ad20bd4034268ab3ca8.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c7e5de02cb/7243786883989b30fc0bfc992b64d755.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08165/7243786883989b30fc0bfc992b64d755.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c7e5de02cb/2b83c3de59d16424729cb0800f902eb3.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08165/2b83c3de59d16424729cb0800f902eb3.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c7e5de02cb/6abfaf8b7ad4460314335284b45d25b0.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08165/6abfaf8b7ad4460314335284b45d25b0.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680c7e5de02cb/262828c0a094d05b6898d5a22fc9d38d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08165/262828c0a094d05b6898d5a22fc9d38d.jpg"
+    }
+  ],
+  "物件ID": "08165",
+  "ステータス": "有効"
+}

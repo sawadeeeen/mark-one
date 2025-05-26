@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "パークホームズ八王子",
+  "部屋番号": "1113号室",
+  "交通": [
+    {
+      "路線名": "JR横浜線",
+      "駅名": "",
+      "徒歩時間": 11
+    }
+  ],
+  "所在地": "東京都八王子市八日町3-1",
+  "間取り": "4LDK+WIC",
+  "面積": 82.94,
+  "建築年月": "2016年12月",
+  "価格": 6499,
+  "オススメ情報": [
+    "売マンションパークホームズ八王子　1113号室\n      新規リフォーム物件ペット飼育可(2匹可・細則有)ペット足洗い場有宅配BOX有修繕履歴有\n      \n\n\t\t更新日：2025/5/9次更新：2025/1/16-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR中央本線、JR横浜線　八王子　徒歩：11分\n\t\t\t\t\t東京都八王子市八日町3-1\n\t\t\t\t\t4LDK+WIC\n\t\t\t\t\t82.94㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2016年12月\n\t\t\t\t\t6,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-5-1',\n\t\tendDate : '2025-5-24',\n\t\tid : '07907'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8a228e3d6/be32369fd4276e71d1cc3d3b7e3e3948.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07907/be32369fd4276e71d1cc3d3b7e3e3948.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8a228e3d6/fecef2e879d1bd73fe97165e8c99f76f.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07907/fecef2e879d1bd73fe97165e8c99f76f.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8a228e3d6/b0ac83b67e7f7476e67a5b13edaea388.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07907/b0ac83b67e7f7476e67a5b13edaea388.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/677f8a228e3d6/e905f2740c43eef7f6f0fc5da66e693e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07907/e905f2740c43eef7f6f0fc5da66e693e.jpg"
+    }
+  ],
+  "物件ID": "07907",
+  "ステータス": "有効"
+}

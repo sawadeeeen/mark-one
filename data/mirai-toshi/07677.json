@@ -1,0 +1,104 @@
+{
+  "物件種別": "マンション",
+  "建物名": "秀和柏レジデンス",
+  "部屋番号": "303号室",
+  "交通": [
+    {
+      "路線名": "東武アーバンパークライン",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "千葉県柏市あけぼの1丁目3-20",
+  "間取り": "3LDK",
+  "面積": 58.8,
+  "建築年月": "1985年5月",
+  "価格": 2999,
+  "オススメ情報": [
+    "売マンション秀和柏レジデンス　303号室\n      新規リノベーション物件駅徒歩5分圏内複数路線利用可長期修繕計画有対面キッチン\n      \n\n\t\t更新日：2025/5/8次更新：2025/5/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR常磐線、JR常磐快速線、東武アーバンパークライン　柏　徒歩：5分\n\t\t\t\t\t千葉県柏市あけぼの1丁目3-20\n\t\t\t\t\t3LDK\n\t\t\t\t\t58.8㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1985年5月\n\t\t\t\t\t2,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-1-6',\n\t\tendDate : '2025-4-9',\n\t\tid : '07677'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/39a31138b0da9c67a84b67bcbb2b7632.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07677/39a31138b0da9c67a84b67bcbb2b7632.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/1b24930274116b67643b6c251eea4325.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07677/1b24930274116b67643b6c251eea4325.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/344ba20865f6f547d73b6e833fcd0ed5.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07677/344ba20865f6f547d73b6e833fcd0ed5.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/46ed875855c72f0bda8e8813c2c822b4.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07677/46ed875855c72f0bda8e8813c2c822b4.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/90367359c327bfd2057a9627d8d28feb.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07677/90367359c327bfd2057a9627d8d28feb.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/d7b54ece29840e175ec8f2421589943d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07677/d7b54ece29840e175ec8f2421589943d.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/6d106730957d1e1ee1f44844cb01f428.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07677/6d106730957d1e1ee1f44844cb01f428.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/ba0c07fe2069abdd6695cc2a86d220d7.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07677/ba0c07fe2069abdd6695cc2a86d220d7.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/7c81e0ce9e1c9aa77277cf55592b3570.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07677/7c81e0ce9e1c9aa77277cf55592b3570.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/a9ee4b0361853f1535cd7c9903a34b17.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07677/a9ee4b0361853f1535cd7c9903a34b17.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c33b3e36fc/a039d5fe916b61a9f8af4a6e1ffa840d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07677/a039d5fe916b61a9f8af4a6e1ffa840d.jpg"
+    }
+  ],
+  "物件ID": "07677",
+  "ステータス": "有効"
+}

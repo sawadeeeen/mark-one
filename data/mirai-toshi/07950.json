@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ルミナリータワー池袋",
+  "部屋番号": "2401号室",
+  "交通": [
+    {
+      "路線名": "東武東上線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都豊島区池袋2丁目52-3",
+  "間取り": "2LDK",
+  "面積": 55.31,
+  "建築年月": "2013年2月",
+  "価格": 12999,
+  "オススメ情報": [
+    "売マンションルミナリータワー池袋　2401号室\n      新規リノベーション物件複数路線利用可ペット飼育可(細則有)駅徒歩5分圏内各階ゴミ置き場有\n      \n\n\t\t更新日：2025/3/31次更新：2025/4/7-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR山手線、JR埼京線、JR湘南新宿ライン、西武池袋線、東京メトロ丸ノ内線、東京メトロ有楽町線、東京メトロ副都心線、東武東上線　池袋　徒歩：4分\n\t\t\t\t\t東京都豊島区池袋2丁目52-3\n\t\t\t\t\t2LDK\n\t\t\t\t\t55.31㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2013年2月\n\t\t\t\t\t12,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07950'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ea216ee8d54/7d920fb7e0f059706c669480c5efe5ff.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07950/7d920fb7e0f059706c669480c5efe5ff.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ea216ee8d54/36b4433f15f60f8f26fe9f3b7a571652.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07950/36b4433f15f60f8f26fe9f3b7a571652.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ea216ee8d54/d11976fb0af2e50fd0f651e73cd7b365.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07950/d11976fb0af2e50fd0f651e73cd7b365.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ea216ee8d54/293bf2e490c4cf483feef96f07815dea.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07950/293bf2e490c4cf483feef96f07815dea.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ea216ee8d54/4685fb4b8da270a9078bba025b607ee8.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07950/4685fb4b8da270a9078bba025b607ee8.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ea216ee8d54/6e082377b2fb6a518edeaf4b951b5610.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07950/6e082377b2fb6a518edeaf4b951b5610.jpg"
+    }
+  ],
+  "物件ID": "07950",
+  "ステータス": "有効"
+}

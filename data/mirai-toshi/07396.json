@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ルネ花小金井",
+  "部屋番号": "232号室",
+  "交通": [
+    {
+      "路線名": "西武新宿線",
+      "駅名": "",
+      "徒歩時間": 16
+    }
+  ],
+  "所在地": "東京都小平市花小金井7丁目6-1",
+  "間取り": "3LDK+WIC",
+  "面積": 72.97,
+  "建築年月": "2012年2月",
+  "価格": 4399,
+  "オススメ情報": [
+    "売マンションルネ花小金井　232号室\n      新規リフォーム物件ペット飼育可(細則有) 修繕積立金総額3億超 長期修繕計画有 公園隣接\n      \n\n\t\t更新日：2025/5/19次更新：2024/7/8-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線　花小金井　徒歩：16分\n\t\t\t\t\t東京都小平市花小金井7丁目6-1\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t72.97㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2012年2月\n\t\t\t\t\t4,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-6-18',\n\t\tendDate : '2024-7-20',\n\t\tid : '07396'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/738cf8d1cda285576f582988bbe3b4f8.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07396/738cf8d1cda285576f582988bbe3b4f8.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/cb3c15651610851fc03710ffd13ac6f6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/cb3c15651610851fc03710ffd13ac6f6.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/629182d11bbaba84a67ddb14f9fed0aa.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/629182d11bbaba84a67ddb14f9fed0aa.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/46c20dfb77d1b3d326d1e8931c5f01d2.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/46c20dfb77d1b3d326d1e8931c5f01d2.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/d8d2c20e7bd76d50ea7d9006434535df.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/d8d2c20e7bd76d50ea7d9006434535df.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/c0f303fe1d44c01c06bb8b108db8b033.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/c0f303fe1d44c01c06bb8b108db8b033.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/f0f0e0f8efe577f7f27703d9f1753cf5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/f0f0e0f8efe577f7f27703d9f1753cf5.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/4f2c2f32f09ecda9e60edd611fcc829e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/4f2c2f32f09ecda9e60edd611fcc829e.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/7e3d801198312b3646b5c78ee864c480.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/7e3d801198312b3646b5c78ee864c480.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/9dbc4b2dd2fcba7491c0af3bd29e3991.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/9dbc4b2dd2fcba7491c0af3bd29e3991.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/51f537ec2068ae2177588d3bd562d198.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/51f537ec2068ae2177588d3bd562d198.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66821f47c26e4/2dba0ca4ab7b3b7fc5dfa45d9d778dbf.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07396/2dba0ca4ab7b3b7fc5dfa45d9d778dbf.jpg"
+    }
+  ],
+  "物件ID": "07396",
+  "ステータス": "有効"
+}

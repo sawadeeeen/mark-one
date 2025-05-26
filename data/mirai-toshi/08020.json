@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "クレストフォルム本郷台サウスステージ",
+  "部屋番号": "915号室",
+  "交通": [
+    {
+      "路線名": "根岸線",
+      "駅名": "",
+      "徒歩時間": 17
+    }
+  ],
+  "所在地": "神奈川県横浜市栄区公田町754-4",
+  "間取り": "3LDK+WIC",
+  "面積": 85.92,
+  "建築年月": "2008年4月",
+  "価格": 3999,
+  "オススメ情報": [
+    "売マンションクレストフォルム本郷台サウスステージ　915号室\n      新規リフォーム物件オートロック付ペット飼育可(細則有)平成20年築アウトフレーム工法\n      \n\n\t\t更新日：2025/3/17次更新：2025/3/24-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線、根岸線　本郷台　徒歩：17分、バス：3分「公田」バス停下車徒歩：12分\n\t\t\t\t\t神奈川県横浜市栄区公田町754-4\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t85.92㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2008年4月\n\t\t\t\t\t3,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-24',\n\t\tendDate : '2025-5-2',\n\t\tid : '08020'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d7a1404d1f7/997e94acd28bdc23a6a71fbd140900b0.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08020/997e94acd28bdc23a6a71fbd140900b0.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d7a1404d1f7/a3056d25815a67184fb14344d7656f2d.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08020/a3056d25815a67184fb14344d7656f2d.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d7a1404d1f7/c9991ce97d5fa99d7cb504f0fef71297.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08020/c9991ce97d5fa99d7cb504f0fef71297.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d7a1404d1f7/cada33240d2f534904fae31c40dc34aa.jpg",
+      "alt": "画像",
+      "caption": "",
+      "saved_path": "08020/cada33240d2f534904fae31c40dc34aa.jpg"
+    }
+  ],
+  "物件ID": "08020",
+  "ステータス": "有効"
+}

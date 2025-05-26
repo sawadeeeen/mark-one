@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "サンヴェール市が尾の丘",
+  "部屋番号": "604号室",
+  "交通": [
+    {
+      "路線名": "東急田園都市線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "神奈川県横浜市青葉区荏田西1丁目12-35",
+  "間取り": "3LDK+WIC",
+  "面積": 72.35,
+  "建築年月": "1998年9月",
+  "価格": 6299,
+  "オススメ情報": [
+    "売マンションサンヴェール市が尾の丘　604号室\n      新規リノベーション物件駅徒歩4分ペット飼育可(細則有)オートロック付宅配BOX有\n      \n\n\t\t更新日：2025/5/12次更新：2025/4/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東急田園都市線　市が尾　徒歩：4分\n\t\t\t\t\t神奈川県横浜市青葉区荏田西1丁目12-35\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t72.35㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1998年9月\n\t\t\t\t\t6,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-21',\n\t\tendDate : '2025-7-9',\n\t\tid : '07959'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e502b22a460/bc3bd22652381582933b50940e618773.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07959/bc3bd22652381582933b50940e618773.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e502b22a460/1c4f55e9b6b32c29415dc9419a87bfea.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07959/1c4f55e9b6b32c29415dc9419a87bfea.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e502b22a460/e77074296c51ab70fe8427e4a0b49c24.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07959/e77074296c51ab70fe8427e4a0b49c24.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e502b22a460/3ec5163819d02b229c931173b4c33fa0.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07959/3ec5163819d02b229c931173b4c33fa0.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e502b22a460/4fa76bb9ef781f25cb885bc73e594f16.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07959/4fa76bb9ef781f25cb885bc73e594f16.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e502b22a460/f61a28dca27df7c91af602ca8bc6052f.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07959/f61a28dca27df7c91af602ca8bc6052f.jpg"
+    }
+  ],
+  "物件ID": "07959",
+  "ステータス": "有効"
+}

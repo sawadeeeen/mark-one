@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション白金台【現況販売】",
+  "部屋番号": "506号室",
+  "交通": [
+    {
+      "路線名": "都営三田線",
+      "駅名": "",
+      "徒歩時間": 6
+    }
+  ],
+  "所在地": "東京都港区白金台1丁目2-12",
+  "間取り": "2LDK+WIC",
+  "面積": 48.26,
+  "建築年月": "1999年1月",
+  "価格": 10799,
+  "オススメ情報": [
+    "売マンションライオンズマンション白金台【現況販売】　506号室\n      2駅3路線利用可平成築オートロック付宅配BOX有ペット飼育可(細則有)\n      \n\n\t\t更新日：2025/4/28次更新：2025/3/6-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ南北線、都営三田線　白金高輪　徒歩：6分\n\t\t\t\t\t東京都港区白金台1丁目2-12\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t48.26㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1999年1月\n\t\t\t\t\t10,799万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07996'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bff09248bc2/f571266ea6a6052042fd96708e59571f.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07996/f571266ea6a6052042fd96708e59571f.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bff09248bc2/aadb3434b94f60be5954b5dc838e7e9d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07996/aadb3434b94f60be5954b5dc838e7e9d.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bff09248bc2/f9e0190171ff83701e0cdc9406407a5b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07996/f9e0190171ff83701e0cdc9406407a5b.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bff09248bc2/69352ff3512aa5b0344b118821dfa154.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07996/69352ff3512aa5b0344b118821dfa154.jpg"
+    }
+  ],
+  "物件ID": "07996",
+  "ステータス": "有効"
+}

@@ -17,7 +17,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys
 
-from utils import save_updated_properties
+from src.utils import save_updated_properties
 
 class ReinsScraper:
     def __init__(self, credentials: Optional[Dict[str, str]] = None):

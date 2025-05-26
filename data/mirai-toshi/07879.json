@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "芝浦アイランド　ケープタワー",
+  "部屋番号": "4425号室",
+  "交通": [
+    {
+      "路線名": "JR京浜東北線",
+      "駅名": "",
+      "徒歩時間": 12
+    }
+  ],
+  "所在地": "東京都港区芝浦4丁目19-1",
+  "間取り": "2LDK",
+  "面積": 64.26,
+  "建築年月": "2006年10月",
+  "価格": 16999,
+  "オススメ情報": [
+    "売マンション芝浦アイランド　ケープタワー　4425号室\n      新規リノベーション物件総戸数1，095戸の大規模レジデンス宅配BOX有令和5年 大規模修繕工事実施済長期修繕計画表有\n      \n\n\t\t更新日：2025/3/27次更新：2025/4/1-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t JR山手線、 JR京浜東北線　田町　徒歩：12分\n\t\t\t\t\t東京都港区芝浦4丁目19-1\n\t\t\t\t\t2LDK\n\t\t\t\t\t64.26㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2006年10月\n\t\t\t\t\t16,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07879'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/ef46e9b11b64434c7abd4163ca730c03.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07879/ef46e9b11b64434c7abd4163ca730c03.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/45a99b8733739a9367431fcaf4c96a13.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07879/45a99b8733739a9367431fcaf4c96a13.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/4f2a17eccf6a1d2e6d956a1da2830a4a.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07879/4f2a17eccf6a1d2e6d956a1da2830a4a.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/6e16627bb7a6637895f71e0ea8f7f3e7.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07879/6e16627bb7a6637895f71e0ea8f7f3e7.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/880644a6200a9ba854d482cff1ba3762.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07879/880644a6200a9ba854d482cff1ba3762.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/936e6f96c0c623d7857a8c25469cca23.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07879/936e6f96c0c623d7857a8c25469cca23.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/93b750cac1eb712d0855fff1f8149121.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07879/93b750cac1eb712d0855fff1f8149121.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/16db1eb82d14b6c351512be5d02c4095.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07879/16db1eb82d14b6c351512be5d02c4095.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/7429558f3992099ae9c1c77409208430.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07879/7429558f3992099ae9c1c77409208430.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263b252891/afd514db6f628cb873bedd13f9e05b7f.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07879/afd514db6f628cb873bedd13f9e05b7f.jpg"
+    }
+  ],
+  "物件ID": "07879",
+  "ステータス": "有効"
+}

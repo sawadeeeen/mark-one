@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "パシフィック大久保",
+  "部屋番号": "204号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 2
+    }
+  ],
+  "所在地": "東京都新宿区新宿7丁目26-18",
+  "間取り": "3LDK+WIC",
+  "面積": 88.99,
+  "建築年月": "1973年4月",
+  "価格": 10680,
+  "オススメ情報": [
+    "売マンションパシフィック大久保　204号室\n      新規リノベーション物件駅徒歩2分圏内複数路線利用可オートロック付防犯カメラ有\n      \n\n\t\t更新日：2025/5/12次更新：2025/2/11-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ副都心線、都営大江戸線　東新宿　徒歩：2分\n\t\t\t\t\t東京都新宿区新宿7丁目26-18\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t88.99㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1973年4月\n\t\t\t\t\t10,680万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-5',\n\t\tendDate : '2025-6-7',\n\t\tid : '07902'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/5f050a0f0c10952de4ebb5cad519a323.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07902/5f050a0f0c10952de4ebb5cad519a323.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/6490d179486c582305cad59266d7d51e.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07902/6490d179486c582305cad59266d7d51e.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/3eb4a78a9d0dd5c7c1c469eaf4047849.jpg",
+      "alt": "画像",
+      "caption": "バルコニー",
+      "saved_path": "07902/3eb4a78a9d0dd5c7c1c469eaf4047849.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/814062621dfadf5066cfed8b52c16a8d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07902/814062621dfadf5066cfed8b52c16a8d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/c2d025148a698acee65bc6b64a7a1b6e.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07902/c2d025148a698acee65bc6b64a7a1b6e.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/e6541de555c778676e1bb296f71c3741.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07902/e6541de555c778676e1bb296f71c3741.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/1f6a6f2867232b807155301b9f5bb37e.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07902/1f6a6f2867232b807155301b9f5bb37e.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a199a919b21/43b379b7bd00e91c7b339f93abb92597.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07902/43b379b7bd00e91c7b339f93abb92597.jpg"
+    }
+  ],
+  "物件ID": "07902",
+  "ステータス": "有効"
+}

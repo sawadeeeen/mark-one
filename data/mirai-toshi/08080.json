@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "築地スカイレジテル",
+  "部屋番号": "302号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ日比谷線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都中央区築地6丁目7-9",
+  "間取り": "1SLDK",
+  "面積": 44.1,
+  "建築年月": "1980年3月",
+  "価格": 5499,
+  "オススメ情報": [
+    "売マンション築地スカイレジテル　302号室\n      新規リノベーション物件駅徒歩5分圏内複数路線利用可大規模レジデンス24時間ゴミ出し可\n      \n\n\t\t更新日：2025/5/17次更新：2025/5/22-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ日比谷線　築地　徒歩：5分\n\t\t\t\t\t東京都中央区築地6丁目7-9\n\t\t\t\t\t1SLDK\n\t\t\t\t\t44.1㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1980年3月\n\t\t\t\t\t5,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08080'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68259212e384f/0b18cc3deedc4b765e6ce2b29d21cd47.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08080/0b18cc3deedc4b765e6ce2b29d21cd47.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68259212e384f/6acc278a99ec356cd203fb5ea405ebdb.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08080/6acc278a99ec356cd203fb5ea405ebdb.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68259212e384f/9bb6203f61cd5521e26f87453f28cf1d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08080/9bb6203f61cd5521e26f87453f28cf1d.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68259212e384f/73e8c0f1dd9bc32a5ad5843d993235b7.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08080/73e8c0f1dd9bc32a5ad5843d993235b7.jpg"
+    }
+  ],
+  "物件ID": "08080",
+  "ステータス": "有効"
+}

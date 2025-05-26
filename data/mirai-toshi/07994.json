@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ウィルローズ市谷柳町",
+  "部屋番号": "702号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "東京都新宿区原町1丁目1",
+  "間取り": "2LDK",
+  "面積": 56.92,
+  "建築年月": "2015年5月",
+  "価格": 11800,
+  "オススメ情報": [
+    "売マンションウィルローズ市谷柳町　702号室\n      新規リフォーム物件駅徒歩1分平成27年築山手線内側眺望良好\n      \n\n\t\t更新日：2025/5/12次更新：2025/5/16-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営大江戸線　牛込柳町　徒歩：1分\n\t\t\t\t\t東京都新宿区原町1丁目1\n\t\t\t\t\t2LDK\n\t\t\t\t\t56.92㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2015年5月\n\t\t\t\t\t11,800万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-24',\n\t\tendDate : '2025-4-26',\n\t\tid : '07994'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/fa57df1e6fb92862fbc928879098891e.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07994/fa57df1e6fb92862fbc928879098891e.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/c28966565ff2f8ca797d3dee4d94d4ed.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/c28966565ff2f8ca797d3dee4d94d4ed.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/80f4db12cd762e5d0932bfb22d05ddc5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/80f4db12cd762e5d0932bfb22d05ddc5.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/4b3667b732b0c296ad227ffc6986525c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/4b3667b732b0c296ad227ffc6986525c.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/4fcdd4a80b92df3df10ce925df66a979.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/4fcdd4a80b92df3df10ce925df66a979.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/2334917ab6d4486016d5608c3ebffea4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/2334917ab6d4486016d5608c3ebffea4.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/61f3ac97323da8f52066a7214b52032b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/61f3ac97323da8f52066a7214b52032b.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/7192e31e43d91c790dd685894122a9c1.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/7192e31e43d91c790dd685894122a9c1.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/4659ca0ad6890fa77a2f84be3796bb4d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/4659ca0ad6890fa77a2f84be3796bb4d.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/0a2969de4a09f75dfaa8bc9f235826bb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/0a2969de4a09f75dfaa8bc9f235826bb.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/1bf88d0da0a749a9bb9bff2073d8493e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/1bf88d0da0a749a9bb9bff2073d8493e.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d69d1cda09/7361b3a64341bef26dbecf7f566246df.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07994/7361b3a64341bef26dbecf7f566246df.jpg"
+    }
+  ],
+  "物件ID": "07994",
+  "ステータス": "有効"
+}

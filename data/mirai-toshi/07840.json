@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "天王寺スカイハイツ",
+  "部屋番号": "915号室",
+  "交通": [
+    {
+      "路線名": "大阪メトロ谷町線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "大阪府大阪市天王寺区南河堀町9-48",
+  "間取り": "3LDK+WIC",
+  "面積": 70.1,
+  "建築年月": "1977年1月",
+  "価格": 4199,
+  "オススメ情報": [
+    "売マンション天王寺スカイハイツ　915号室\n      新規リノベーション物件大規模レジデンス複数路線利用可防犯カメラ有管理体制良好\n      \n\n\t\t更新日：2025/4/28次更新：2025/4/26-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR大和路線、JR大阪環状線、JR阪和線、大阪メトロ御堂筋線、大阪メトロ谷町線　天王寺　徒歩：5分\n\t\t\t\t\t大阪府大阪市天王寺区南河堀町9-48\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t70.1㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1977年1月\n\t\t\t\t\t4,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-3',\n\t\tendDate : '2025-4-21',\n\t\tid : '07840'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/0ee1727f2343089047eb6afc221b7c15.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07840/0ee1727f2343089047eb6afc221b7c15.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/49b0a2d8907a5e2a594835036e9107eb.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07840/49b0a2d8907a5e2a594835036e9107eb.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/4257537a0ca9907ac59363bb80cd95e7.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07840/4257537a0ca9907ac59363bb80cd95e7.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/69118a15b730ba318553722779412b46.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07840/69118a15b730ba318553722779412b46.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/580483c751e2ed67ea47316635c41948.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07840/580483c751e2ed67ea47316635c41948.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/b1f2c00cc5f0f7c92391d55ba879e025.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07840/b1f2c00cc5f0f7c92391d55ba879e025.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/12f79067fd60ed1611f93a602ebda486.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07840/12f79067fd60ed1611f93a602ebda486.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68035b1037bff/35ee3706818357f9adbf47cdf27effc9.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07840/35ee3706818357f9adbf47cdf27effc9.jpg"
+    }
+  ],
+  "物件ID": "07840",
+  "ステータス": "有効"
+}

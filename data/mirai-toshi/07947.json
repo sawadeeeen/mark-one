@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション船橋第六",
+  "部屋番号": "403号室",
+  "交通": [
+    {
+      "路線名": "JR総武線",
+      "駅名": "",
+      "徒歩時間": 12
+    }
+  ],
+  "所在地": "千葉県船橋市市場3丁目12-25",
+  "間取り": "2LDK",
+  "面積": 51.12,
+  "建築年月": "1990年10月",
+  "価格": 2699,
+  "オススメ情報": [
+    "売マンションライオンズマンション船橋第六　403号室\n      新規リノベーション物件オートロック付宅配BOX有平成築陽当り良好\n      \n\n\t\t更新日：2025/3/17次更新：2025/3/18-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR総武線　東船橋　徒歩：12分\n\t\t\t\t\t千葉県船橋市市場3丁目12-25\n\t\t\t\t\t2LDK\n\t\t\t\t\t51.12㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1990年10月\n\t\t\t\t\t2,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07947'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cff530918c5/6d5c7e16bb68350b747a264f60a86ef2.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07947/6d5c7e16bb68350b747a264f60a86ef2.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cff530918c5/e8e0fe1593be5fc4c15d34901818999a.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07947/e8e0fe1593be5fc4c15d34901818999a.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cff530918c5/4a853e969e01802c0c19fabdc68a9785.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07947/4a853e969e01802c0c19fabdc68a9785.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cff530918c5/8ab81a1ae84db04eb5c0155c9abaa73e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07947/8ab81a1ae84db04eb5c0155c9abaa73e.jpg"
+    }
+  ],
+  "物件ID": "07947",
+  "ステータス": "有効"
+}

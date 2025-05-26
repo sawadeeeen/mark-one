@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "三旺マンション松月",
+  "部屋番号": "104号室",
+  "交通": [
+    {
+      "路線名": "名古屋市営地下鉄桜通線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "愛知県名古屋市瑞穂区松月町4丁目2",
+  "間取り": "4LDK",
+  "面積": 90.23,
+  "建築年月": "1983年10月",
+  "価格": 2199,
+  "オススメ情報": [
+    "売マンション三旺マンション松月　104号室\n      新規リノベーション物件ヴィンテージマンション外壁タイル貼専有面積90㎡超オートロック付\n      \n\n\t\t更新日：2025/2/17次更新：2024/3/29-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名古屋市営地下鉄桜通線　桜山　徒歩：8分\n\t\t\t\t\t愛知県名古屋市瑞穂区松月町4丁目2\n\t\t\t\t\t4LDK\n\t\t\t\t\t90.23㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1983年10月\n\t\t\t\t\t2,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-4-1',\n\t\tendDate : '2024-5-31',\n\t\tid : '07196'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65fce07f27d16/b365fd88855d43834aa2b2d95f604b72.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07196/b365fd88855d43834aa2b2d95f604b72.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65fce07f27d16/0f3bdaacf433fc1ee0fe8428621c0504.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07196/0f3bdaacf433fc1ee0fe8428621c0504.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65fce07f27d16/c73ea7e92a2c8624452fd64925a617b8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07196/c73ea7e92a2c8624452fd64925a617b8.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65fce07f27d16/7ea3cb6ad2d19252dd5708b718ed34b3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07196/7ea3cb6ad2d19252dd5708b718ed34b3.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65fce07f27d16/8ea7fc78b34641041013e59b6a3a725d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07196/8ea7fc78b34641041013e59b6a3a725d.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65fce07f27d16/34ffd7bea6ea43fc5033d0dc7839da02.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07196/34ffd7bea6ea43fc5033d0dc7839da02.jpg"
+    }
+  ],
+  "物件ID": "07196",
+  "ステータス": "有効"
+}

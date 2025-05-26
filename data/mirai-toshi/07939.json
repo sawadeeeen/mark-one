@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "コンフォールスクエアさいたま新都心",
+  "部屋番号": "907号室",
+  "交通": [
+    {
+      "路線名": "JR埼京線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "埼玉県さいたま市中央区本町東7丁目1-1",
+  "間取り": "3LDK+WIC",
+  "面積": 92.01,
+  "建築年月": "2003年1月",
+  "価格": 8199,
+  "オススメ情報": [
+    "売マンションコンフォールスクエアさいたま新都心　907号室\n      新規リノベーション物件総戸数275戸の大規模レジデンス複数路線利用可ペット飼育可(細則有)宅配BOX有\n      \n\n\t\t更新日：2025/5/8次更新：2025/4/14-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR埼京線　北与野　徒歩：8分\n\t\t\t\t\t埼玉県さいたま市中央区本町東7丁目1-1\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t92.01㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2003年1月\n\t\t\t\t\t8,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-28',\n\t\tendDate : '2025-7-25',\n\t\tid : '07939'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3576c28ba0/e6c2f1c1ae107a27f1d212e350be2a3c.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07939/e6c2f1c1ae107a27f1d212e350be2a3c.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3576c28ba0/6c6441a0a8817513a7b5f8610b84eac9.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07939/6c6441a0a8817513a7b5f8610b84eac9.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3576c28ba0/38af0c60ac0733268dd0a87138f3151b.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07939/38af0c60ac0733268dd0a87138f3151b.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3576c28ba0/6021a896ddb45652d6816b3a07979c9b.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07939/6021a896ddb45652d6816b3a07979c9b.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3576c28ba0/fb00ee416f7f484b537a86e20ea0dfe5.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07939/fb00ee416f7f484b537a86e20ea0dfe5.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f3576c28ba0/af0861675a67a1620b5e8628fd1c5110.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07939/af0861675a67a1620b5e8628fd1c5110.jpg"
+    }
+  ],
+  "物件ID": "07939",
+  "ステータス": "有効"
+}

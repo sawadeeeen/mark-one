@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "勝どき　ザ・タワー",
+  "部屋番号": "2015号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 6
+    }
+  ],
+  "所在地": "東京都中央区勝どき5丁目3-1",
+  "間取り": "1LDK",
+  "面積": 42.04,
+  "建築年月": "2016年11月",
+  "価格": 9999,
+  "オススメ情報": [
+    "売マンション勝どき　ザ・タワー　2015号室\n      新規リノベーション物件4重オートロック各階にゴミステーション有コンシェルジュサービス有24時間有人管理\n      \n\n\t\t更新日：2025/5/8次更新：2025/5/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営大江戸線　勝どき　徒歩：6分\n\t\t\t\t\t東京都中央区勝どき5丁目3-1\n\t\t\t\t\t1LDK\n\t\t\t\t\t42.04㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2016年11月\n\t\t\t\t\t9,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07892'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c166c35713/a43e02831e194b07c7106b1255298df4.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07892/a43e02831e194b07c7106b1255298df4.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c166c35713/e55f838f93ad17cdc09b96943a61196c.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07892/e55f838f93ad17cdc09b96943a61196c.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c166c35713/50979b560c48c22f8a7139e59212b182.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07892/50979b560c48c22f8a7139e59212b182.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c166c35713/d78ec055ae21b528f620c57c653959dd.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07892/d78ec055ae21b528f620c57c653959dd.jpg"
+    }
+  ],
+  "物件ID": "07892",
+  "ステータス": "有効"
+}

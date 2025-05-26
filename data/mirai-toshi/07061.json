@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "日神パレステージ八王子明神町",
+  "部屋番号": "303号室",
+  "交通": [
+    {
+      "路線名": "京王線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "東京都八王子市明神町2丁目6-20",
+  "間取り": "3LDK+WIC",
+  "面積": 69.6,
+  "建築年月": "2003年3月",
+  "価格": 3999,
+  "オススメ情報": [
+    "売マンション日神パレステージ八王子明神町　303号室\n      新規リノベーション物件オートロック付宅配BOX有外壁タイル貼南東向き\n      \n\n\t\t更新日：2025/2/10次更新：2024/4/19-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京王線　京王八王子　徒歩：7分\n\t\t\t\t\t東京都八王子市明神町2丁目6-20\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t69.6㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2003年3月\n\t\t\t\t\t3,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-4-22',\n\t\tendDate : '2024-7-5',\n\t\tid : '07061'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/805016cbb9cf0980673a5b196af63630.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07061/805016cbb9cf0980673a5b196af63630.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/de9dfde89702185757e942b649454b3b.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07061/de9dfde89702185757e942b649454b3b.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/f4ab1bcd3a3a3b8105607b41ada2be04.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/f4ab1bcd3a3a3b8105607b41ada2be04.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/ac5fab7cc6f5a55a750211465d228a3d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/ac5fab7cc6f5a55a750211465d228a3d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/a29cebd88c6549ef2f3448f6b9008a30.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/a29cebd88c6549ef2f3448f6b9008a30.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/d5fd03aeb911f558da55fee126ff7136.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/d5fd03aeb911f558da55fee126ff7136.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/f95c37bb89fd07c081d79e22b89c6b7a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/f95c37bb89fd07c081d79e22b89c6b7a.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/c4bb74efcce80b18e7527c9a2a48b509.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/c4bb74efcce80b18e7527c9a2a48b509.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/889873c92a55759c0b6af02326600977.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/889873c92a55759c0b6af02326600977.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/ce9aff071a2772a71f3605b0f4c9d0cb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/ce9aff071a2772a71f3605b0f4c9d0cb.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/fa2dfafc0d01d1baf688693221e6abd9.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/fa2dfafc0d01d1baf688693221e6abd9.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6618b52332fd0/57fc5ba6ce858afa468311dbc893994a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07061/57fc5ba6ce858afa468311dbc893994a.jpg"
+    }
+  ],
+  "物件ID": "07061",
+  "ステータス": "有効"
+}

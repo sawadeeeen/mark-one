@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "横濱ディアタワー",
+  "部屋番号": "512号室",
+  "交通": [
+    {
+      "路線名": "みなとみらい線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "神奈川県横浜市中区山下町80-3",
+  "間取り": "1LDK",
+  "面積": 55.43,
+  "建築年月": "2003年8月",
+  "価格": 8599,
+  "オススメ情報": [
+    "売マンション横濱ディアタワー　512号室\n      新規リフォーム物件大規模レジデンス駅徒歩1分複数路線利用可玄関ポーチ付\n      \n\n\t\t更新日：2025/5/12次更新：2025/4/24-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tみなとみらい線　元町・中華街　徒歩：1分\n\t\t\t\t\t神奈川県横浜市中区山下町80-3\n\t\t\t\t\t1LDK\n\t\t\t\t\t55.43㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2003年8月\n\t\t\t\t\t8,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-1-31',\n\t\tendDate : '2025-4-17',\n\t\tid : '07770'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/4429348d08ad3e4c640f65fb5008859c.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07770/4429348d08ad3e4c640f65fb5008859c.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/81685c25df7ff08d4b8def4a916d7a28.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07770/81685c25df7ff08d4b8def4a916d7a28.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/3b80ee0784036390f3b38d1638b89628.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/3b80ee0784036390f3b38d1638b89628.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/c8bb855647e0f97c90d88d3aa39f15ba.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/c8bb855647e0f97c90d88d3aa39f15ba.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/cfdf9ebcba12a3dd99d9c35199674901.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/cfdf9ebcba12a3dd99d9c35199674901.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/16cb81b3e2c2ea3a9847f0bf7a77e2ac.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/16cb81b3e2c2ea3a9847f0bf7a77e2ac.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/0f79b4270ad67edfb374956a75b9a1d6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/0f79b4270ad67edfb374956a75b9a1d6.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/b0ee861600f2cadce386327bcc6f1778.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/b0ee861600f2cadce386327bcc6f1778.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/43ccc331603b20583d5da7d01a4b7bf2.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/43ccc331603b20583d5da7d01a4b7bf2.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/736dd653f0961120ce48c0383be818a0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/736dd653f0961120ce48c0383be818a0.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/c056b2cab8851c740a7b51cdd8f7e423.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/c056b2cab8851c740a7b51cdd8f7e423.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680084d3175b8/d4587ec91fb7a8630c7c50eb0daf70ed.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07770/d4587ec91fb7a8630c7c50eb0daf70ed.jpg"
+    }
+  ],
+  "物件ID": "07770",
+  "ステータス": "有効"
+}

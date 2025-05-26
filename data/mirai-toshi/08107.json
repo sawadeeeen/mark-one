@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ゾンネンハイム方南町",
+  "部屋番号": "203号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ丸ノ内線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都杉並区方南2丁目28-18",
+  "間取り": "2LDK+WIC",
+  "面積": 58.5,
+  "建築年月": "1982年3月",
+  "価格": 5999,
+  "オススメ情報": [
+    "売マンションゾンネンハイム方南町　203号室\n      新規リノベーション物件新耐震基準駅徒歩4分始発駅長期修繕計画有\n      \n\n\t\t更新日：2025/5/16次更新：2025/4/24-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ丸ノ内線　方南町　徒歩：4分\n\t\t\t\t\t東京都杉並区方南2丁目28-18\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t58.5㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1982年3月\n\t\t\t\t\t5,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-5-19',\n\t\tendDate : '2025-8-1',\n\t\tid : '08107'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68007a783e569/ee8085df21af27dee6933a8887e3b4e7.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08107/ee8085df21af27dee6933a8887e3b4e7.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68007a783e569/1a4a9b34a69c494f28795bc941b71f8a.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08107/1a4a9b34a69c494f28795bc941b71f8a.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68007a783e569/194af048d7898402222fd952d8f2c1b8.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08107/194af048d7898402222fd952d8f2c1b8.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68007a783e569/57fc7c31e644bcc3be9330720f22a73e.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08107/57fc7c31e644bcc3be9330720f22a73e.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68007a783e569/d91f4b1b26cc141c0aa26efedae39417.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08107/d91f4b1b26cc141c0aa26efedae39417.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68007a783e569/3cf6d1d94eac9eb41b08d32248014076.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08107/3cf6d1d94eac9eb41b08d32248014076.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68007a783e569/580278713a9a5778d265b8df0ab1cb22.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08107/580278713a9a5778d265b8df0ab1cb22.jpg"
+    }
+  ],
+  "物件ID": "08107",
+  "ステータス": "有効"
+}

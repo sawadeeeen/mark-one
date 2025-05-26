@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "アーティックス大濠",
+  "部屋番号": "403号室",
+  "交通": [
+    {
+      "路線名": "福岡市地下鉄七隈線",
+      "駅名": "",
+      "徒歩時間": 10
+    }
+  ],
+  "所在地": "福岡県福岡市中央区鳥飼1丁目2-19",
+  "間取り": "2LDK",
+  "面積": 71.43,
+  "建築年月": "2004年2月",
+  "価格": 5399,
+  "オススメ情報": [
+    "売マンションアーティックス大濠　403号室\n      新規リノベーション物件複数路線利用可オートロック付宅配BOX有ペット飼育可(細則有)\n      \n\n\t\t更新日：2025/4/28次更新：2025/4/10-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t福岡市地下鉄七隈線　六本松　徒歩：10分\n\t\t\t\t\t福岡県福岡市中央区鳥飼1丁目2-19\n\t\t\t\t\t2LDK\n\t\t\t\t\t71.43㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2004年2月\n\t\t\t\t\t5,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-10',\n\t\tendDate : '2025-5-16',\n\t\tid : '07781'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf85c38dcd/32ee3cfda4e8d8ee8d501ec682d875df.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07781/32ee3cfda4e8d8ee8d501ec682d875df.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf85c38dcd/97c186f622f1113be91b3e9e20c674ef.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07781/97c186f622f1113be91b3e9e20c674ef.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf85c38dcd/20b4042fb540b0c7a0dce2de4a43c7d6.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07781/20b4042fb540b0c7a0dce2de4a43c7d6.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf85c38dcd/6722e8d7eae6770a3403cbad4fad6fb6.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07781/6722e8d7eae6770a3403cbad4fad6fb6.jpg"
+    }
+  ],
+  "物件ID": "07781",
+  "ステータス": "有効"
+}

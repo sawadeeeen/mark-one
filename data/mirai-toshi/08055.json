@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "北品川ホームズ",
+  "部屋番号": "1418号室",
+  "交通": [
+    {
+      "路線名": "りんかい線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都品川区北品川5丁目8-15",
+  "間取り": "3LDK",
+  "面積": 68.51,
+  "建築年月": "1981年2月",
+  "価格": 12499,
+  "オススメ情報": [
+    "売マンション北品川ホームズ　1418号室\n      新規リノベーション物件山手線内側再開発エリア大規模レジデンスオートロック付\n      \n\n\t\t更新日：2025/5/9次更新：2025/5/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR山手線、JR湘南新宿ライン、JR埼京線、りんかい線　大崎　徒歩：5分\n\t\t\t\t\t東京都品川区北品川5丁目8-15\n\t\t\t\t\t3LDK\n\t\t\t\t\t68.51㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1981年2月\n\t\t\t\t\t12,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08055'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c6e6eb7eed/f21cf83e340ae99a721267a65ec25809.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08055/f21cf83e340ae99a721267a65ec25809.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c6e6eb7eed/d2ba668edcb28ce5bfcacbd36cc32a7e.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08055/d2ba668edcb28ce5bfcacbd36cc32a7e.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c6e6eb7eed/80534f2a2a6ed05413d0cf06fe417206.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08055/80534f2a2a6ed05413d0cf06fe417206.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c6e6eb7eed/d3a90b62b629d501e47f0d0cd0350823.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08055/d3a90b62b629d501e47f0d0cd0350823.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c6e6eb7eed/685300e0d7bda33eee2eae5b62d1b0b4.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08055/685300e0d7bda33eee2eae5b62d1b0b4.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681c6e6eb7eed/dc65b5edd2237285e4a9980687ef87af.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08055/dc65b5edd2237285e4a9980687ef87af.jpg"
+    }
+  ],
+  "物件ID": "08055",
+  "ステータス": "有効"
+}

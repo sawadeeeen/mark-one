@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "デ・リード日本橋箱崎",
+  "部屋番号": "1001号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ半蔵門線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "東京都中央区日本橋箱崎町37-10",
+  "間取り": "1LDK",
+  "面積": 40.16,
+  "建築年月": "1998年12月",
+  "価格": 7199,
+  "オススメ情報": [
+    "売マンションデ・リード日本橋箱崎　1001号室\n      新規リノベーション物件日本橋エリアリバーView南東向き陽当り・眺望良好\n      \n\n\t\t更新日：2025/5/9次更新：2025/5/16-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ半蔵門線　水天宮前　徒歩：3分\n\t\t\t\t\t東京都中央区日本橋箱崎町37-10\n\t\t\t\t\t1LDK\n\t\t\t\t\t40.16㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1998年12月\n\t\t\t\t\t7,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08091'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d79617c38e/0d5419890863362a965a3e9885a670bd.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08091/0d5419890863362a965a3e9885a670bd.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d79617c38e/b28de34abb9fb90483bb3a1a1d78ddf2.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08091/b28de34abb9fb90483bb3a1a1d78ddf2.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d79617c38e/5268c29ae4d8671af24ed24f24fa5f28.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08091/5268c29ae4d8671af24ed24f24fa5f28.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d79617c38e/4fafb718546a4bb38a63587c978c17ff.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08091/4fafb718546a4bb38a63587c978c17ff.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/681d79617c38e/794b5488baf84b632bc4f2b62b5322ec.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08091/794b5488baf84b632bc4f2b62b5322ec.jpg"
+    }
+  ],
+  "物件ID": "08091",
+  "ステータス": "有効"
+}

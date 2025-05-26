@@ -1,0 +1,90 @@
+{
+  "物件種別": "マンション",
+  "建物名": "Brilliaレジデンス六甲アイランドB棟",
+  "部屋番号": "210号室",
+  "交通": [
+    {
+      "路線名": "神戸新交通六甲アイランド線",
+      "駅名": "",
+      "徒歩時間": 6
+    }
+  ],
+  "所在地": "兵庫県神戸市東灘区向洋町中5丁目6-2",
+  "間取り": "3LDK+WIC",
+  "面積": 76.05,
+  "建築年月": "2012年6月",
+  "価格": 3399,
+  "オススメ情報": [
+    "売マンションBrilliaレジデンス六甲アイランドB棟　210号室\n      新規リノベーション物件大規模レジデンス長期修繕計画有ペット飼育可(細則有)充実の共用施設\n      \n\n\t\t更新日：2025/4/21次更新：2025/2/13-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t神戸新交通六甲アイランド線　アイランド北口　徒歩：6分\n\t\t\t\t\t兵庫県神戸市東灘区向洋町中5丁目6-2\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t76.05㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2012年6月\n\t\t\t\t\t3,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-11-25',\n\t\tendDate : '2025-2-10',\n\t\tid : '07710'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/969ece775cb9ea14de6b4a77a5d5cf89.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07710/969ece775cb9ea14de6b4a77a5d5cf89.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/8d6f4cbc686a41bdfa2218c0e8f86483.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07710/8d6f4cbc686a41bdfa2218c0e8f86483.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/6152b6f6727e80fd25094d1038bba90c.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07710/6152b6f6727e80fd25094d1038bba90c.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/70f355b65f0fb6a416c4ba78f94cb684.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07710/70f355b65f0fb6a416c4ba78f94cb684.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/2bec07447f714978a32eeb2c30fbc634.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07710/2bec07447f714978a32eeb2c30fbc634.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/9b9aab3778ab55bfdb06f819b8b1525e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07710/9b9aab3778ab55bfdb06f819b8b1525e.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/e2081076efd9ba5a798a664dcaeb66cb.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07710/e2081076efd9ba5a798a664dcaeb66cb.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/1ce0663a3f8e1d09e7c4246bd0f5ca04.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07710/1ce0663a3f8e1d09e7c4246bd0f5ca04.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a431794fe6c/1ff92264f8e98831bdf8075895734d0e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07710/1ff92264f8e98831bdf8075895734d0e.jpg"
+    }
+  ],
+  "物件ID": "07710",
+  "ステータス": "有効"
+}

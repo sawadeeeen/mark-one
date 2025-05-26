@@ -20,7 +20,7 @@
         "password": ""
     },
     "株式会社未来都市開発": {
-        "enabled": false,
+        "enabled": true,
         "user_id": "",
         "password": ""
     },
@@ -45,9 +45,9 @@
         "password": ""
     },
     "レインズ": {
-        "enabled": true,
-        "user_id": "",
-        "password": ""
+        "enabled": false,
+        "user_id": "139608150624",
+        "password": "mark-1"
     },
     "ielove": {
         "user_id": "",

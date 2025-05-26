@@ -11,7 +11,7 @@ from typing import Dict, Any
 import re
 import logging
 
-from utils import save_updated_properties
+from src.utils import save_updated_properties
 
 # ロガーの設定
 logger = logging.getLogger(__name__)
@@ -312,12 +312,43 @@ class MiraiToshiScraper:
                 logger.info("破損した履歴ファイルを新規作成しました")
 
             # Seleniumドライバーの設定
+            # options = Options()
+            # options.add_argument('--no-sandbox')
+            # options.add_argument('--window-size=1024,768')
+            # service = Service(ChromeDriverManager().install())
+            # driver = webdriver.Chrome(service=service, options=options)
+            # logger.info("ブラウザを起動しました")
+
             options = Options()
             options.add_argument('--no-sandbox')
             options.add_argument('--window-size=1024,768')
-            service = Service(ChromeDriverManager().install())
-            driver = webdriver.Chrome(service=service, options=options)
-            logger.info("ブラウザを起動しました")
+
+            try:
+                # Apple Siliconのmacの場合
+                if 'arm' in platform.processor().lower() or 'Apple M' in subprocess.check_output('sysctl -n machdep.cpu.brand_string', shell=True).decode():
+                    # 既にChromeDriverがインストールされている場合はパスを指定
+                    chrome_driver_path = '/usr/local/bin/chromedriver'
+                    if os.path.exists(chrome_driver_path):
+                        service = Service(executable_path=chrome_driver_path)
+                        driver = webdriver.Chrome(service=service, options=options)
+                        logger.info("システムにインストールされたChromeDriverを使用しています")    
+                    else:
+                        # Homebrewでインストールを促すメッセージ
+                        logger.info("Apple Silicon Macを検出しました。homebrew経由でchromedriver-macをインストールすることを推奨します")
+                        logger.info("推奨コマンド: brew install --cask chromedriver")
+                        # それでも試みる
+                        service = Service(ChromeDriverManager().install())
+                        driver = webdriver.Chrome(service=service, options=options)
+                else:
+                    # Intel Macまたはその他の環境
+                    service = Service(ChromeDriverManager().install())
+                    driver = webdriver.Chrome(service=service, options=options)
+                    logger.info("WebDriverManagerでChromeDriverをインストールしました")
+            except Exception as e:
+                logger.error(f"ChromeDriverの初期化エラー: {str(e)}")
+                # 最終手段としてSelenium Managerを使用
+                driver = webdriver.Chrome(options=options)
+                logger.info("Selenium ManagerでChromeDriverを使用しています")
 
             # 物件リンクを取得する関数
             def get_property_links():

@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズプラザ川口",
+  "部屋番号": "708号室",
+  "交通": [
+    {
+      "路線名": "JR京浜東北線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "埼玉県川口市飯塚2丁目2-1",
+  "間取り": "2LDK+WIC",
+  "面積": 58.58,
+  "建築年月": "2001年1月",
+  "価格": 5999,
+  "オススメ情報": [
+    "売マンションライオンズプラザ川口　708号室\n      新規リノベーション物件駅徒歩5分圏内オートロック付ペット飼育可(細則有)全戸分トランクルーム有\n      \n\n\t\t更新日：2025/5/12次更新：2025/3/29-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線　川口　徒歩：5分\n\t\t\t\t\t埼玉県川口市飯塚2丁目2-1\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t58.58㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2001年1月\n\t\t\t\t\t5,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-12',\n\t\tendDate : '2025-6-27',\n\t\tid : '08063'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/8b11725483fbb8b71a0ff61e476ef7ed.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08063/8b11725483fbb8b71a0ff61e476ef7ed.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/ea6588e2c1f45ad5ba027656fc447dc8.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08063/ea6588e2c1f45ad5ba027656fc447dc8.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/e6168fe68e0cee638c995d259245a0db.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08063/e6168fe68e0cee638c995d259245a0db.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/3191c3e5a2bfad664dce1a70e872c22f.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08063/3191c3e5a2bfad664dce1a70e872c22f.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/c23e3839a20a8c1809107bcab33eca58.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08063/c23e3839a20a8c1809107bcab33eca58.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/0c561d6446d9323bf61838707f3f65bb.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08063/0c561d6446d9323bf61838707f3f65bb.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/8970bc242b11e70528ffe73b838b8a7a.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08063/8970bc242b11e70528ffe73b838b8a7a.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de60e612516/04347ebc590f894ce9b56c4586256618.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08063/04347ebc590f894ce9b56c4586256618.jpg"
+    }
+  ],
+  "物件ID": "08063",
+  "ステータス": "有効"
+}

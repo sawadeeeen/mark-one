@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "六本木東豊エステート",
+  "部屋番号": "404号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都港区六本木7丁目21-17",
+  "間取り": "2LDK",
+  "面積": 53.87,
+  "建築年月": "1970年7月",
+  "価格": 8499,
+  "オススメ情報": [
+    "売マンション六本木東豊エステート　404号室\n      新規リノベーション物件駅徒歩5分圏内事務所利用可(条件有)港区アドレスオシャレなヴィンテージマンション\n      \n\n\t\t更新日：2025/4/26次更新：2025/5/2-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ日比谷線、都営大江戸線　六本木　徒歩：5分\n\t\t\t\t\t東京都港区六本木7丁目21-17\n\t\t\t\t\t2LDK\n\t\t\t\t\t53.87㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1970年7月\n\t\t\t\t\t8,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07970'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b1d6d69c5a/eecefc910b9c9dc0b85be5d38bdfb21b.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07970/eecefc910b9c9dc0b85be5d38bdfb21b.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b1d6d69c5a/b6da9ad1a48965eb9bb11e1b14ed7079.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07970/b6da9ad1a48965eb9bb11e1b14ed7079.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b1d6d69c5a/cb32dc3f5ea42b83c5ee2b4d5e3c1843.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07970/cb32dc3f5ea42b83c5ee2b4d5e3c1843.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b1d6d69c5a/ef84b46082b0c8b3ee015bd1d0f2b984.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07970/ef84b46082b0c8b3ee015bd1d0f2b984.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b1d6d69c5a/c8ff30dbde38606aceff4e58d256858b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07970/c8ff30dbde38606aceff4e58d256858b.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680b1d6d69c5a/6b7bafad01cb329f5c0fa2b5361caa2c.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07970/6b7bafad01cb329f5c0fa2b5361caa2c.jpg"
+    }
+  ],
+  "物件ID": "07970",
+  "ステータス": "有効"
+}

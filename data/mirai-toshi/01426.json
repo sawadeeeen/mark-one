@@ -1,0 +1,90 @@
+{
+  "物件種別": "マンション",
+  "建物名": "日神パレス田無第２【現況販売】",
+  "部屋番号": "102号室",
+  "交通": [
+    {
+      "路線名": "西武新宿線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "東京都西東京市向台町1丁目2-1",
+  "間取り": "1K",
+  "面積": 18.72,
+  "建築年月": "1987年3月",
+  "価格": 1180,
+  "オススメ情報": [
+    "売マンション日神パレス田無第２【現況販売】　102号室\n      新耐震基準外壁タイル貼りアフターサービス保証付\n      \n\n\t\t更新日：2024/3/9次更新：2024/3/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線　田無　徒歩：8分\n\t\t\t\t\t東京都西東京市向台町1丁目2-1\n\t\t\t\t\t1K\n\t\t\t\t\t18.72㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1987年3月\n\t\t\t\t\t1,180万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '01426'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/b8c95c8d3d89659c92d67d5afdc48e95.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "01426/b8c95c8d3d89659c92d67d5afdc48e95.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/430789b906ab578dacc677b9881e32ab.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/430789b906ab578dacc677b9881e32ab.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/82ed6e098f7d09169cac5289a9e1fece.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/82ed6e098f7d09169cac5289a9e1fece.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/1de3eeed3137465d34c18dcc9cedf0ea.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/1de3eeed3137465d34c18dcc9cedf0ea.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/3da3f1c32c4149fc78eb3c2014c8448b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/3da3f1c32c4149fc78eb3c2014c8448b.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/b724fa1739f53042459b491d8e7fe37c.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/b724fa1739f53042459b491d8e7fe37c.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/cf1b186378a56b0377aea452fecf3cfc.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/cf1b186378a56b0377aea452fecf3cfc.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/be2c79f75086034a88c5b0a20b277896.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/be2c79f75086034a88c5b0a20b277896.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65ea99042aaab/56a1ed8b98e470c731df3319def0ae00.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "01426/56a1ed8b98e470c731df3319def0ae00.jpg"
+    }
+  ],
+  "物件ID": "01426",
+  "ステータス": "有効"
+}

@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "エムズシティ野並",
+  "部屋番号": "1304号室",
+  "交通": [
+    {
+      "路線名": "名古屋市営地下鉄桜通線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "愛知県名古屋市天白区古川町106",
+  "間取り": "3LDK",
+  "面積": 73.29,
+  "建築年月": "2011年1月",
+  "価格": 3399,
+  "オススメ情報": [
+    "売マンションエムズシティ野並　1304号室\n      新規リフォーム物件駅から徒歩3分駅までフラットアプローチペット飼育可(細則有)長期修繕計画有\n      \n\n\t\t更新日：2025/4/26次更新：2025/3/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名古屋市営地下鉄桜通線　野並　徒歩：3分\n\t\t\t\t\t愛知県名古屋市天白区古川町106\n\t\t\t\t\t3LDK\n\t\t\t\t\t73.29㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2011年1月\n\t\t\t\t\t3,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-8',\n\t\tendDate : '2025-4-5',\n\t\tid : '08027'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/8cbcf8834dbbb07cc525273bf10ec80b.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08027/8cbcf8834dbbb07cc525273bf10ec80b.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/7d5836764d84503faf86173735be07a1.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08027/7d5836764d84503faf86173735be07a1.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/7c8232425017953e3d39308028178a14.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/7c8232425017953e3d39308028178a14.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/25629751ae93652c1230646576c2233a.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/25629751ae93652c1230646576c2233a.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/cfbd09702e9c95655f1162c2e68316ec.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/cfbd09702e9c95655f1162c2e68316ec.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/9f1e90625b58f8c877dbf052d4c8e39e.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/9f1e90625b58f8c877dbf052d4c8e39e.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/9d7bd4ce7c738ed9d12dbdb5c56a7de6.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/9d7bd4ce7c738ed9d12dbdb5c56a7de6.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/5b928700c95c1b9ec3070f18046f447c.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/5b928700c95c1b9ec3070f18046f447c.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/6db1bc418e79fc75f456618713e662b2.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/6db1bc418e79fc75f456618713e662b2.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbab5ed96e6/dc8c8806f8ff730f1b9ea3ae4009924b.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08027/dc8c8806f8ff730f1b9ea3ae4009924b.jpg"
+    }
+  ],
+  "物件ID": "08027",
+  "ステータス": "有効"
+}

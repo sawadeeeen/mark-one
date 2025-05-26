@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "藤和シティホームズ西早稲田【現況販売】",
+  "部屋番号": "201号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ東西線",
+      "駅名": "",
+      "徒歩時間": 11
+    }
+  ],
+  "所在地": "東京都新宿区西早稲田1丁目23-12",
+  "間取り": "3LDK+WIC",
+  "面積": 67.4,
+  "建築年月": "2000年2月",
+  "価格": 8499,
+  "オススメ情報": [
+    "売マンション藤和シティホームズ西早稲田【現況販売】　201号室\n      角部屋 ペット飼育可(細則有) 全室採光有 オートロック付 陽当り良好\n      \n\n\t\t更新日：2025/3/14次更新：2025/3/13-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ東西線　早稲田　徒歩：11分\n\t\t\t\t\t東京都新宿区西早稲田1丁目23-12\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t67.4㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2000年2月\n\t\t\t\t\t8,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08037'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/1abd32c5e8981c280c25343eb35179d3.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08037/1abd32c5e8981c280c25343eb35179d3.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/bf1f5c995d7303f69f32e5d010373896.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08037/bf1f5c995d7303f69f32e5d010373896.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/7617b07fefbbd92305c02cbcf4abfb0e.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08037/7617b07fefbbd92305c02cbcf4abfb0e.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/c967aa91e9ca3a7f19ea2e0551c08618.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08037/c967aa91e9ca3a7f19ea2e0551c08618.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/650770c6e23049a0e9c1d9c8423052c3.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08037/650770c6e23049a0e9c1d9c8423052c3.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/8ce99fed326101cc36933c5141f32476.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08037/8ce99fed326101cc36933c5141f32476.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/141a7a57ca4b90712f13e2c1097afe3b.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08037/141a7a57ca4b90712f13e2c1097afe3b.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/eb78dbe72c79a860c8e4e1ddd7908d70.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08037/eb78dbe72c79a860c8e4e1ddd7908d70.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/7ae19efc355fb95956c56204ca7045eb.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08037/7ae19efc355fb95956c56204ca7045eb.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c959d94599f/7a13d8ac134ac97941a2fc8b66e9cee8.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08037/7a13d8ac134ac97941a2fc8b66e9cee8.jpg"
+    }
+  ],
+  "物件ID": "08037",
+  "ステータス": "有効"
+}

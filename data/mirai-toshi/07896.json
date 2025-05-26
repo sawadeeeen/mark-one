@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ムーンアイランドタワー",
+  "部屋番号": "702号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "東京都中央区月島2丁目10-1",
+  "間取り": "2LDK",
+  "面積": 47.57,
+  "建築年月": "2002年6月",
+  "価格": 10499,
+  "オススメ情報": [
+    "売マンションムーンアイランドタワー　702号室\n      新規リノベーション物件駅直結(徒歩1分)宅配BOX有トランクルーム有大規模タワーレジデンス\n      \n\n\t\t更新日：2025/5/19次更新：2025/3/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ有楽町線、都営大江戸線　月島　徒歩：1分\n\t\t\t\t\t東京都中央区月島2丁目10-1\n\t\t\t\t\t2LDK\n\t\t\t\t\t47.57㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2002年6月\n\t\t\t\t\t10,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-7',\n\t\tendDate : '2025-7-11',\n\t\tid : '07896'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbc9b6633a1/ceca474c8b441c0b8a096a4b056fcd94.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07896/ceca474c8b441c0b8a096a4b056fcd94.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbc9b6633a1/144a319c72f9c73d61faf23511a69a2a.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07896/144a319c72f9c73d61faf23511a69a2a.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbc9b6633a1/c7b1d870444b8cab104d349c7238140f.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07896/c7b1d870444b8cab104d349c7238140f.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbc9b6633a1/8244ca522c9953a7355b80066a12cb44.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07896/8244ca522c9953a7355b80066a12cb44.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbc9b6633a1/d6df1fadc57c4fba43b45559a12d2e74.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07896/d6df1fadc57c4fba43b45559a12d2e74.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbc9b6633a1/04e44a1cd45e9b161010e1b099e3cad3.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07896/04e44a1cd45e9b161010e1b099e3cad3.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbc9b6633a1/b5c59cac2dfaa825ac1d6c0e93e0ddbb.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07896/b5c59cac2dfaa825ac1d6c0e93e0ddbb.jpg"
+    }
+  ],
+  "物件ID": "07896",
+  "ステータス": "有効"
+}

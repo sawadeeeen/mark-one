@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "グリーンキャピタル新小岩",
+  "部屋番号": "601号室",
+  "交通": [
+    {
+      "路線名": "JR総武線快速",
+      "駅名": "",
+      "徒歩時間": 15
+    }
+  ],
+  "所在地": "東京都江戸川区中央4丁目16-28",
+  "間取り": "4LDK+WIC",
+  "面積": 90.5,
+  "建築年月": "1989年9月",
+  "価格": 6499,
+  "オススメ情報": [
+    "売マンショングリーンキャピタル新小岩　601号室\n      新規リノベーション物件 三方角部屋 ペット飼育可(1住戸1匹まで・細則有) 長期修繕計画有 エレベーター2基有\n      \n\n\t\t更新日：2025/3/31次更新：2025/4/5-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t JR総武線、 JR総武線快速　新小岩　徒歩：15分、バス：4分「松島三丁目」バス停下車徒歩：7分\n\t\t\t\t\t東京都江戸川区中央4丁目16-28\n\t\t\t\t\t4LDK+WIC\n\t\t\t\t\t90.5㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1989年9月\n\t\t\t\t\t6,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-1',\n\t\tendDate : '2025-6-28',\n\t\tid : '07962'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/d01e490ee74685a6558042c07a84a545.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07962/d01e490ee74685a6558042c07a84a545.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/bcf882bb0f8bbf6f9f5aac86737e07b8.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07962/bcf882bb0f8bbf6f9f5aac86737e07b8.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/fb9d85738b851baeda5b4a2e9dba8349.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07962/fb9d85738b851baeda5b4a2e9dba8349.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/c2faba2a68047eeea075fae3569fec54.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07962/c2faba2a68047eeea075fae3569fec54.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/e3e6b83f31838cdf6e7a4f941cbe55af.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07962/e3e6b83f31838cdf6e7a4f941cbe55af.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/8330cf832c1375e6c1062e9066d00c7e.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07962/8330cf832c1375e6c1062e9066d00c7e.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/c2e13bf0d698f0044fe2553f6d6e209d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07962/c2e13bf0d698f0044fe2553f6d6e209d.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/c78c2aa708c94801a6319a32062f4e0a.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07962/c78c2aa708c94801a6319a32062f4e0a.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/e0b31fd0fc92be6fe59e8c71a1e6a106.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07962/e0b31fd0fc92be6fe59e8c71a1e6a106.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e79cdec205b/c847bd6d77f72acc5aae02b629d5bfc7.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07962/c847bd6d77f72acc5aae02b629d5bfc7.jpg"
+    }
+  ],
+  "物件ID": "07962",
+  "ステータス": "有効"
+}

@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "パークホームズ千葉",
+  "部屋番号": "612号室",
+  "交通": [
+    {
+      "路線名": "京成千原線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "千葉県千葉市中央区本千葉町13-1",
+  "間取り": "3LDK+WIC",
+  "面積": 66.68,
+  "建築年月": "2022年1月",
+  "価格": 5199,
+  "オススメ情報": [
+    "売マンションパークホームズ千葉　612号室\n      新規リフォーム物件駅徒歩5分圏内大規模レジデンス令和4年1月築複数路線利用可\n      \n\n\t\t更新日：2025/5/19次更新：2025/2/28-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京成千葉線、京成千原線　千葉中央　徒歩：3分\n\t\t\t\t\t千葉県千葉市中央区本千葉町13-1\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t66.68㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2022年1月\n\t\t\t\t\t5,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-10',\n\t\tendDate : '2025-3-22',\n\t\tid : '07927'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/4ca2f4a4fa612e93601fff29f0e21e6e.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07927/4ca2f4a4fa612e93601fff29f0e21e6e.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/00b9a12c38f7957f24e2c3e1fce38f42.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07927/00b9a12c38f7957f24e2c3e1fce38f42.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/7c9c3f7f3cd671e6c528e00c9b7d60d7.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/7c9c3f7f3cd671e6c528e00c9b7d60d7.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/df7f7d47af4842cf56fb7324288b8c74.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/df7f7d47af4842cf56fb7324288b8c74.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/70f02273d6387ced651fd7966f828c0b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/70f02273d6387ced651fd7966f828c0b.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/27b747153122fac9b36f08b07a6dac98.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/27b747153122fac9b36f08b07a6dac98.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/c6092d19cf412fcab29524b61f4298a3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/c6092d19cf412fcab29524b61f4298a3.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/863c8b2190fc7b1328ff659832656357.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/863c8b2190fc7b1328ff659832656357.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/495d2276c5f7f4210d5eed19a3d80dda.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/495d2276c5f7f4210d5eed19a3d80dda.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/84aa692b3616578f06fb05d0068654c4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/84aa692b3616578f06fb05d0068654c4.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/d23d6bae85e7a92832c000dee99fcaa4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/d23d6bae85e7a92832c000dee99fcaa4.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b83e084dd43/1f521e87ea050da53b01643febb718ca.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07927/1f521e87ea050da53b01643febb718ca.jpg"
+    }
+  ],
+  "物件ID": "07927",
+  "ステータス": "有効"
+}

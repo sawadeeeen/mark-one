@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "藤和シテイコープ新中野Ⅱ",
+  "部屋番号": "1103号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ丸ノ内線",
+      "駅名": "",
+      "徒歩時間": 2
+    }
+  ],
+  "所在地": "東京都中野区本町6丁目16-10",
+  "間取り": "1LDK+WIC",
+  "面積": 42.12,
+  "建築年月": "1994年3月",
+  "価格": 5999,
+  "オススメ情報": [
+    "売マンション藤和シテイコープ新中野Ⅱ　1103号室\n      新規リノベーション物件 最上階 駅徒歩2分 眺望良好 オートロック付\n      \n\n\t\t更新日：2025/5/9次更新：2025/3/15-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ丸ノ内線　新中野　徒歩：2分\n\t\t\t\t\t東京都中野区本町6丁目16-10\n\t\t\t\t\t1LDK+WIC\n\t\t\t\t\t42.12㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1994年3月\n\t\t\t\t\t5,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-8',\n\t\tendDate : '2025-6-25',\n\t\tid : '07955'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/6dd63a30208bc4e20d072532fc0ea3cf.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07955/6dd63a30208bc4e20d072532fc0ea3cf.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/5c4d8ffa7e8e2d800478a62b8062e6a3.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07955/5c4d8ffa7e8e2d800478a62b8062e6a3.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/2ec0b4664549b466b0b3dd08ef93ed27.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07955/2ec0b4664549b466b0b3dd08ef93ed27.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/e1e9fe6ada9b9d11c54282bbb598485d.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07955/e1e9fe6ada9b9d11c54282bbb598485d.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/95fb6a1cd8c81f12078a5c53dac14352.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07955/95fb6a1cd8c81f12078a5c53dac14352.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/c82935d6c67690aaad5ea9bca0bcce58.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07955/c82935d6c67690aaad5ea9bca0bcce58.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/f4efa5d661d787b11c80bb78df5162ab.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07955/f4efa5d661d787b11c80bb78df5162ab.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67cbebe1914b5/8a27770fa746df356dea305dbb3371f2.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07955/8a27770fa746df356dea305dbb3371f2.jpg"
+    }
+  ],
+  "物件ID": "07955",
+  "ステータス": "有効"
+}

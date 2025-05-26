@@ -1,0 +1,48 @@
+{
+  "物件種別": "マンション",
+  "建物名": "湯島永谷マンション【賃貸中】",
+  "部屋番号": null,
+  "交通": [
+    {
+      "路線名": "東京メトロ千代田線",
+      "駅名": "",
+      "徒歩時間": 2
+    }
+  ],
+  "所在地": "東京都文京区湯島3丁目28-2",
+  "間取り": "2K",
+  "面積": 29.97,
+  "建築年月": "1973年9月",
+  "価格": 2399,
+  "オススメ情報": [
+    "売マンション湯島永谷マンション【賃貸中】\n      オーナーチェンジ物件複数路線利用可駅徒歩2分山手線徒歩圏内大規模レジデンス\n      \n\n\t\t更新日：2025/3/24次更新：2025/3/31-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ千代田線　湯島　徒歩：2分\n\t\t\t\t\t東京都文京区湯島3丁目28-2\n\t\t\t\t\t2K\n\t\t\t\t\t29.97㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1973年9月\n\t\t\t\t\t2,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07884'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e10c6e909c5/80fbc2f2715b143f30b5b7db80874850.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07884/80fbc2f2715b143f30b5b7db80874850.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e10c6e909c5/a4f79db1586ed4151c236cd553898a53.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07884/a4f79db1586ed4151c236cd553898a53.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e10c6e909c5/e99c9cc2f125ad0e84a8ac47fe0a874e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07884/e99c9cc2f125ad0e84a8ac47fe0a874e.jpg"
+    }
+  ],
+  "物件ID": "07884",
+  "ステータス": "有効"
+}

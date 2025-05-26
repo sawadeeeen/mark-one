@@ -1,0 +1,48 @@
+{
+  "物件種別": "マンション",
+  "建物名": "湯島永谷マンション",
+  "部屋番号": "1206号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ千代田線",
+      "駅名": "",
+      "徒歩時間": 2
+    }
+  ],
+  "所在地": "東京都文京区湯島3丁目28-2",
+  "間取り": "1LDK",
+  "面積": 36.04,
+  "建築年月": "1973年9月",
+  "価格": 4199,
+  "オススメ情報": [
+    "売マンション湯島永谷マンション　1206号室\n      新規リノベーション物件最上階複数路線利用可駅徒歩2分宅配BOX有\n      \n\n\t\t更新日：2025/5/12次更新：2025/5/19-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ千代田線　湯島　徒歩：2分\n\t\t\t\t\t東京都文京区湯島3丁目28-2\n\t\t\t\t\t1LDK\n\t\t\t\t\t36.04㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1973年9月\n\t\t\t\t\t4,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-10',\n\t\tendDate : '2025-5-23',\n\t\tid : '07871'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/682193347a8dd/6a23f1adc660d5da3ca795204019a0ce.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07871/6a23f1adc660d5da3ca795204019a0ce.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/682193347a8dd/db507ee388db87c3a586f572128fd1aa.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07871/db507ee388db87c3a586f572128fd1aa.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/682193347a8dd/85cdf7249acab326743f34fcda085bd9.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07871/85cdf7249acab326743f34fcda085bd9.jpg"
+    }
+  ],
+  "物件ID": "07871",
+  "ステータス": "有効"
+}

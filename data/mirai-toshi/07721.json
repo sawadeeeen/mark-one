@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "リビエール栄町",
+  "部屋番号": "405号室",
+  "交通": [
+    {
+      "路線名": "JR京浜東北線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "埼玉県川口市栄町3丁目11-11",
+  "間取り": "3LDK+WIC",
+  "面積": 79.35,
+  "建築年月": "1997年11月",
+  "価格": 6499,
+  "オススメ情報": [
+    "売マンションリビエール栄町　405号室\n      新規リノベーション物件旧埼玉県住宅供給公社による旧分譲南側コミュニティプラザ有り・建物は無しオートロック付床暖房新設\n      \n\n\t\t更新日：2025/5/19次更新：2024/12/6-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線　川口　徒歩：5分\n\t\t\t\t\t埼玉県川口市栄町3丁目11-11\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t79.35㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年11月\n\t\t\t\t\t6,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-12-9',\n\t\tendDate : '2025-2-28',\n\t\tid : '07721'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/0ad7766ffbd42186121809ca918a14a9.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07721/0ad7766ffbd42186121809ca918a14a9.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/73d3861447ac6f2a9b17853bdbf16e75.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07721/73d3861447ac6f2a9b17853bdbf16e75.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/0952fca3c774fef39e05446e88a8ac6c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/0952fca3c774fef39e05446e88a8ac6c.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/e11ceb858f7f8be8ca696470ca6bc891.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/e11ceb858f7f8be8ca696470ca6bc891.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/2ee63ffb3d06340f57c0f2054757a997.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/2ee63ffb3d06340f57c0f2054757a997.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/4766dabf7c70bfe3569b33cc94a90820.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/4766dabf7c70bfe3569b33cc94a90820.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/27fd524aa901506f669a84123dc44524.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/27fd524aa901506f669a84123dc44524.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/6f8130ce6eb9a4fbdddd783dad490710.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/6f8130ce6eb9a4fbdddd783dad490710.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/c433a9aa681c5c27c8a19538e01b1f68.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/c433a9aa681c5c27c8a19538e01b1f68.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/9381ed12674cfc5a082d948f128fe578.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/9381ed12674cfc5a082d948f128fe578.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/20586875cc5fa8f92839be17f159bde0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/20586875cc5fa8f92839be17f159bde0.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67493a381000e/729cf265e3a4c9f4651348e42a1eb716.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07721/729cf265e3a4c9f4651348e42a1eb716.jpg"
+    }
+  ],
+  "物件ID": "07721",
+  "ステータス": "有効"
+}

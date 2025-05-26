@@ -1,0 +1,62 @@
+{
+  "物件種別": "マンション",
+  "建物名": "アクロス博多セントラルパーク",
+  "部屋番号": "1105号室",
+  "交通": [
+    {
+      "路線名": "JR鹿児島本線",
+      "駅名": "",
+      "徒歩時間": 23
+    }
+  ],
+  "所在地": "福岡県福岡市博多区美野島3丁目20-1",
+  "間取り": "2LDK",
+  "面積": 60.53,
+  "建築年月": "2003年2月",
+  "価格": 4199,
+  "オススメ情報": [
+    "売マンションアクロス博多セントラルパーク　1105号室\n      新規リフォーム物件大規模レジデンスペット飼育可(細則有)オートロック付宅配BOX有\n      \n\n\t\t更新日：2025/5/16次更新：2025/5/1-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t福岡市地下鉄空港線、福岡市地下鉄七隈線、JR鹿児島本線　博多　徒歩：23分、バス：9分「美野島三丁目」バス停下車徒歩：3分\n\t\t\t\t\t福岡県福岡市博多区美野島3丁目20-1\n\t\t\t\t\t2LDK\n\t\t\t\t\t60.53㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2003年2月\n\t\t\t\t\t4,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-5-7',\n\t\tendDate : '2025-6-30',\n\t\tid : '08032'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809c388707be/ba8960c2df37569038190cc7c90beb2b.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08032/ba8960c2df37569038190cc7c90beb2b.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809c388707be/4ec44600b97664675d93e3ed67b02dfd.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08032/4ec44600b97664675d93e3ed67b02dfd.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809c388707be/261f473623419c0f5a4f3a9a38f72627.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08032/261f473623419c0f5a4f3a9a38f72627.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809c388707be/9919b53e33716e5ce1293ddadda6ca77.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "08032/9919b53e33716e5ce1293ddadda6ca77.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6809c388707be/1fc7137e5eef907247de7c3ef9367431.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08032/1fc7137e5eef907247de7c3ef9367431.jpg"
+    }
+  ],
+  "物件ID": "08032",
+  "ステータス": "有効"
+}

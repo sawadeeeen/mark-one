@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズシティ武蔵小金井",
+  "部屋番号": "303号室",
+  "交通": [
+    {
+      "路線名": "JR中央本線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都小金井市中町4丁目14-14",
+  "間取り": "2LDK",
+  "面積": 46.23,
+  "建築年月": "1998年1月",
+  "価格": 5299,
+  "オススメ情報": [
+    "売マンションライオンズシティ武蔵小金井　303号室\n      新規リノベーション物件駅徒歩4分外壁タイル貼オートロック付宅配BOX有\n      \n\n\t\t更新日：2025/5/7次更新：2025/2/27-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR中央本線　武蔵小金井　徒歩：4分\n\t\t\t\t\t東京都小金井市中町4丁目14-14\n\t\t\t\t\t2LDK\n\t\t\t\t\t46.23㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1998年1月\n\t\t\t\t\t5,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-31',\n\t\tendDate : '2025-6-13',\n\t\tid : '07948'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/e0f7e876b9c2dcaef0370aeb549b0069.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07948/e0f7e876b9c2dcaef0370aeb549b0069.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/34cc4439313cff4a495771256773200e.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07948/34cc4439313cff4a495771256773200e.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/08a33ef45c84fa6920feecfd3706033a.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07948/08a33ef45c84fa6920feecfd3706033a.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/49d25c96088625117268702de2ffce3e.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07948/49d25c96088625117268702de2ffce3e.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/e324f0591ac92af5b5346b7fe14e1c47.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07948/e324f0591ac92af5b5346b7fe14e1c47.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/5a1a79c90da058d5ff6bd83207711cff.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07948/5a1a79c90da058d5ff6bd83207711cff.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/24733a24c13c722aa417061a8332e2a3.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07948/24733a24c13c722aa417061a8332e2a3.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b6de15a4f26/002c048c345ec2bf36c9898bd15da939.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07948/002c048c345ec2bf36c9898bd15da939.jpg"
+    }
+  ],
+  "物件ID": "07948",
+  "ステータス": "有効"
+}

@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "マックスタワー",
+  "部屋番号": "1304号室",
+  "交通": [
+    {
+      "路線名": "京成千原線",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "千葉県千葉市中央区新宿2丁目6-1",
+  "間取り": "2SLDK+WIC",
+  "面積": 75.02,
+  "建築年月": "2007年5月",
+  "価格": 5699,
+  "オススメ情報": [
+    "売マンションマックスタワー　1304号室\n      新規リノベーション物件 駅徒歩1分 複数路線利用可 床暖房付 ペット飼育可(2匹まで・細則有)\n      \n\n\t\t更新日：2025/5/15次更新：2025/4/22-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京成千葉線、京成千原線　千葉中央　徒歩：1分\n\t\t\t\t\t千葉県千葉市中央区新宿2丁目6-1\n\t\t\t\t\t2SLDK+WIC\n\t\t\t\t\t75.02㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2007年5月\n\t\t\t\t\t5,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-5-12',\n\t\tendDate : '2025-7-25',\n\t\tid : '08042'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/1ea16bbda4212a9b2f65e89990361b14.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08042/1ea16bbda4212a9b2f65e89990361b14.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/6c7de1961c1dff9e06ef59358c33e757.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08042/6c7de1961c1dff9e06ef59358c33e757.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/76e65f68fe9c8c8c2cdda68228c93264.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08042/76e65f68fe9c8c8c2cdda68228c93264.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/a8a496e7f885104ffbcc54bb251ce8bb.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08042/a8a496e7f885104ffbcc54bb251ce8bb.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/0da992ca0628ba9bc5492a6ec9877e86.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08042/0da992ca0628ba9bc5492a6ec9877e86.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/d09e3eb56973ba468e6f69b7f1b61223.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08042/d09e3eb56973ba468e6f69b7f1b61223.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/0c2aad5285680c033b265ee78c4b7f8e.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08042/0c2aad5285680c033b265ee78c4b7f8e.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67fe0002837b6/dc7b4cb052ee85bd7291e4838e81bf7d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08042/dc7b4cb052ee85bd7291e4838e81bf7d.jpg"
+    }
+  ],
+  "物件ID": "08042",
+  "ステータス": "有効"
+}

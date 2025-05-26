@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "サンクレイドル東川口",
+  "部屋番号": "401号室",
+  "交通": [
+    {
+      "路線名": "埼玉高速鉄道線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "埼玉県川口市東川口2丁目3-5",
+  "間取り": "3LDK+WIC",
+  "面積": 66.25,
+  "建築年月": "2012年3月",
+  "価格": 4299,
+  "オススメ情報": [
+    "売マンションサンクレイドル東川口　401号室\n      新規リフォーム物件角部屋ポーチ付ペット2匹まで飼育可(細則有)宅配BOX有\n      \n\n\t\t更新日：2025/5/19次更新：2024/1/13-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR武蔵野線、埼玉高速鉄道線　東川口　徒歩：3分\n\t\t\t\t\t埼玉県川口市東川口2丁目3-5\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t66.25㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2012年3月\n\t\t\t\t\t4,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-2-5',\n\t\tendDate : '2024-3-2',\n\t\tid : '07109'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/573dda45c2757a1d17b45417b81d949f.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07109/573dda45c2757a1d17b45417b81d949f.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/bec0414d3a56f9e8987b7c91b67e0cf3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/bec0414d3a56f9e8987b7c91b67e0cf3.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/10a9cb758af5d212b158adab55744bea.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/10a9cb758af5d212b158adab55744bea.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/04ae4dedd16214039836069d8764a4b6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/04ae4dedd16214039836069d8764a4b6.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/c136bcf7ee248d3c72b53a9def1de0ed.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/c136bcf7ee248d3c72b53a9def1de0ed.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/3e58b22b957fc3031b49f23039828839.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/3e58b22b957fc3031b49f23039828839.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/80e9b4681bb8844d216c376c4f932966.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/80e9b4681bb8844d216c376c4f932966.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/87448d3f5a8f0c3be17ea1b0751adfcd.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/87448d3f5a8f0c3be17ea1b0751adfcd.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/73b83db8d43257cf3a65533d9d606431.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/73b83db8d43257cf3a65533d9d606431.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/6cac6cc0a954cd4358fa05a1ed897278.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/6cac6cc0a954cd4358fa05a1ed897278.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/34c3ddfe76aae3118382d423ca752fa8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/34c3ddfe76aae3118382d423ca752fa8.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6598c15fcf0d5/c0e71cfaf79805412a2cb50a084f66e5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07109/c0e71cfaf79805412a2cb50a084f66e5.jpg"
+    }
+  ],
+  "物件ID": "07109",
+  "ステータス": "有効"
+}

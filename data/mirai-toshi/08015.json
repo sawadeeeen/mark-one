@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "メゾンエクレーレニュー昭島",
+  "部屋番号": "711号室",
+  "交通": [
+    {
+      "路線名": "JR青梅線",
+      "駅名": "",
+      "徒歩時間": 12
+    }
+  ],
+  "所在地": "東京都昭島市武蔵野3丁目3-4",
+  "間取り": "3LDK+WIC",
+  "面積": 70.62,
+  "建築年月": "1983年8月",
+  "価格": 2999,
+  "オススメ情報": [
+    "売マンションメゾンエクレーレニュー昭島　711号室\n      新規リノベーション物件新耐震基準大規模レジデンス(総戸数218戸)全室エアコン設置可全室採光有\n      \n\n\t\t更新日：2025/5/16次更新：2025/5/23-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR青梅線　中神　徒歩：12分\n\t\t\t\t\t東京都昭島市武蔵野3丁目3-4\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t70.62㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1983年8月\n\t\t\t\t\t2,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-5-19',\n\t\tendDate : '2025-8-8',\n\t\tid : '08015'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68269451dd504/7d863bdc6b2992f73c98c9f58ae07809.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08015/7d863bdc6b2992f73c98c9f58ae07809.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68269451dd504/959a4890299fc766ebaf059b9ab59973.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08015/959a4890299fc766ebaf059b9ab59973.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68269451dd504/385ee728e0b59673760630cea8d57dcd.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08015/385ee728e0b59673760630cea8d57dcd.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68269451dd504/09b76346f6f955744bd24c1cada46d55.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08015/09b76346f6f955744bd24c1cada46d55.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68269451dd504/d91f9713c7e53ca02f95b20e69708f7a.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08015/d91f9713c7e53ca02f95b20e69708f7a.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/68269451dd504/c2b76f2676303723a51b540bd27046f4.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08015/c2b76f2676303723a51b540bd27046f4.jpg"
+    }
+  ],
+  "物件ID": "08015",
+  "ステータス": "有効"
+}

@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション横浜白楽",
+  "部屋番号": "703号室",
+  "交通": [
+    {
+      "路線名": "ブルーライン",
+      "駅名": "",
+      "徒歩時間": 14
+    }
+  ],
+  "所在地": "神奈川県横浜市神奈川区六角橋4丁目3-16",
+  "間取り": "2LDK",
+  "面積": 58.61,
+  "建築年月": "1996年10月",
+  "価格": 4299,
+  "オススメ情報": [
+    "売マンションライオンズマンション横浜白楽　703号室\n      新規リノベーション物件最上階三方角部屋ルーフバルコニー付長期修繕計画有\n      \n\n\t\t更新日：2025/5/16次更新：2025/3/7-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tブルーライン　片倉町　徒歩：14分、バス：5分「神大寺バス停下車徒歩：1分\n\t\t\t\t\t神奈川県横浜市神奈川区六角橋4丁目3-16\n\t\t\t\t\t2LDK\n\t\t\t\t\t58.61㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1996年10月\n\t\t\t\t\t4,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-2-3',\n\t\tendDate : '2025-3-31',\n\t\tid : '07792'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/aa9aa2760693dfce57061f707fa845ce.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07792/aa9aa2760693dfce57061f707fa845ce.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/a69e102dc84d9930e870f48fe86d5959.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07792/a69e102dc84d9930e870f48fe86d5959.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/32866a7474a30671cf01eaec35feca2c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/32866a7474a30671cf01eaec35feca2c.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/60c2d1927df80efad1dc3cfcf185afe4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/60c2d1927df80efad1dc3cfcf185afe4.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/083eb979f3d4054dc634d60ca64b94b3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/083eb979f3d4054dc634d60ca64b94b3.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/f54b4b38e814eaf735d9a73b334658f3.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/f54b4b38e814eaf735d9a73b334658f3.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/8af7aac01c4e8f9dde9907d72dfea227.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/8af7aac01c4e8f9dde9907d72dfea227.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/6753247e5792469585a4572822d76feb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/6753247e5792469585a4572822d76feb.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/c36e77bb460ad4be6236d1e396446270.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/c36e77bb460ad4be6236d1e396446270.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/5be5c6e7b75423c2ffdb010f3241b3aa.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/5be5c6e7b75423c2ffdb010f3241b3aa.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/186f3c8c5ebcc9de92af6f8e06214ede.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/186f3c8c5ebcc9de92af6f8e06214ede.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c15abc8760f/a4bed0af8983d852ade8dd354c933ab7.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07792/a4bed0af8983d852ade8dd354c933ab7.jpg"
+    }
+  ],
+  "物件ID": "07792",
+  "ステータス": "有効"
+}

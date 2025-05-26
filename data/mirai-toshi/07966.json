@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズプラザ武蔵小山",
+  "部屋番号": "206号室",
+  "交通": [
+    {
+      "路線名": "東急目黒線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "東京都品川区荏原4丁目3-4",
+  "間取り": "2LDK+WIC",
+  "面積": 53.91,
+  "建築年月": "1992年2月",
+  "価格": 8199,
+  "オススメ情報": [
+    "売マンションライオンズプラザ武蔵小山　206号室\n      新規リノベーション物件新耐震基準オートロック付長期修繕計画有外壁タイル貼\n      \n\n\t\t更新日：2025/4/24次更新：2025/4/28-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東急目黒線　武蔵小山　徒歩：8分\n\t\t\t\t\t東京都品川区荏原4丁目3-4\n\t\t\t\t\t2LDK+WIC\n\t\t\t\t\t53.91㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1992年2月\n\t\t\t\t\t8,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-21',\n\t\tendDate : '2025-7-14',\n\t\tid : '07966'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6805e7ca958bc/f0957788623c7138823308ec545eeefa.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07966/f0957788623c7138823308ec545eeefa.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6805e7ca958bc/e17aeeb94e80fc59c355afd610f8b665.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07966/e17aeeb94e80fc59c355afd610f8b665.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6805e7ca958bc/88c2868f3f769008a727e45e240bdfdb.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07966/88c2868f3f769008a727e45e240bdfdb.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6805e7ca958bc/760b27807fcbd5000e287d2b0c1f8a4e.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07966/760b27807fcbd5000e287d2b0c1f8a4e.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6805e7ca958bc/186bbb6852011670091bf52fed8c8f68.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07966/186bbb6852011670091bf52fed8c8f68.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6805e7ca958bc/9e23a5449e648db64f62ded73ca90164.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07966/9e23a5449e648db64f62ded73ca90164.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6805e7ca958bc/76a1f60dfec5d37d2ea05535680cb053.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07966/76a1f60dfec5d37d2ea05535680cb053.jpg"
+    }
+  ],
+  "物件ID": "07966",
+  "ステータス": "有効"
+}

@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ドゥ・トゥール　W-",
+  "部屋番号": "3907号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都中央区晴海3丁目13-2",
+  "間取り": "1LDK",
+  "面積": 49.94,
+  "建築年月": "2015年9月",
+  "価格": 13500,
+  "オススメ情報": [
+    "売マンションドゥ・トゥール　W-3907号室\n      新規リノベーション物件内廊下設計ペット飼育可(細則有)宅配BOX有24時間ゴミ出し可\n      \n\n\t\t更新日：2025/3/28次更新：2025/4/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t都営大江戸線　勝どき　徒歩：9分\n\t\t\t\t\t東京都中央区晴海3丁目13-2\n\t\t\t\t\t1LDK\n\t\t\t\t\t49.94㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2015年9月\n\t\t\t\t\t13,500万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07929'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e50e650bfbc/a8866529a90be8cf9f3f27414465388c.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07929/a8866529a90be8cf9f3f27414465388c.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e50e650bfbc/b49927b9e06e0af6233281aeadcb706f.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07929/b49927b9e06e0af6233281aeadcb706f.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e50e650bfbc/7e25bed0075dc1e4bb17c970c9fe1916.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07929/7e25bed0075dc1e4bb17c970c9fe1916.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e50e650bfbc/eaf3d1d4d2d2e9c9264f89587c5fa927.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07929/eaf3d1d4d2d2e9c9264f89587c5fa927.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e50e650bfbc/6ae1c5faaa85bb8b5b6d558bf5751fcc.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07929/6ae1c5faaa85bb8b5b6d558bf5751fcc.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e50e650bfbc/c9838f971d7b163070008bbe8db153a8.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07929/c9838f971d7b163070008bbe8db153a8.jpg"
+    }
+  ],
+  "物件ID": "07929",
+  "ステータス": "有効"
+}

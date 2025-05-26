@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライフピア新宿中落合",
+  "部屋番号": "407号室",
+  "交通": [
+    {
+      "路線名": "西武新宿線",
+      "駅名": "",
+      "徒歩時間": 4
+    }
+  ],
+  "所在地": "東京都新宿区中落合2丁目8-24",
+  "間取り": "2LDK",
+  "面積": 57.53,
+  "建築年月": "2013年10月",
+  "価格": 7999,
+  "オススメ情報": [
+    "売マンションライフピア新宿中落合　407号室\n      新規リノベーション物件オートロック付ペット飼育可(細則有)屋上庭園有駅徒歩4分\n      \n\n\t\t更新日：2025/4/4次更新：2025/3/4-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線　下落合　徒歩：4分\n\t\t\t\t\t東京都新宿区中落合2丁目8-24\n\t\t\t\t\t2LDK\n\t\t\t\t\t57.53㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2013年10月\n\t\t\t\t\t7,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07851'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/9ec17bccb248ed43d3d2348b0fc9157a.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07851/9ec17bccb248ed43d3d2348b0fc9157a.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/16d56a1d6e53389d9095a6f572406df8.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07851/16d56a1d6e53389d9095a6f572406df8.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/79c1ccf6ba741016aeb90cc74ac59dad.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07851/79c1ccf6ba741016aeb90cc74ac59dad.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/5a025c572f35e92f6099f977e159ea63.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07851/5a025c572f35e92f6099f977e159ea63.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/2d92a878a44474d9c1617d445f584075.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07851/2d92a878a44474d9c1617d445f584075.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/dd16fe4b6a1670d953b7d84c9479c7dd.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07851/dd16fe4b6a1670d953b7d84c9479c7dd.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/ebbd2531426e91b3bc2dd3854cf5b344.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07851/ebbd2531426e91b3bc2dd3854cf5b344.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67bd6f4c638eb/32cf62b1eb24c56fe25c3fde0c0dee54.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07851/32cf62b1eb24c56fe25c3fde0c0dee54.jpg"
+    }
+  ],
+  "物件ID": "07851",
+  "ステータス": "有効"
+}

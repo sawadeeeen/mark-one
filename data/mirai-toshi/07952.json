@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ルピナス麻布シティフォルム",
+  "部屋番号": "406号室",
+  "交通": [
+    {
+      "路線名": "都営大江戸線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "東京都港区東麻布2丁目5-3",
+  "間取り": "1LDK",
+  "面積": 39.74,
+  "建築年月": "2000年5月",
+  "価格": 8499,
+  "オススメ情報": [
+    "売マンションルピナス麻布シティフォルム　406号室\n      新規リノベーション物件新耐震基準宅配BOX有オートロック付複数路線利用可\n      \n\n\t\t更新日：2025/3/3次更新：2025/2/20-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ南北線、都営大江戸線　麻布十番　徒歩：8分\n\t\t\t\t\t東京都港区東麻布2丁目5-3\n\t\t\t\t\t1LDK\n\t\t\t\t\t39.74㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2000年5月\n\t\t\t\t\t8,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07952'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/c1829445258648bcbdbcf9c39c3b82db.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07952/c1829445258648bcbdbcf9c39c3b82db.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/62ab5e5a112654064943f7d6d04ce867.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07952/62ab5e5a112654064943f7d6d04ce867.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/1daa6dc74bbfca5b9ebb91e5c716b506.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07952/1daa6dc74bbfca5b9ebb91e5c716b506.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/52e0810f3c2fbdefc68d46c0dd45b693.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07952/52e0810f3c2fbdefc68d46c0dd45b693.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/7ac1f84f55e7c6a42343495a24e23847.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07952/7ac1f84f55e7c6a42343495a24e23847.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/894579ae4a88c0293a0b53d11d45fe33.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07952/894579ae4a88c0293a0b53d11d45fe33.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/77a6d0e03a597033b11a8ef7902f4bd3.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07952/77a6d0e03a597033b11a8ef7902f4bd3.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67ada803c4463/4fe79c3e9607a4958e995d9e1351f1da.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07952/4fe79c3e9607a4958e995d9e1351f1da.jpg"
+    }
+  ],
+  "物件ID": "07952",
+  "ステータス": "有効"
+}

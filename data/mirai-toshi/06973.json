@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "松が根台マンション",
+  "部屋番号": "311号室",
+  "交通": [
+    {
+      "路線名": "名古屋市営地下鉄桜通線",
+      "駅名": "",
+      "徒歩時間": 19
+    }
+  ],
+  "所在地": "愛知県名古屋市緑区松が根台230-1",
+  "間取り": "3LDK",
+  "面積": 74.92,
+  "建築年月": "1986年3月",
+  "価格": 1599,
+  "オススメ情報": [
+    "売マンション松が根台マンション　311号室\n      新規リノベーション物件角部屋全室採光有新耐震基準通風良好\n      \n\n\t\t更新日：2025/2/17次更新：2024/1/20-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名古屋市営地下鉄桜通線　野並　徒歩：19分、バス：6分「鳴海大根」バス停下車徒歩：1分\n\t\t\t\t\t愛知県名古屋市緑区松が根台230-1\n\t\t\t\t\t3LDK\n\t\t\t\t\t74.92㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1986年3月\n\t\t\t\t\t1,599万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-1-15',\n\t\tendDate : '2024-3-4',\n\t\tid : '06973'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/34f1196d6c84b95a0eb4ebbcd63efa11.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "06973/34f1196d6c84b95a0eb4ebbcd63efa11.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/ba7eb714e548d0eb685fc01d28a354f8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06973/ba7eb714e548d0eb685fc01d28a354f8.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/9ab747ab41cdeb822144cb4308d94f53.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06973/9ab747ab41cdeb822144cb4308d94f53.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/cdc2171f727b2741d3016857749479a0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06973/cdc2171f727b2741d3016857749479a0.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/3ccb1942b2a984e078ffdc9009d730d7.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06973/3ccb1942b2a984e078ffdc9009d730d7.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/df9882393bfdb3cb0f1edc9b56c439da.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06973/df9882393bfdb3cb0f1edc9b56c439da.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/a448c6cdeacc508c43324f92cf093e7d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06973/a448c6cdeacc508c43324f92cf093e7d.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/65a206fdaad91/bc4e6e0bf16d6a0a2953eeb4cf37f468.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "06973/bc4e6e0bf16d6a0a2953eeb4cf37f468.jpg"
+    }
+  ],
+  "物件ID": "06973",
+  "ステータス": "有効"
+}

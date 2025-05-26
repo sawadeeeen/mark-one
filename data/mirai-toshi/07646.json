@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ライオンズマンション矢来町",
+  "部屋番号": "201号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ東西線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "東京都新宿区矢来町43",
+  "間取り": "2LDK",
+  "面積": 48.7,
+  "建築年月": "1980年6月",
+  "価格": 5199,
+  "オススメ情報": [
+    "売マンションライオンズマンション矢来町　201号室\n      新規リノベーション物件駅徒歩5分圏内複数路線利用可外壁タイル貼陽当り良好\n      \n\n\t\t更新日：2025/4/28次更新：2024/10/24-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ東西線　神楽坂　徒歩：3分\n\t\t\t\t\t東京都新宿区矢来町43\n\t\t\t\t\t2LDK\n\t\t\t\t\t48.7㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1980年6月\n\t\t\t\t\t5,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-12-9',\n\t\tendDate : '2025-2-26',\n\t\tid : '07646'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/215488ab8631e3c3853724b0e62dc051.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07646/215488ab8631e3c3853724b0e62dc051.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/d344fe08f553fbc01a51f66548d77063.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07646/d344fe08f553fbc01a51f66548d77063.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/2874d906e1edfa654f3b38a6acb4bf32.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/2874d906e1edfa654f3b38a6acb4bf32.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/3207ac67db8491492ac82c7edacff4af.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/3207ac67db8491492ac82c7edacff4af.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/ea10615956a7275c3efdab0da0b7e1bb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/ea10615956a7275c3efdab0da0b7e1bb.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/5221fc2485c07301afeee10dbd7e542a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/5221fc2485c07301afeee10dbd7e542a.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/f5f4a828f4864c4bec3e3e4e2386c3f0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/f5f4a828f4864c4bec3e3e4e2386c3f0.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/3e0218bf68db466ab1d0695c79936a9c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/3e0218bf68db466ab1d0695c79936a9c.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/415b572a0264466415e5875fad79ccd5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/415b572a0264466415e5875fad79ccd5.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/001da9c26aa1e98d5d13d69a625d76a5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/001da9c26aa1e98d5d13d69a625d76a5.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/5c92668a8511759bf5d36add61552e6a.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/5c92668a8511759bf5d36add61552e6a.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6710c2aea7455/609746897306d9a2178cf788590da322.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07646/609746897306d9a2178cf788590da322.jpg"
+    }
+  ],
+  "物件ID": "07646",
+  "ステータス": "有効"
+}

@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "NICライブステイツ戸塚ガーデン・金子ヴィラ",
+  "部屋番号": "712号室",
+  "交通": [
+    {
+      "路線名": "ブルーライン",
+      "駅名": "",
+      "徒歩時間": 1
+    }
+  ],
+  "所在地": "神奈川県横浜市戸塚区名瀬町52-1",
+  "間取り": "3LDK",
+  "面積": 60.15,
+  "建築年月": "1986年12月",
+  "価格": 2299,
+  "オススメ情報": [
+    "売マンションNICライブステイツ戸塚ガーデン・金子ヴィラ　712号室\n      新規リノベーション物件最上階陽当り良好眺望良好両面バルコニー\n      \n\n\t\t更新日：2025/3/17次更新：2024/4/4-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR東海道線、JR横須賀線、JR湘南新宿ライン、ブルーライン　戸塚　バス：6分「富士橋」バス停下車徒歩：1分\n\t\t\t\t\t神奈川県横浜市戸塚区名瀬町52-1\n\t\t\t\t\t3LDK\n\t\t\t\t\t60.15㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1986年12月\n\t\t\t\t\t2,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-4-15',\n\t\tendDate : '2024-6-20',\n\t\tid : '07237'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/db78362ab4627bd5c393eb1baf54fdb4.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07237/db78362ab4627bd5c393eb1baf54fdb4.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/8ce2208838598fa1db6bf7056a2dc702.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07237/8ce2208838598fa1db6bf7056a2dc702.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/949e658cc6ce4227df5b77b17f64dcd0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/949e658cc6ce4227df5b77b17f64dcd0.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/3464e50410f80ede3b8818c2ccc50785.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/3464e50410f80ede3b8818c2ccc50785.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/58bc4d5d91bce83b3437a8c7c83dbf82.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/58bc4d5d91bce83b3437a8c7c83dbf82.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/1ace42d3e5ead5fc337e77c83ba3e0d0.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/1ace42d3e5ead5fc337e77c83ba3e0d0.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/8f976820c0a3adc5717930d4623e2df9.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/8f976820c0a3adc5717930d4623e2df9.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/6c7b0d705894502b81583369f513ba2d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/6c7b0d705894502b81583369f513ba2d.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/725cf92a6e266bdd4252d7daa9f2c648.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/725cf92a6e266bdd4252d7daa9f2c648.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/8bc6030e9c8a21fcfa2947de8bcc322c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/8bc6030e9c8a21fcfa2947de8bcc322c.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/7fc28d7df7ca463a0220dddbd2a5ac1b.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/7fc28d7df7ca463a0220dddbd2a5ac1b.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6604e47366d3f/ec882ee22e228d1c5ef6106c955b81f4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07237/ec882ee22e228d1c5ef6106c955b81f4.jpg"
+    }
+  ],
+  "物件ID": "07237",
+  "ステータス": "有効"
+}

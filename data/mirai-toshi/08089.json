@@ -1,0 +1,48 @@
+{
+  "物件種別": "マンション",
+  "建物名": "グランスイート北小金",
+  "部屋番号": "214号室",
+  "交通": [
+    {
+      "路線名": "JR常磐線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "千葉県松戸市小金301-1",
+  "間取り": "4LDK",
+  "面積": 81.25,
+  "建築年月": "2007年8月",
+  "価格": 4699,
+  "オススメ情報": [
+    "売マンショングランスイート北小金　214号室\n      新規リノベーション物件南西向き・角部屋二面バルコニー宅配BOX有新耐震基準\n      \n\n\t\t更新日：2025/5/15次更新：2025/5/20-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t JR常磐線　北小金　徒歩：9分\n\t\t\t\t\t千葉県松戸市小金301-1\n\t\t\t\t\t4LDK\n\t\t\t\t\t81.25㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2007年8月\n\t\t\t\t\t4,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08089'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6822e93e6255c/042f012ba05002caf33fbd630204d6b7.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08089/042f012ba05002caf33fbd630204d6b7.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6822e93e6255c/96364712444f5f618c4fd84fe40b5fe1.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08089/96364712444f5f618c4fd84fe40b5fe1.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6822e93e6255c/a44ce84c82b62913f8d2699f2d4cc459.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08089/a44ce84c82b62913f8d2699f2d4cc459.jpg"
+    }
+  ],
+  "物件ID": "08089",
+  "ステータス": "有効"
+}

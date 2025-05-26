@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "大宮スカイ＆スクエア　ザ・タワー",
+  "部屋番号": "2715号室",
+  "交通": [
+    {
+      "路線名": "埼玉新都市交通伊奈線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "埼玉県さいたま市大宮区桜木町2丁目902",
+  "間取り": "2SLDK",
+  "面積": 70.82,
+  "建築年月": "2024年5月",
+  "価格": 13500,
+  "オススメ情報": [
+    "売マンション大宮スカイ＆スクエア　ザ・タワー　2715号室\n      新規リノベーション物件築浅マンション駅徒歩5分圏内複数路線利用可ペット飼育可(細則有)\n      \n\n\t\t更新日：2025/5/7次更新：2025/4/3-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線、JR宇都宮線、JR高崎線、JR湘南新宿ライン、JR埼京線、JR川越線、東武アーバンパークライン、埼玉新都市交通伊奈線　大宮　徒歩：5分\n\t\t\t\t\t埼玉県さいたま市大宮区桜木町2丁目902\n\t\t\t\t\t2SLDK\n\t\t\t\t\t70.82㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2024年5月\n\t\t\t\t\t13,500万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07814'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/1300f4dbbe14a6058e87364d46501e53.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07814/1300f4dbbe14a6058e87364d46501e53.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/ba9f6bea5be93c4d1d4ccc2cc575233c.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07814/ba9f6bea5be93c4d1d4ccc2cc575233c.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/7b0dacc6d73236d192fe1c19d6f2cd02.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07814/7b0dacc6d73236d192fe1c19d6f2cd02.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/96616e486bd5c97329d76787a4334ffb.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07814/96616e486bd5c97329d76787a4334ffb.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/a301b2eaaad967afdc96d1d1f24338f7.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07814/a301b2eaaad967afdc96d1d1f24338f7.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/53b485deecb18385499b719feb7e3eb2.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07814/53b485deecb18385499b719feb7e3eb2.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/17f521feb368ba3677b113d56be7132d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07814/17f521feb368ba3677b113d56be7132d.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e4fb7d0347b/2e3c874e1635af6ae22921ed2d3fddf2.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07814/2e3c874e1635af6ae22921ed2d3fddf2.jpg"
+    }
+  ],
+  "物件ID": "07814",
+  "ステータス": "有効"
+}

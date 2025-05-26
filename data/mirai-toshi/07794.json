@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シエルグランデふなばし海神",
+  "部屋番号": "1305号室",
+  "交通": [
+    {
+      "路線名": "東葉高速線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "千葉県船橋市海神2丁目22-1",
+  "間取り": "3LDK+WIC",
+  "面積": 81.03,
+  "建築年月": "2001年7月",
+  "価格": 6499,
+  "オススメ情報": [
+    "売マンションシエルグランデふなばし海神　1305号室\n      新規リノベーション物件大きなルーフバルコニー付南向き・陽当り・眺望良好大規模レジデンスオートロック付\n      \n\n\t\t更新日：2025/3/22次更新：2025/2/14-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東葉高速線　東海神　徒歩：3分\n\t\t\t\t\t千葉県船橋市海神2丁目22-1\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t81.03㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2001年7月\n\t\t\t\t\t6,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-2-25',\n\t\tendDate : '2025-5-23',\n\t\tid : '07794'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a5bc9150cf2/be84b2f2a9e8c9db8a0ed69a640cded1.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07794/be84b2f2a9e8c9db8a0ed69a640cded1.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a5bc9150cf2/1a1dff02d6e2a895926a02b820b4f99a.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07794/1a1dff02d6e2a895926a02b820b4f99a.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a5bc9150cf2/3c212f928d07b42a4738c3bc23e773de.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07794/3c212f928d07b42a4738c3bc23e773de.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a5bc9150cf2/e5e49854c23e583d8845da8592ca33ba.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07794/e5e49854c23e583d8845da8592ca33ba.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a5bc9150cf2/2a252623bd2e58b3256ffad136955897.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07794/2a252623bd2e58b3256ffad136955897.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a5bc9150cf2/38fb8dd93e89f51546a79b433ba6f442.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07794/38fb8dd93e89f51546a79b433ba6f442.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a5bc9150cf2/6bb014515b55685634b58cf6b00bc4e1.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07794/6bb014515b55685634b58cf6b00bc4e1.jpg"
+    }
+  ],
+  "物件ID": "07794",
+  "ステータス": "有効"
+}

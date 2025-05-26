@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "グランクロス川口本町",
+  "部屋番号": "1403号室",
+  "交通": [
+    {
+      "路線名": "JR京浜東北線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "埼玉県川口市本町3丁目6-19",
+  "間取り": "3LDK+WIC",
+  "面積": 78.02,
+  "建築年月": "2005年2月",
+  "価格": 6499,
+  "オススメ情報": [
+    "売マンショングランクロス川口本町　1403号室\n      新規リノベーション物件二面バルコニー・南西角部屋設備入れ替えのフルリフォームプライバシーに配慮したポーチ付ペット飼育可(一住戸2匹まで・細則有)\n      \n\n\t\t更新日：2025/3/17次更新：2024/7/26-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線　川口　徒歩：7分\n\t\t\t\t\t埼玉県川口市本町3丁目6-19\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t78.02㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2005年2月\n\t\t\t\t\t6,499万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-8-19',\n\t\tendDate : '2024-10-31',\n\t\tid : '07424'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/3a8a18c91c04808e81a5e471a2dcd7ae.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07424/3a8a18c91c04808e81a5e471a2dcd7ae.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/515ca62f9e7c4ec1640f68054e86ce0f.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07424/515ca62f9e7c4ec1640f68054e86ce0f.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/13c34bb5c7c9178007bb1ca46582cbb5.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/13c34bb5c7c9178007bb1ca46582cbb5.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/5d8b280181a6cb7b2b4c0b8c67437810.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/5d8b280181a6cb7b2b4c0b8c67437810.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/ab440120f6780da22c3908c5df9f3842.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/ab440120f6780da22c3908c5df9f3842.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/17f994dbae377bd5797b7d7ba383b6eb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/17f994dbae377bd5797b7d7ba383b6eb.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/884d54b85a004d786475dd3a7c90f99c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/884d54b85a004d786475dd3a7c90f99c.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/86635ad47a92365006ac86a04725fce9.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/86635ad47a92365006ac86a04725fce9.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/1e725b1932f87e7eba97647c0fe029b4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/1e725b1932f87e7eba97647c0fe029b4.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/f5c298653ecf4b50b7154de021737de4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/f5c298653ecf4b50b7154de021737de4.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/991efb7b8ae8e8e6e5c2d3cf4d337552.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/991efb7b8ae8e8e6e5c2d3cf4d337552.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6699ee36895e8/bce5cf2c0bf4f3faa4b528c9bf178145.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07424/bce5cf2c0bf4f3faa4b528c9bf178145.jpg"
+    }
+  ],
+  "物件ID": "07424",
+  "ステータス": "有効"
+}

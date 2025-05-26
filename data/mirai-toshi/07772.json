@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "エクラン大師公園",
+  "部屋番号": "704号室",
+  "交通": [
+    {
+      "路線名": "京急大師線",
+      "駅名": "",
+      "徒歩時間": 15
+    }
+  ],
+  "所在地": "神奈川県川崎市川崎区四谷上町3-12",
+  "間取り": "3LDK",
+  "面積": 59.31,
+  "建築年月": "1997年7月",
+  "価格": 3199,
+  "オススメ情報": [
+    "売マンションエクラン大師公園　704号室\n      新規リノベーション物件最上階三方角部屋宅配BOX有オートロック付\n      \n\n\t\t更新日：2025/4/22次更新：2025/3/24-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京急大師線　東門前　徒歩：15分\n\t\t\t\t\t神奈川県川崎市川崎区四谷上町3-12\n\t\t\t\t\t3LDK\n\t\t\t\t\t59.31㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年7月\n\t\t\t\t\t3,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-1-20',\n\t\tendDate : '2025-4-4',\n\t\tid : '07772'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/4b090c1b8b2879261f4a6429b06d4659.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07772/4b090c1b8b2879261f4a6429b06d4659.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/d293acd7789a610ca03754ecc92c4234.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07772/d293acd7789a610ca03754ecc92c4234.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/a0dc7bd1c90dfd84ebde8b4a4e9bf87e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/a0dc7bd1c90dfd84ebde8b4a4e9bf87e.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/0ceb1917303e6660bc16242a7b1da4c8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/0ceb1917303e6660bc16242a7b1da4c8.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/71ab54aed1ed8cde0e8b87eb192fab2d.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/71ab54aed1ed8cde0e8b87eb192fab2d.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/fdc323ceece7a8cad158adb207bb6b31.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/fdc323ceece7a8cad158adb207bb6b31.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/276e7b92a2afb03295c0f4aae85316cb.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/276e7b92a2afb03295c0f4aae85316cb.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/9e20023174244d60f7353c0f40155b80.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/9e20023174244d60f7353c0f40155b80.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/a043d1c7486a0d4bdc9b177b0e35a8c7.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/a043d1c7486a0d4bdc9b177b0e35a8c7.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/d8838d44c43da9d404a2abec9ba29fe8.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/d8838d44c43da9d404a2abec9ba29fe8.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/180f3782bccd27148e8188e8a3ca9a92.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/180f3782bccd27148e8188e8a3ca9a92.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d792d2875e0/7d6d25ec056993be778650a7ac18e943.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07772/7d6d25ec056993be778650a7ac18e943.jpg"
+    }
+  ],
+  "物件ID": "07772",
+  "ステータス": "有効"
+}

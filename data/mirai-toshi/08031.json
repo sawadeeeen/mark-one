@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "川口栄町ローヤルコーポ",
+  "部屋番号": "1002号室",
+  "交通": [
+    {
+      "路線名": "JR京浜東北線",
+      "駅名": "",
+      "徒歩時間": 8
+    }
+  ],
+  "所在地": "埼玉県川口市栄町2丁目3-13",
+  "間取り": "3LDK",
+  "面積": 65.0,
+  "建築年月": "1999年9月",
+  "価格": 5699,
+  "オススメ情報": [
+    "売マンション川口栄町ローヤルコーポ　1002号室\n      新規リノベーション物件2駅2路線利用可三方角部屋L字型バルコニー宅配BOX有\n      \n\n\t\t更新日：2025/5/16次更新：2025/4/26-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR京浜東北線　川口　徒歩：8分\n\t\t\t\t\t埼玉県川口市栄町2丁目3-13\n\t\t\t\t\t3LDK\n\t\t\t\t\t65㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1999年9月\n\t\t\t\t\t5,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-5-7',\n\t\tendDate : '2025-7-19',\n\t\tid : '08031'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680351eced365/4bd6aaffef0e7453924675fd949bcb11.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08031/4bd6aaffef0e7453924675fd949bcb11.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680351eced365/f2ebdec8593b8ae1cb5c24cf202090dd.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08031/f2ebdec8593b8ae1cb5c24cf202090dd.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680351eced365/b5f3a53eba5c9f13921dca4d7ab8fb03.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08031/b5f3a53eba5c9f13921dca4d7ab8fb03.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680351eced365/55ca8e87397c8fa0936687d92e1cbbc5.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08031/55ca8e87397c8fa0936687d92e1cbbc5.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680351eced365/261a14f7d2a59d1a2869b2967d29fb6c.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08031/261a14f7d2a59d1a2869b2967d29fb6c.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680351eced365/4330da0a6101d06faaae087237cf0914.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "08031/4330da0a6101d06faaae087237cf0914.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/680351eced365/24e27013c701472234f701a1f998fbfb.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08031/24e27013c701472234f701a1f998fbfb.jpg"
+    }
+  ],
+  "物件ID": "08031",
+  "ステータス": "有効"
+}

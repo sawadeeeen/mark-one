@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シーズガーデン多摩永山",
+  "部屋番号": "402号室",
+  "交通": [
+    {
+      "路線名": "京王相模原線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都多摩市乞田1245",
+  "間取り": "3LDK+WIC",
+  "面積": 71.24,
+  "建築年月": "2006年3月",
+  "価格": 4699,
+  "オススメ情報": [
+    "売マンションシーズガーデン多摩永山　402号室\n      新規リフォーム物件二重床・二重天井 駐車場全戸1台ずつ利用可能(無償) オートロック付 宅配BOX有\n      \n\n\t\t更新日：2025/4/4次更新：2025/3/20-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京王相模原線　京王永山　徒歩：9分\n\t\t\t\t\t東京都多摩市乞田1245\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t71.24㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2006年3月\n\t\t\t\t\t4,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-10',\n\t\tendDate : '2025-6-20',\n\t\tid : '08039'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d24be297d43/748daf8317899725e36bd30c244b1429.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08039/748daf8317899725e36bd30c244b1429.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d24be297d43/e4a5b8e3ef8435874563ada20e66964d.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08039/e4a5b8e3ef8435874563ada20e66964d.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d24be297d43/c21b47a40570cb18b526448a1a3c94b3.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08039/c21b47a40570cb18b526448a1a3c94b3.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d24be297d43/8384d2c54b45f5337fde8a5b04e6ca18.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08039/8384d2c54b45f5337fde8a5b04e6ca18.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d24be297d43/4279c7a9cb12c210303f228fa957ea67.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08039/4279c7a9cb12c210303f228fa957ea67.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67d24be297d43/47b7f76b321797926d4f42d33763a2fa.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08039/47b7f76b321797926d4f42d33763a2fa.jpg"
+    }
+  ],
+  "物件ID": "08039",
+  "ステータス": "有効"
+}

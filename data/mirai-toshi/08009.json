@@ -1,0 +1,83 @@
+{
+  "物件種別": "マンション",
+  "建物名": "シティハウス小金井公園　D",
+  "部屋番号": "546号室",
+  "交通": [
+    {
+      "路線名": "西武新宿線",
+      "駅名": "",
+      "徒歩時間": 11
+    }
+  ],
+  "所在地": "東京都小平市花小金井南町1丁目3-8",
+  "間取り": "",
+  "面積": 67.67,
+  "建築年月": "2022年2月",
+  "価格": 6199,
+  "オススメ情報": [
+    "売マンションシティハウス小金井公園　D546号室\n      新規リフォーム物件複数路線利用可令和4年築ペット飼育可(細則有)第一種低層住居専用地域\n      \n\n\t\t更新日：2025/5/19次更新：2025/4/10-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線　花小金井　徒歩：11分\n\t\t\t\t\t東京都小平市花小金井南町1丁目3-8\n\t\t\t\t\t\n\t\t\t\t\t67.67㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2022年2月\n\t\t\t\t\t6,199万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-28',\n\t\tendDate : '2025-5-16',\n\t\tid : '08009'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/2e2482db0c47dd536b6869ef469722fe.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "08009/2e2482db0c47dd536b6869ef469722fe.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/a6997b5aad6b8745e88eda0652633855.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08009/a6997b5aad6b8745e88eda0652633855.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/219c5ca39331734a28d692e87d09f266.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08009/219c5ca39331734a28d692e87d09f266.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/d1a1f9d6518fd2ce013d49df528187c9.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08009/d1a1f9d6518fd2ce013d49df528187c9.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/c5a8df3529fb7c760a1be9f581fca793.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "08009/c5a8df3529fb7c760a1be9f581fca793.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/e46c7009ae128308a344d2a07dd43e51.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08009/e46c7009ae128308a344d2a07dd43e51.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/3ac64f0ecc94fa1017247acdcd4516af.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08009/3ac64f0ecc94fa1017247acdcd4516af.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67edf84ea9693/2b353aaa73b9aaf6dcbc67cd2e9b69c4.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "08009/2b353aaa73b9aaf6dcbc67cd2e9b69c4.jpg"
+    }
+  ],
+  "物件ID": "08009",
+  "ステータス": "有効"
+}

@@ -1,0 +1,69 @@
+{
+  "物件種別": "マンション",
+  "建物名": "マイキャッスル武蔵関",
+  "部屋番号": "105号室",
+  "交通": [
+    {
+      "路線名": "西武新宿線",
+      "駅名": "",
+      "徒歩時間": 9
+    }
+  ],
+  "所在地": "東京都練馬区関町北5丁目15-30",
+  "間取り": "3DK+WIC",
+  "面積": 60.08,
+  "建築年月": "1998年2月",
+  "価格": 4399,
+  "オススメ情報": [
+    "売マンションマイキャッスル武蔵関　105号室\n      新規リノベーション物件オートロック付宅配BOX有「関町北小学校」バス停徒歩1分全室窓有\n      \n\n\t\t更新日：2025/3/17次更新：2025/3/1-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t西武新宿線　武蔵関　徒歩：9分\n\t\t\t\t\t東京都練馬区関町北5丁目15-30\n\t\t\t\t\t3DK+WIC\n\t\t\t\t\t60.08㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1998年2月\n\t\t\t\t\t4,399万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-11-28',\n\t\tendDate : '2025-5-30',\n\t\tid : '07857'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b96b1556ada/e0040671cdf6aafb70dd016271e85102.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07857/e0040671cdf6aafb70dd016271e85102.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b96b1556ada/8eb7de6561027add3d62751a0eb4e067.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07857/8eb7de6561027add3d62751a0eb4e067.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b96b1556ada/15a93159d97a9f1c8ddbefa4e5358426.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07857/15a93159d97a9f1c8ddbefa4e5358426.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b96b1556ada/9fddcfcabb7242c8576cfc0da6ef6e51.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07857/9fddcfcabb7242c8576cfc0da6ef6e51.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b96b1556ada/dfd4f2dbe9e25205fe1f6ccad7a0754d.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07857/dfd4f2dbe9e25205fe1f6ccad7a0754d.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67b96b1556ada/c96efe2d05cca889c54767e2d9d62e52.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07857/c96efe2d05cca889c54767e2d9d62e52.jpg"
+    }
+  ],
+  "物件ID": "07857",
+  "ステータス": "有効"
+}

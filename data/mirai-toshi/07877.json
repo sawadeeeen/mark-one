@@ -1,0 +1,55 @@
+{
+  "物件種別": "マンション",
+  "建物名": "クレストフォルム横浜リヴァシス",
+  "部屋番号": "803号室",
+  "交通": [
+    {
+      "路線名": "JR南武線",
+      "駅名": "",
+      "徒歩時間": 17
+    }
+  ],
+  "所在地": "神奈川県横浜市鶴見区上末吉2丁目7-1",
+  "間取り": "2SLDK+WIC",
+  "面積": 78.2,
+  "建築年月": "2004年1月",
+  "価格": 4899,
+  "オススメ情報": [
+    "売マンションクレストフォルム横浜リヴァシス　803号室\n      新規リフォーム物件大規模レジデンスペット飼育可(細則有)宅配BOX有オートロック付\n      \n\n\t\t更新日：2025/3/24次更新：2025/3/29-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR南武線　尻手　徒歩：17分\n\t\t\t\t\t神奈川県横浜市鶴見区上末吉2丁目7-1\n\t\t\t\t\t2SLDK+WIC\n\t\t\t\t\t78.2㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2004年1月\n\t\t\t\t\t4,899万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-7',\n\t\tendDate : '2025-6-27',\n\t\tid : '07877'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de608cc727f/8585d65914988ee044135e8654bfbec6.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07877/8585d65914988ee044135e8654bfbec6.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de608cc727f/e542ab7bf4539ce9ca78da13152feb23.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07877/e542ab7bf4539ce9ca78da13152feb23.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de608cc727f/4a36b27ec629a673f78cd98483683379.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07877/4a36b27ec629a673f78cd98483683379.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de608cc727f/c77dea6ad2290d3724ae43589d89c335.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07877/c77dea6ad2290d3724ae43589d89c335.jpg"
+    }
+  ],
+  "物件ID": "07877",
+  "ステータス": "有効"
+}

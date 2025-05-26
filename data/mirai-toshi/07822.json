@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "メゾンドールニュー明石",
+  "部屋番号": "505号室",
+  "交通": [
+    {
+      "路線名": "東京メトロ日比谷線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都中央区明石町2-16",
+  "間取り": "2LDK",
+  "面積": 54.96,
+  "建築年月": "1979年4月",
+  "価格": 6999,
+  "オススメ情報": [
+    "売マンションメゾンドールニュー明石　505号室\n      新規リノベーション物件再開発エリア中央区アドレスL字型バルコニー眺望良好\n      \n\n\t\t更新日：2025/3/13次更新：2025/3/6-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t東京メトロ日比谷線　築地　徒歩：5分\n\t\t\t\t\t東京都中央区明石町2-16\n\t\t\t\t\t2LDK\n\t\t\t\t\t54.96㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1979年4月\n\t\t\t\t\t6,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-3',\n\t\tendDate : '2025-5-22',\n\t\tid : '07822'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c00c567c0f5/565ca865ea9a409169ab5a795a972aec.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07822/565ca865ea9a409169ab5a795a972aec.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c00c567c0f5/0a15a8b7955be20a736753d4b7b37ee2.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07822/0a15a8b7955be20a736753d4b7b37ee2.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c00c567c0f5/3f6fd669ec549e2e866e05ef43157f75.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07822/3f6fd669ec549e2e866e05ef43157f75.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c00c567c0f5/d74261196ff99ca6f324355e0d0abc71.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07822/d74261196ff99ca6f324355e0d0abc71.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c00c567c0f5/bc1cfe744adc91159e9822edcc79ecff.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07822/bc1cfe744adc91159e9822edcc79ecff.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c00c567c0f5/1e587ef0b0259b12b51a3614a357e0de.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07822/1e587ef0b0259b12b51a3614a357e0de.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67c00c567c0f5/0d18e774c4fabe1a3f008c5af5c5eb44.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07822/0d18e774c4fabe1a3f008c5af5c5eb44.jpg"
+    }
+  ],
+  "物件ID": "07822",
+  "ステータス": "有効"
+}

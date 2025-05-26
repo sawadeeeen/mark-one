@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "レクセルマンション新八柱",
+  "部屋番号": "207号室",
+  "交通": [
+    {
+      "路線名": "新京成線",
+      "駅名": "",
+      "徒歩時間": 3
+    }
+  ],
+  "所在地": "千葉県松戸市金ケ作27-5",
+  "間取り": "3LDK",
+  "面積": 68.84,
+  "建築年月": "1997年3月",
+  "価格": 3099,
+  "オススメ情報": [
+    "売マンションレクセルマンション新八柱　207号室\n      新規リノベーション物件角部屋オートロック付宅配BOX有長期修繕計画有\n      \n\n\t\t更新日：2025/5/19次更新：2024/9/21-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t新京成線　八柱　徒歩：3分\n\t\t\t\t\t千葉県松戸市金ケ作27-5\n\t\t\t\t\t3LDK\n\t\t\t\t\t68.84㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1997年3月\n\t\t\t\t\t3,099万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-9-30',\n\t\tendDate : '2024-12-18',\n\t\tid : '07534'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/2dc90c56025b5b44fe061c02649c5dd4.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07534/2dc90c56025b5b44fe061c02649c5dd4.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/4dcf18dbc7b31d3e9af3c10c6e20b3d2.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07534/4dcf18dbc7b31d3e9af3c10c6e20b3d2.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/f5b007a46489e3d4ceb6ba02d3d0a410.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/f5b007a46489e3d4ceb6ba02d3d0a410.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/c319bc62d3e22afc900c91baa07da50c.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/c319bc62d3e22afc900c91baa07da50c.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/ae22cae6e0b3731756dc637ed0538355.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/ae22cae6e0b3731756dc637ed0538355.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/2b3d984a69ed623a84827cca6fb7a42f.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/2b3d984a69ed623a84827cca6fb7a42f.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/40c1e4ea3fcd9bbc1d78a01b6dafebb6.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/40c1e4ea3fcd9bbc1d78a01b6dafebb6.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/a436207e621bfe7e9becb2457cdd7f2e.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/a436207e621bfe7e9becb2457cdd7f2e.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/8519552023f77e7a2c481704a8ff11c7.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/8519552023f77e7a2c481704a8ff11c7.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/5fbe2755975625690202e33d487e89b4.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/5fbe2755975625690202e33d487e89b4.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/2eddef2b04437df914d562c797455164.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/2eddef2b04437df914d562c797455164.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/66e4ed8612d57/afc0df0ad3077f954c5b71cac1240e01.jpg",
+      "alt": "画像",
+      "caption": "内装完了後",
+      "saved_path": "07534/afc0df0ad3077f954c5b71cac1240e01.jpg"
+    }
+  ],
+  "物件ID": "07534",
+  "ステータス": "有効"
+}

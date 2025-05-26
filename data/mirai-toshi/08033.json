@@ -1,0 +1,48 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ニュータウンオークボ",
+  "部屋番号": "1003号室",
+  "交通": [
+    {
+      "路線名": "西武新宿線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都新宿区大久保3丁目10-1",
+  "間取り": "2LDK",
+  "面積": 53.04,
+  "建築年月": "1981年3月",
+  "価格": 5999,
+  "オススメ情報": [
+    "売マンションニュータウンオークボ　1003号室\n      新規リノベーション物件大規模レジデンス管理体制良好2駅4路線利用可駅徒歩5分圏内\n      \n\n\t\t更新日：2025/5/12次更新：2025/4/14-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR山手線、東京メトロ東西線、西武新宿線　高田馬場　徒歩：5分\n\t\t\t\t\t東京都新宿区大久保3丁目10-1\n\t\t\t\t\t2LDK\n\t\t\t\t\t53.04㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1981年3月\n\t\t\t\t\t5,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '08033'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f349676a4a1/f975086699aa1c350799e8861e3ae57a.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "08033/f975086699aa1c350799e8861e3ae57a.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f349676a4a1/f79fb03bb64bcde799ad0178321d1260.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "08033/f79fb03bb64bcde799ad0178321d1260.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67f349676a4a1/aa607a6a4e61a6d20caebdad7f1d80d4.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "08033/aa607a6a4e61a6d20caebdad7f1d80d4.jpg"
+    }
+  ],
+  "物件ID": "08033",
+  "ステータス": "有効"
+}

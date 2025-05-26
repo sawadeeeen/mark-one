@@ -1,0 +1,111 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ユーハウス植園",
+  "部屋番号": "202号室",
+  "交通": [
+    {
+      "路線名": "名古屋市営地下鉄東山線",
+      "駅名": "",
+      "徒歩時間": 18
+    }
+  ],
+  "所在地": "愛知県名古屋市名東区植園町1丁目25",
+  "間取り": "3LDK",
+  "面積": 84.98,
+  "建築年月": "1995年7月",
+  "価格": 2299,
+  "オススメ情報": [
+    "売マンションユーハウス植園　202号室\n      新規リフォーム物件 対面キッチン キッチン⇔洗面室の便利な回遊動線 全居室収納有 全居室5畳以上\n      \n\n\t\t更新日：2025/5/12次更新：2025/2/17-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t名古屋市営地下鉄東山線　星ヶ丘　徒歩：18分、バス：8分「植園住宅」バス停下車徒歩：4分\n\t\t\t\t\t愛知県名古屋市名東区植園町1丁目25\n\t\t\t\t\t3LDK\n\t\t\t\t\t84.98㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1995年7月\n\t\t\t\t\t2,299万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-3-1',\n\t\tendDate : '2025-3-20',\n\t\tid : '07831'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/80e39da0a7e1e4a8ea3340b4511a6195.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07831/80e39da0a7e1e4a8ea3340b4511a6195.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/8438fa0a7336f2a339b715306311e599.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07831/8438fa0a7336f2a339b715306311e599.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/f5bf7b4e5a5393cdbfd74918cc703e5b.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/f5bf7b4e5a5393cdbfd74918cc703e5b.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/4808b5b92392efa5b112c31ba3264369.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/4808b5b92392efa5b112c31ba3264369.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/62a0ca2fffccd2aa857e442ddf984a50.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/62a0ca2fffccd2aa857e442ddf984a50.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/3260b14a1d5b6008fd28f6ab0ef7a294.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/3260b14a1d5b6008fd28f6ab0ef7a294.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/604655664d1d3fb341ee456b00a94fc9.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/604655664d1d3fb341ee456b00a94fc9.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/e5b2e490c026c3d6e24484664abda152.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/e5b2e490c026c3d6e24484664abda152.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/4c4768b05b00785abf52523f9f301dd5.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/4c4768b05b00785abf52523f9f301dd5.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/d82c06a49f2e424dd1914ed141e08a51.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/d82c06a49f2e424dd1914ed141e08a51.jpg"
+    },
+    {
+      "index": 10,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/60bf8daab670aab1505821bbb0f3e36c.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/60bf8daab670aab1505821bbb0f3e36c.jpg"
+    },
+    {
+      "index": 11,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67a99edfe191f/d0c3e2595581db880682dc688112a9e3.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07831/d0c3e2595581db880682dc688112a9e3.jpg"
+    }
+  ],
+  "物件ID": "07831",
+  "ステータス": "有効"
+}

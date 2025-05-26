@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "セザール京王堀之内",
+  "部屋番号": "101号室",
+  "交通": [
+    {
+      "路線名": "京王相模原線",
+      "駅名": "",
+      "徒歩時間": 7
+    }
+  ],
+  "所在地": "東京都八王子市堀之内3丁目1-6",
+  "間取り": "3LDK",
+  "面積": 68.68,
+  "建築年月": "2002年3月",
+  "価格": 3699,
+  "オススメ情報": [
+    "売マンションセザール京王堀之内　101号室\n      新規リノベーション物件 南西向き 専用庭(約12坪)付 ペット飼育可(2匹以内・細則有) 宅配BOX有\n      \n\n\t\t更新日：2025/3/24次更新：2025/3/29-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t京王相模原線　京王堀之内　徒歩：7分\n\t\t\t\t\t東京都八王子市堀之内3丁目1-6\n\t\t\t\t\t3LDK\n\t\t\t\t\t68.68㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2002年3月\n\t\t\t\t\t3,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-7',\n\t\tendDate : '2025-6-17',\n\t\tid : '07986'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de609a144d1/687e868f1c1fe8d6902371d0b9d992cd.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07986/687e868f1c1fe8d6902371d0b9d992cd.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de609a144d1/a7536ca5e83df8fcabd2a73d66405746.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07986/a7536ca5e83df8fcabd2a73d66405746.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de609a144d1/e82ee9c460415152ae4e3dae8c6ba9a9.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07986/e82ee9c460415152ae4e3dae8c6ba9a9.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de609a144d1/9dc1cdcb9a6f70e9cc0a764ff95d2132.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07986/9dc1cdcb9a6f70e9cc0a764ff95d2132.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de609a144d1/d42fd279344a0ed0bbea2e8447b2f9dd.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07986/d42fd279344a0ed0bbea2e8447b2f9dd.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de609a144d1/f7630302b68bdea4a7b6b6246f951a98.jpg",
+      "alt": "画像",
+      "caption": "仕様イメージ",
+      "saved_path": "07986/f7630302b68bdea4a7b6b6246f951a98.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67de609a144d1/dd065d0f8cfabc4e069ada9a9b5537e1.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07986/dd065d0f8cfabc4e069ada9a9b5537e1.jpg"
+    }
+  ],
+  "物件ID": "07986",
+  "ステータス": "有効"
+}

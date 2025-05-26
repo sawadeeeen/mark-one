@@ -1,0 +1,97 @@
+{
+  "物件種別": "マンション",
+  "建物名": "ステイツ千里・藤白台",
+  "部屋番号": "108号室",
+  "交通": [
+    {
+      "路線名": "阪急千里線",
+      "駅名": "",
+      "徒歩時間": 11
+    }
+  ],
+  "所在地": "大阪府吹田市藤白台1丁目1-5",
+  "間取り": "3LDK+WIC",
+  "面積": 82.56,
+  "建築年月": "1994年11月",
+  "価格": 3699,
+  "オススメ情報": [
+    "売マンションステイツ千里・藤白台　108号室\n      新規リノベーション物件始発駅三方角部屋L字型バルコニーオートロック付\n      \n\n\t\t更新日：2025/4/14次更新：2024/12/12-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\t阪急千里線　北千里　徒歩：11分\n\t\t\t\t\t大阪府吹田市藤白台1丁目1-5\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t82.56㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t1994年11月\n\t\t\t\t\t3,699万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2024-12-5',\n\t\tendDate : '2025-1-31',\n\t\tid : '07748'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/eeb9778c061514072021b84335d240d2.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07748/eeb9778c061514072021b84335d240d2.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/d6f8c26df32273c4e26f2dcac62203fc.jpg",
+      "alt": "画像",
+      "caption": "外観",
+      "saved_path": "07748/d6f8c26df32273c4e26f2dcac62203fc.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/add13182db164070c9e8875005b09c81.jpg",
+      "alt": "画像",
+      "caption": "眺望",
+      "saved_path": "07748/add13182db164070c9e8875005b09c81.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/8999b9a86cb1ceedb6159fd337d88ac8.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07748/8999b9a86cb1ceedb6159fd337d88ac8.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/9942c2f5f87878d89ea3ec3b0a4a0a38.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07748/9942c2f5f87878d89ea3ec3b0a4a0a38.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/4e7eb489aa607e5329a06026e35a94b5.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07748/4e7eb489aa607e5329a06026e35a94b5.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/8a17c10a858df8d3a1d8ccf9ef993b07.jpg",
+      "alt": "画像",
+      "caption": "室内",
+      "saved_path": "07748/8a17c10a858df8d3a1d8ccf9ef993b07.jpg"
+    },
+    {
+      "index": 7,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/7dde96669338349d697577daa1474005.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07748/7dde96669338349d697577daa1474005.jpg"
+    },
+    {
+      "index": 8,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/a18da80a6e20ada7892e93b8eae4be96.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07748/a18da80a6e20ada7892e93b8eae4be96.jpg"
+    },
+    {
+      "index": 9,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67510d7fb87e5/f9216056a847684181393087c7d052ef.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07748/f9216056a847684181393087c7d052ef.jpg"
+    }
+  ],
+  "物件ID": "07748",
+  "ステータス": "有効"
+}

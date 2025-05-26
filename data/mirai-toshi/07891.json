@@ -1,0 +1,76 @@
+{
+  "物件種別": "マンション",
+  "建物名": "プレミアスイート外苑の杜",
+  "部屋番号": "505号室",
+  "交通": [
+    {
+      "路線名": "JR中央総武線",
+      "駅名": "",
+      "徒歩時間": 5
+    }
+  ],
+  "所在地": "東京都新宿区南元町14-2",
+  "間取り": "2LDK",
+  "面積": 55.13,
+  "建築年月": "2015年2月",
+  "価格": 12999,
+  "オススメ情報": [
+    "売マンションプレミアスイート外苑の杜　505号室\n      新規リノベーション物件駅徒歩5分圏内複数路線利用可ペット飼育可(細則有)宅配BOX有\n      \n\n\t\t更新日：2025/5/16次更新：2025/5/23-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR中央総武線　信濃町　徒歩：5分\n\t\t\t\t\t東京都新宿区南元町14-2\n\t\t\t\t\t2LDK\n\t\t\t\t\t55.13㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2015年2月\n\t\t\t\t\t12,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '0-0-0',\n\t\tendDate : '0-0-0',\n\t\tid : '07891'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6826b96b3d8cd/5f8e18c3c11f09db523249fbabd4b38a.jpg",
+      "alt": "間取り図",
+      "caption": "（仮）",
+      "saved_path": "07891/5f8e18c3c11f09db523249fbabd4b38a.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6826b96b3d8cd/10350985c739ec9bf37ce5cbc235fc32.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07891/10350985c739ec9bf37ce5cbc235fc32.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6826b96b3d8cd/258fa440315d64c7591d09f39e24155f.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07891/258fa440315d64c7591d09f39e24155f.jpg"
+    },
+    {
+      "index": 3,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6826b96b3d8cd/93ecc8fe50d9b7713a0f2fefc7805688.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07891/93ecc8fe50d9b7713a0f2fefc7805688.jpg"
+    },
+    {
+      "index": 4,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6826b96b3d8cd/0e6f664e278eb5b40ac15ae4245036f3.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07891/0e6f664e278eb5b40ac15ae4245036f3.jpg"
+    },
+    {
+      "index": 5,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6826b96b3d8cd/cbb5447d9773e744d1ac7779157915a5.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07891/cbb5447d9773e744d1ac7779157915a5.jpg"
+    },
+    {
+      "index": 6,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/6826b96b3d8cd/9e514a05c7a67a483cd59aa2b2caabf1.jpg",
+      "alt": "画像",
+      "caption": "周辺環境",
+      "saved_path": "07891/9e514a05c7a67a483cd59aa2b2caabf1.jpg"
+    }
+  ],
+  "物件ID": "07891",
+  "ステータス": "有効"
+}

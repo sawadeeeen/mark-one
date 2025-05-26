@@ -1,0 +1,48 @@
+{
+  "物件種別": "マンション",
+  "建物名": "エクセレントスクエア西船橋",
+  "部屋番号": "303号室",
+  "交通": [
+    {
+      "路線名": "東葉高速線",
+      "駅名": "",
+      "徒歩時間": 15
+    }
+  ],
+  "所在地": "千葉県船橋市西船7丁目5-58",
+  "間取り": "3LDK+WIC",
+  "面積": 68.57,
+  "建築年月": "2012年5月",
+  "価格": 3999,
+  "オススメ情報": [
+    "売マンションエクセレントスクエア西船橋　303号室\n      新規リフォーム物件オートロック付ペット飼育可(細則有)宅配BOX有長期修繕計画有\n      \n\n\t\t更新日：2025/3/28次更新：2025/4/1-->\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t交通",
+    "所在地\n\t\t\t\t\t間取り",
+    "面積\n\t\t\t\t\t物件種別",
+    "建築年数\n\t\t\t\t価格\n\t\t\t\t\n\t\t\t\t\tJR総武線、JR武蔵野線、JR京葉線、東京メトロ東西線、東葉高速線　西船橋　徒歩：15分\n\t\t\t\t\t千葉県船橋市西船7丁目5-58\n\t\t\t\t\t3LDK+WIC\n\t\t\t\t\t68.57㎡\n\t\t\t\t\tマンション\n\t\t\t\t\t2012年5月\n\t\t\t\t\t3,999万円\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n 内装工事進行状況\n\n\n$(function(){\n\tnew progress({\n\t\tstartDate : '2025-4-8',\n\t\tendDate : '2025-5-7',\n\t\tid : '07958'\n\t});\n});\n\n\n\t\n\t解体 \n\t大工設備工事 \n\t内装工事 \n\t内装工事完了\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t工事完了"
+  ],
+  "画像": [
+    {
+      "index": 0,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263ac5c8c4/6e7d14a958a87fdd819892289687aadc.jpg",
+      "alt": "間取り図",
+      "caption": "",
+      "saved_path": "07958/6e7d14a958a87fdd819892289687aadc.jpg"
+    },
+    {
+      "index": 1,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263ac5c8c4/f7d2e8e9e45e186d4ef146e428d7ded9.jpg",
+      "alt": "画像",
+      "caption": "エントランス",
+      "saved_path": "07958/f7d2e8e9e45e186d4ef146e428d7ded9.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://mirai-toshi.co.jp/estate/file/item/67e263ac5c8c4/9a848213c690bf49d1e4778e90fc53e6.jpg",
+      "alt": "画像",
+      "caption": "共用部分",
+      "saved_path": "07958/9a848213c690bf49d1e4778e90fc53e6.jpg"
+    }
+  ],
+  "物件ID": "07958",
+  "ステータス": "有効"
+}
